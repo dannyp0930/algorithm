@@ -1,3 +1,5 @@
+# DP
+
 N = int(input())        # 정수 N
 memo = [0, 0, 1, 1]     # N이 1, 2, 3일 때 미리 계산
 for i in range(4, N + 1):
