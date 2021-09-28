@@ -26,3 +26,5 @@
 | 문제              | 출처                                  |
 | ----------------- | ------------------------------------- |
 | BOJ_15649_N과M(1) | https://www.acmicpc.net/problem/15649 |
+| BOJ_15650_N과M(2) | https://www.acmicpc.net/problem/15650 |
+
