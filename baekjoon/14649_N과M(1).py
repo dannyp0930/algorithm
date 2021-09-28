@@ -1,19 +1,17 @@
 # 백트래킹, 순열
 
-def perm(cnt):
-    if cnt == M:
-        print(*arr)
+def perm():
+    if len(stack) == M:
+        print(*stack)
         return
     for i in range(1, N + 1):
-        if not visited[i]:
-            visited[i] = 1
-            arr.append(i)
-            perm(cnt + 1)
-            visited[i] = 0
-            arr.pop()
+        if i not in stack:
+            stack.append(i)
+            perm()
+            stack.pop()
 
 
 N, M = map(int, input().split())
 visited = [0] * (N + 1)
-arr = []
-perm(0)
+stack = []
+perm()
