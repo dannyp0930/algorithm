@@ -5,10 +5,9 @@ def comb(cnt):
         print(*stack)
         return
     for i in range(cnt, N + 1):
-        if i not in stack:
-            stack.append(i)
-            comb(i + 1)
-            stack.pop()
+        stack.append(i)
+        comb(i + 1)
+        stack.pop()
 
 
 N, M = map(int, input().split())
