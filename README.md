@@ -2,11 +2,12 @@
 
 ## DP
 
-| 문제                    | 출처                                 |
-| ----------------------- | ------------------------------------ |
-| BOJ_1463_1로 만들기     | https://www.acmicpc.net/problem/1463 |
-| BOJ_9095_1, 2, 3 더하기 | https://www.acmicpc.net/problem/9095 |
-| BOJ_1003_피보나치 함수  | https://www.acmicpc.net/problem/1003 |
+| 문제                    | 출처                                  |
+| ----------------------- | ------------------------------------- |
+| BOJ_1463_1로 만들기     | https://www.acmicpc.net/problem/1463  |
+| BOJ_9095_1, 2, 3 더하기 | https://www.acmicpc.net/problem/9095  |
+| BOJ_1003_피보나치 함수  | https://www.acmicpc.net/problem/1003  |
+| BOJ_11726_2xN 타일링    | https://www.acmicpc.net/problem/11726 |
 
 
 
