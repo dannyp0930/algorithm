@@ -20,6 +20,7 @@
 | BOJ_2667_단지번호붙이기 | https://www.acmicpc.net/problem/2667  |
 | SWEA_2814_최장경로      | SWEA/CODE/2814                        |
 | BOJ_10026_적록색약      | https://www.acmicpc.net/problem/10026 |
+| BOJ_1012_유기농 배추    | https://www.acmicpc.net/problem/1012  |
 
 
 
