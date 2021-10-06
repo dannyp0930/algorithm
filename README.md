@@ -32,6 +32,7 @@
 | BOJ_15650_N과M(2) | https://www.acmicpc.net/problem/15650 |
 | BOJ_15651_N과M(3) | https://www.acmicpc.net/problem/15651 |
 | BOJ_15652_N과M(4) | https://www.acmicpc.net/problem/15652 |
+| BOJ_2798_블랙잭   | https://www.acmicpc.net/problem/2798  |
 
 
 
