@@ -9,6 +9,7 @@
 | BOJ_1003_피보나치 함수  | https://www.acmicpc.net/problem/1003  |
 | BOJ_11726_2xN 타일링    | https://www.acmicpc.net/problem/11726 |
 | BOJ_1159_RGB 거리       | https://www.acmicpc.net/problem/1149  |
+| BOJ_2579_계단 오르기    | https://www.acmicpc.net/problem/2579  |
 
 
 
