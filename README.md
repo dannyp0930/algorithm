@@ -62,8 +62,9 @@
 
 ## A형 대비 문제
 
-| 문제                  | 출처                                  |
-| --------------------- | ------------------------------------- |
-| BOJ_114591_퇴사       | https://www.acmicpc.net/problem/14501 |
-| BOJ_14503_로봇 청소기 | https://www.acmicpc.net/problem/14503 |
+| 문제                      | 출처                                  |
+| ------------------------- | ------------------------------------- |
+| BOJ_14501_퇴사            | https://www.acmicpc.net/problem/14501 |
+| BOJ_14503_로봇 청소기     | https://www.acmicpc.net/problem/14503 |
+| BOJ_14888_연산자 끼워넣기 | https://www.acmicpc.net/problem/14888 |
 
