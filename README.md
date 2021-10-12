@@ -23,6 +23,7 @@
 | SWEA_2814_최장경로      | SWEA/CODE/2814                        |
 | BOJ_10026_적록색약      | https://www.acmicpc.net/problem/10026 |
 | BOJ_1012_유기농 배추    | https://www.acmicpc.net/problem/1012  |
+| BOJ_7576_토마토         | https://www.acmicpc.net/problem/7576  |
 
 
 
