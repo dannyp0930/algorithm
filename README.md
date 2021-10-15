@@ -11,6 +11,7 @@
 | BOJ_1159_RGB 거리       | https://www.acmicpc.net/problem/1149  |
 | BOJ_2579_계단 오르기    | https://www.acmicpc.net/problem/2579  |
 | BOJ_2913_이친수         | https://www.acmicpc.net/problem/2193  |
+| BOJ_1932_정수 삼각형    | https://www.acmicpc.net/problem/1932  |
 
 
 
