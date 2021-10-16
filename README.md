@@ -12,6 +12,7 @@
 | BOJ_2579_계단 오르기    | https://www.acmicpc.net/problem/2579  |
 | BOJ_2913_이친수         | https://www.acmicpc.net/problem/2193  |
 | BOJ_1932_정수 삼각형    | https://www.acmicpc.net/problem/1932  |
+| BOJ_2156_포도주 시식    | https://www.acmicpc.net/problem/2156  |
 
 
 
