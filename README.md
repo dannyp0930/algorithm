@@ -27,6 +27,7 @@
 | BOJ_10026_적록색약      | https://www.acmicpc.net/problem/10026 |
 | BOJ_1012_유기농 배추    | https://www.acmicpc.net/problem/1012  |
 | BOJ_7576_토마토         | https://www.acmicpc.net/problem/7576  |
+| BOJ_7569_토마토         | https://www.acmicpc.net/problem/7569  |
 
 
 
