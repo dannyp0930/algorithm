@@ -44,6 +44,7 @@
 | BOJ_2798_블랙잭          | https://www.acmicpc.net/problem/2798  |
 | BOJ_2309_일곱 난쟁이     | https://www.acmicpc.net/problem/2309  |
 | SWEA_2817_부분 수열의 합 | SWEA/CODE/2817                        |
+| BOJ_6603_로또            | https://www.acmicpc.net/problem/6603  |
 
 
 
