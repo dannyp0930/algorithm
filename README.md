@@ -30,6 +30,7 @@
 | BOJ_7569_토마토         | https://www.acmicpc.net/problem/7569  |
 | BOJ_2583_영역 구하기    | https://www.acmicpc.net/problem/2583  |
 | BOJ_2468_안전 영역      | https://www.acmicpc.net/problem/2468  |
+| BOJ_2589_보물섬         | https://www.acmicpc.net/problem/2589  |
 
 
 
