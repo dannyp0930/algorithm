@@ -32,6 +32,7 @@
 | BOJ_2468_안전 영역      | https://www.acmicpc.net/problem/2468  |
 | BOJ_2589_보물섬         | https://www.acmicpc.net/problem/2589  |
 | BOJ_2636_치즈           | https://www.acmicpc.net/problem/2636  |
+| BOJ_2660_회장뽑기       | https://www.acmicpc.net/problem/2660  |
 
 
 
