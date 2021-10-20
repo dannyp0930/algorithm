@@ -14,6 +14,7 @@
 | BOJ_1932_정수 삼각형     | https://www.acmicpc.net/problem/1932  |
 | BOJ_2156_포도주 시식     | https://www.acmicpc.net/problem/2156  |
 | BOJ_2167_2차원 배열의 합 | https://www.acmicpc.net/problem/2167  |
+| BOJ_10844_쉬운 계단 수   | https://www.acmicpc.net/problem/10844 |
 
 
 
