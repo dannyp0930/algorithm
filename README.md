@@ -2,18 +2,19 @@
 
 ## DP
 
-| 문제                     | 출처                                  |
-| ------------------------ | ------------------------------------- |
-| BOJ_1463_1로 만들기      | https://www.acmicpc.net/problem/1463  |
-| BOJ_9095_1, 2, 3 더하기  | https://www.acmicpc.net/problem/9095  |
-| BOJ_1003_피보나치 함수   | https://www.acmicpc.net/problem/1003  |
-| BOJ_11726_2xN 타일링     | https://www.acmicpc.net/problem/11726 |
-| BOJ_1159_RGB 거리        | https://www.acmicpc.net/problem/1149  |
-| BOJ_2579_계단 오르기     | https://www.acmicpc.net/problem/2579  |
-| BOJ_2913_이친수          | https://www.acmicpc.net/problem/2193  |
-| BOJ_1932_정수 삼각형     | https://www.acmicpc.net/problem/1932  |
-| BOJ_2156_포도주 시식     | https://www.acmicpc.net/problem/2156  |
-| BOJ_2167_2차원 배열의 합 | https://www.acmicpc.net/problem/2167  |
+| 문제                        | 출처                                  |
+| --------------------------- | ------------------------------------- |
+| BOJ_1463_1로 만들기         | https://www.acmicpc.net/problem/1463  |
+| BOJ_9095_1, 2, 3 더하기     | https://www.acmicpc.net/problem/9095  |
+| BOJ_1003_피보나치 함수      | https://www.acmicpc.net/problem/1003  |
+| BOJ_11726_2xN 타일링        | https://www.acmicpc.net/problem/11726 |
+| BOJ_1159_RGB 거리           | https://www.acmicpc.net/problem/1149  |
+| BOJ_2579_계단 오르기        | https://www.acmicpc.net/problem/2579  |
+| BOJ_2913_이친수             | https://www.acmicpc.net/problem/2193  |
+| BOJ_1932_정수 삼각형        | https://www.acmicpc.net/problem/1932  |
+| BOJ_2156_포도주 시식        | https://www.acmicpc.net/problem/2156  |
+| BOJ_2167_2차원 배열의 합    | https://www.acmicpc.net/problem/2167  |
+| BOJ_2206_벽 부수고 이동하기 | https://www.acmicpc.net/problem/2206  |
 
 
 
