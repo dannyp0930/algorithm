@@ -2,38 +2,38 @@
 
 ## DP
 
-| 문제                        | 출처                                  |
-| --------------------------- | ------------------------------------- |
-| BOJ_1463_1로 만들기         | https://www.acmicpc.net/problem/1463  |
-| BOJ_9095_1, 2, 3 더하기     | https://www.acmicpc.net/problem/9095  |
-| BOJ_1003_피보나치 함수      | https://www.acmicpc.net/problem/1003  |
-| BOJ_11726_2xN 타일링        | https://www.acmicpc.net/problem/11726 |
-| BOJ_1159_RGB 거리           | https://www.acmicpc.net/problem/1149  |
-| BOJ_2579_계단 오르기        | https://www.acmicpc.net/problem/2579  |
-| BOJ_2913_이친수             | https://www.acmicpc.net/problem/2193  |
-| BOJ_1932_정수 삼각형        | https://www.acmicpc.net/problem/1932  |
-| BOJ_2156_포도주 시식        | https://www.acmicpc.net/problem/2156  |
-| BOJ_2167_2차원 배열의 합    | https://www.acmicpc.net/problem/2167  |
-| BOJ_2206_벽 부수고 이동하기 | https://www.acmicpc.net/problem/2206  |
+| 문제                     | 출처                                  |
+| ------------------------ | ------------------------------------- |
+| BOJ_1463_1로 만들기      | https://www.acmicpc.net/problem/1463  |
+| BOJ_9095_1, 2, 3 더하기  | https://www.acmicpc.net/problem/9095  |
+| BOJ_1003_피보나치 함수   | https://www.acmicpc.net/problem/1003  |
+| BOJ_11726_2xN 타일링     | https://www.acmicpc.net/problem/11726 |
+| BOJ_1159_RGB 거리        | https://www.acmicpc.net/problem/1149  |
+| BOJ_2579_계단 오르기     | https://www.acmicpc.net/problem/2579  |
+| BOJ_2913_이친수          | https://www.acmicpc.net/problem/2193  |
+| BOJ_1932_정수 삼각형     | https://www.acmicpc.net/problem/1932  |
+| BOJ_2156_포도주 시식     | https://www.acmicpc.net/problem/2156  |
+| BOJ_2167_2차원 배열의 합 | https://www.acmicpc.net/problem/2167  |
 
 
 
 ## DFS/BFS
 
-| 문제                    | 출처                                  |
-| ----------------------- | ------------------------------------- |
-| BOJ_2606_바이러스       | https://www.acmicpc.net/problem/2606  |
-| BOJ_2667_단지번호붙이기 | https://www.acmicpc.net/problem/2667  |
-| SWEA_2814_최장경로      | SWEA/CODE/2814                        |
-| BOJ_10026_적록색약      | https://www.acmicpc.net/problem/10026 |
-| BOJ_1012_유기농 배추    | https://www.acmicpc.net/problem/1012  |
-| BOJ_7576_토마토         | https://www.acmicpc.net/problem/7576  |
-| BOJ_7569_토마토         | https://www.acmicpc.net/problem/7569  |
-| BOJ_2583_영역 구하기    | https://www.acmicpc.net/problem/2583  |
-| BOJ_2468_안전 영역      | https://www.acmicpc.net/problem/2468  |
-| BOJ_2589_보물섬         | https://www.acmicpc.net/problem/2589  |
-| BOJ_2636_치즈           | https://www.acmicpc.net/problem/2636  |
-| BOJ_2660_회장뽑기       | https://www.acmicpc.net/problem/2660  |
+| 문제                        | 출처                                  |
+| --------------------------- | ------------------------------------- |
+| BOJ_2606_바이러스           | https://www.acmicpc.net/problem/2606  |
+| BOJ_2667_단지번호붙이기     | https://www.acmicpc.net/problem/2667  |
+| SWEA_2814_최장경로          | SWEA/CODE/2814                        |
+| BOJ_10026_적록색약          | https://www.acmicpc.net/problem/10026 |
+| BOJ_1012_유기농 배추        | https://www.acmicpc.net/problem/1012  |
+| BOJ_7576_토마토             | https://www.acmicpc.net/problem/7576  |
+| BOJ_7569_토마토             | https://www.acmicpc.net/problem/7569  |
+| BOJ_2583_영역 구하기        | https://www.acmicpc.net/problem/2583  |
+| BOJ_2468_안전 영역          | https://www.acmicpc.net/problem/2468  |
+| BOJ_2589_보물섬             | https://www.acmicpc.net/problem/2589  |
+| BOJ_2636_치즈               | https://www.acmicpc.net/problem/2636  |
+| BOJ_2660_회장뽑기           | https://www.acmicpc.net/problem/2660  |
+| BOJ_2206_벽 부수고 이동하기 | https://www.acmicpc.net/problem/2206  |
 
 
 
