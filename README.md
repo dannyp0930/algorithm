@@ -36,6 +36,7 @@
 | BOJ_2660_회장뽑기           | https://www.acmicpc.net/problem/2660  |
 | BOJ_2206_벽 부수고 이동하기 | https://www.acmicpc.net/problem/2206  |
 | BOJ_5427_불                 | https://www.acmicpc.net/problem/5427  |
+| BOJ_15486_퇴사              | https://www.acmicpc.net/problem/15486 |
 
 
 
