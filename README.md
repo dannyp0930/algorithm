@@ -35,6 +35,7 @@
 | BOJ_2636_치즈               | https://www.acmicpc.net/problem/2636  |
 | BOJ_2660_회장뽑기           | https://www.acmicpc.net/problem/2660  |
 | BOJ_2206_벽 부수고 이동하기 | https://www.acmicpc.net/problem/2206  |
+| BOJ_5427_불                 | https://www.acmicpc.net/problem/5427  |
 
 
 
