@@ -15,6 +15,7 @@
 | BOJ_2156_포도주 시식     | https://www.acmicpc.net/problem/2156  |
 | BOJ_2167_2차원 배열의 합 | https://www.acmicpc.net/problem/2167  |
 | BOJ_10844_쉬운 계단 수   | https://www.acmicpc.net/problem/10844 |
+| BOJ_15486_퇴사           | https://www.acmicpc.net/problem/15486 |
 
 
 
@@ -36,7 +37,6 @@
 | BOJ_2660_회장뽑기           | https://www.acmicpc.net/problem/2660  |
 | BOJ_2206_벽 부수고 이동하기 | https://www.acmicpc.net/problem/2206  |
 | BOJ_5427_불                 | https://www.acmicpc.net/problem/5427  |
-| BOJ_15486_퇴사              | https://www.acmicpc.net/problem/15486 |
 
 
 
@@ -55,6 +55,7 @@
 | BOJ_1759_암호 만들기     | https://www.acmicpc.net/problem/1759  |
 | BOJ_1697_숨바꼭질        | https://www.acmicpc.net/problem/1697  |
 | BOJ_2210_숫자판 점프     | https://www.acmicpc.net/problem/2210  |
+| BOJ_1941_소문난 칠공주   | https://www.acmicpc.net/problem/1941  |
 
 
 
