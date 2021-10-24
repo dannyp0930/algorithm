@@ -54,6 +54,7 @@
 | BOJ_6603_로또            | https://www.acmicpc.net/problem/6603  |
 | BOJ_1759_암호 만들기     | https://www.acmicpc.net/problem/1759  |
 | BOJ_1697_숨바꼭질        | https://www.acmicpc.net/problem/1697  |
+| BOJ_2210_숫자판 점프     | https://www.acmicpc.net/problem/2210  |
 
 
 
@@ -84,6 +85,8 @@
 | 1251_하나로                         | SWEA/CODE/1251  |
 | 1795_인수의 생일파티                | SWEA/CODE/1795  |
 | 7465_창용 마을 무리의 개수          | SWEA/CODE/7465  |
+
+
 
 ## A형 대비 문제
 
