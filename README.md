@@ -56,6 +56,7 @@
 | BOJ_1697_숨바꼭질        | https://www.acmicpc.net/problem/1697  |
 | BOJ_2210_숫자판 점프     | https://www.acmicpc.net/problem/2210  |
 | BOJ_1941_소문난 칠공주   | https://www.acmicpc.net/problem/1941  |
+| BOJ_7562_나이트의 이동   | https://www.acmicpc.net/problem/7562  |
 
 
 
