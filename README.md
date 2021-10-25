@@ -15,7 +15,8 @@
 | BOJ_2156_포도주 시식     | https://www.acmicpc.net/problem/2156  |
 | BOJ_2167_2차원 배열의 합 | https://www.acmicpc.net/problem/2167  |
 | BOJ_10844_쉬운 계단 수   | https://www.acmicpc.net/problem/10844 |
-| BOJ_15486_퇴사           | https://www.acmicpc.net/problem/15486 |
+| BOJ_15486_퇴사2          | https://www.acmicpc.net/problem/15486 |
+| BOJ_9084_동전            | https://www.acmicpc.net/problem/9084  |
 
 
 
