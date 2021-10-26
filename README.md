@@ -17,6 +17,7 @@
 | BOJ_10844_쉬운 계단 수   | https://www.acmicpc.net/problem/10844 |
 | BOJ_15486_퇴사2          | https://www.acmicpc.net/problem/15486 |
 | BOJ_9084_동전            | https://www.acmicpc.net/problem/9084  |
+| BOJ_1520_내리막 길       | https://www.acmicpc.net/problem/1520  |
 
 
 
