@@ -40,6 +40,7 @@
 | BOJ_2660_회장뽑기           | https://www.acmicpc.net/problem/2660  |
 | BOJ_2206_벽 부수고 이동하기 | https://www.acmicpc.net/problem/2206  |
 | BOJ_5427_불                 | https://www.acmicpc.net/problem/5427  |
+| BOJ_2146_다리 만들기        | https://www.acmicpc.net/problem/2146  |
 
 
 
