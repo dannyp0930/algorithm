@@ -20,6 +20,7 @@
 | BOJ_1520_내리막 길       | https://www.acmicpc.net/problem/1520  |
 | BOJ_1890_점프            | https://www.acmicpc.net/problem/1890  |
 | BOJ_10164_격자상의 경로  | https://www.acmicpc.net/problem/10164 |
+| BOJ_5557_1학년           | https://www.acmicpc.net/problem/5557  |
 
 
 
