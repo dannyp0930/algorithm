@@ -19,6 +19,7 @@
 | BOJ_9084_동전            | https://www.acmicpc.net/problem/9084  |
 | BOJ_1520_내리막 길       | https://www.acmicpc.net/problem/1520  |
 | BOJ_1890_점프            | https://www.acmicpc.net/problem/1890  |
+| BOJ_10164_격자상의 경로  | https://www.acmicpc.net/problem/10164 |
 
 
 
