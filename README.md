@@ -21,6 +21,7 @@
 | BOJ_1890_점프            | https://www.acmicpc.net/problem/1890  |
 | BOJ_10164_격자상의 경로  | https://www.acmicpc.net/problem/10164 |
 | BOJ_5557_1학년           | https://www.acmicpc.net/problem/5557  |
+| BOJ_1010_다리 놓기       | https://www.acmicpc.net/problem/1010  |
 
 
 
