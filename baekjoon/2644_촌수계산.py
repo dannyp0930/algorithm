@@ -32,5 +32,3 @@ Q = []
 dfs(a, 0)
 bfs(a)
 print(visit_dfs[b], visit_bfs[b])
-
-
