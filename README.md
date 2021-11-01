@@ -23,6 +23,7 @@
 | BOJ_5557_1학년            | https://www.acmicpc.net/problem/5557  |
 | BOJ_1010_다리 놓기        | https://www.acmicpc.net/problem/1010  |
 | BOJ_17069_파이프 옮기기 2 | https://www.acmicpc.net/problem/17069 |
+| BOJ_2294_동전 2           | https://www.acmicpc.net/problem/2294  |
 
 
 
