@@ -46,6 +46,7 @@
 | BOJ_5427_불                 | https://www.acmicpc.net/problem/5427  |
 | BOJ_2146_다리 만들기        | https://www.acmicpc.net/problem/2146  |
 | BOJ_2644_촌수계산           | https://www.acmicpc.net/problem/2644  |
+| BOJ_2479_경로찾기           | https://www.acmicpc.net/problem/2479  |
 
 
 
