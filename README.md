@@ -25,6 +25,7 @@
 | BOJ_17069_파이프 옮기기 2 | https://www.acmicpc.net/problem/17069 |
 | BOJ_2294_동전 2           | https://www.acmicpc.net/problem/2294  |
 | BOJ_11051_이항 계수 2     | https://www.acmicpc.net/problem/11051 |
+| SWEA_3282_0/1 Knapsack    | SWEA/CODE/3282                        |
 
 
 
