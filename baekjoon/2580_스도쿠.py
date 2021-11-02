@@ -21,24 +21,18 @@ def promise(x, y):
 
 
 def dfs(n):
-    global flag
-    if flag:
-        return
     if n == len(zero):
         for lst in arr:
             print(*lst)
-        flag = True
         return
-    else:
-        x, y = zero[n]
-        promise_num = promise(x, y)
-        for num in promise_num:
-            arr[x][y] = num
-            dfs(n + 1)
-            arr[x][y] = 0
+    x, y = zero[n]
+    promise_num = promise(x, y)
+    for num in promise_num:
+        arr[x][y] = num
+        dfs(n + 1)
+        arr[x][y] = 0
 
 
 arr = [list(map(int, input().split())) for _ in range(9)]
 zero = [(a, b) for a in range(9) for b in range(9) if not arr[a][b]]
-flag = False
 dfs(0)
