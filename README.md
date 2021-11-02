@@ -69,6 +69,7 @@
 | BOJ_2210_숫자판 점프     | https://www.acmicpc.net/problem/2210  |
 | BOJ_1941_소문난 칠공주   | https://www.acmicpc.net/problem/1941  |
 | BOJ_7562_나이트의 이동   | https://www.acmicpc.net/problem/7562  |
+| BOJ_2580_스도쿠          | https://www.acmicpc.net/problem/2580  |
 
 
 
