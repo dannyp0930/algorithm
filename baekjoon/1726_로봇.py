@@ -48,5 +48,3 @@ er, ec, ed = map(int, input().split())  # 도착 좌표
 visit = [[[0] * 4 for _ in range(N)] for _ in range(M)] # 방문 배열, visit[r][c][d]
 Q = []
 print(bfs() - 1)
-for lst in visit:
-    print(lst)
