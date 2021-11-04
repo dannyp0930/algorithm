@@ -8,7 +8,7 @@
 | BOJ_9095_1, 2, 3 더하기   | https://www.acmicpc.net/problem/9095  |
 | BOJ_1003_피보나치 함수    | https://www.acmicpc.net/problem/1003  |
 | BOJ_11726_2xN 타일링      | https://www.acmicpc.net/problem/11726 |
-| BOJ_1159_RGB 거리         | https://www.acmicpc.net/problem/1149  |
+| BOJ_1149_RGB 거리         | https://www.acmicpc.net/problem/1149  |
 | BOJ_2579_계단 오르기      | https://www.acmicpc.net/problem/2579  |
 | BOJ_2913_이친수           | https://www.acmicpc.net/problem/2193  |
 | BOJ_1932_정수 삼각형      | https://www.acmicpc.net/problem/1932  |
