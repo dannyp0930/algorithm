@@ -73,6 +73,7 @@
 | BOJ_1941_소문난 칠공주   | https://www.acmicpc.net/problem/1941  |
 | BOJ_7562_나이트의 이동   | https://www.acmicpc.net/problem/7562  |
 | BOJ_2580_스도쿠          | https://www.acmicpc.net/problem/2580  |
+| BOJ_1799_비숍            | https://www.acmicpc.net/problem/1799  |
 
 
 
