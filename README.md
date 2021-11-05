@@ -27,6 +27,7 @@
 | BOJ_11051_이항 계수 2     | https://www.acmicpc.net/problem/11051 |
 | SWEA_3282_0/1 Knapsack    | SWEA/CODE/3282                        |
 | BOJ_5582_공통 부분 문자열 | https://www.acmicpc.net/problem/5582  |
+| BOJ_1912_연속합           | https://www.acmicpc.net/problem/1912  |
 
 
 
