@@ -32,6 +32,7 @@
 | SWEA_3307_최장 증가 부분 수열        | SWEA/CODE/3307                        | 유명한 문제       |
 | SWEA_3308_최장 증가 부분 수열 (Hard) | SWEA/CODE/3308                        | 유명한 문제       |
 | BOJ_2098_외판원 순회                 | https://www.acmicpc.net/problem/2098  | 유명한 문제, 순열 |
+| BOJ_11049_행렬 곱셈 순서             | https://www.acmicpc.net/problem/11049 | 유명한 문제       |
 
 
 
