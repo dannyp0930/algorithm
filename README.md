@@ -123,4 +123,5 @@
 | BOJ_14888_연산자 끼워넣기 | https://www.acmicpc.net/problem/14888 |      |
 | BOJ_17155_미세먼지 안녕!  | https://www.acmicpc.net/problem/17144 |      |
 | BOJ_15686_치킨 배달       | https://www.acmicpc.net/problem/15686 |      |
+| BOJ_17471_게리맨더링      | https://www.acmicpc.net/problem/17471 |      |
 
