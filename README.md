@@ -127,4 +127,5 @@
 | SWEA_1865_동철이의 일 분배  | SWEA/CODE/1865                        |      |
 | SWEA_2383_점심 식사시간     | SWEA/CODE/2383                        |      |
 | SWEA_5658_보물상자 비밀번호 | SWEA/CODE/5658                        |      |
+| SWEA_2328_미생물 격리       | SWEA/CODE/2328                        |      |
 
