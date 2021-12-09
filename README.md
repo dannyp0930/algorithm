@@ -129,4 +129,5 @@
 | SWEA_5658_보물상자 비밀번호 | SWEA/CODE/5658                        |      |
 | SWEA_2328_미생물 격리       | SWEA/CODE/2328                        |      |
 | SWEA_5650_핀볼 게임         | SWEA/CODE/5650                        |      |
+| BOJ_14502_연구소            | https://www.acmicpc.net/problem/14502 |      |
 
