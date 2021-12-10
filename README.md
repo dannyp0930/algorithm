@@ -130,4 +130,5 @@
 | SWEA_2328_미생물 격리       | SWEA/CODE/2328                        |      |
 | SWEA_5650_핀볼 게임         | SWEA/CODE/5650                        |      |
 | BOJ_14502_연구소            | https://www.acmicpc.net/problem/14502 |      |
+| SWEA_1767_프로세서 연결하기 | SWEA/CODE/1767                        |      |
 
