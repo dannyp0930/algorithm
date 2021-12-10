@@ -132,3 +132,14 @@
 | BOJ_14502_연구소            | https://www.acmicpc.net/problem/14502 |      |
 | SWEA_1767_프로세서 연결하기 | SWEA/CODE/1767                        |      |
 
+
+
+## programmers
+
+| 문제                         | 출처                                                     | 비고  |
+| ---------------------------- | -------------------------------------------------------- | ----- |
+| 로또의 최고 순위와 최저 순위 | https://programmers.co.kr/learn/courses/30/lessons/77484 | Lv. 1 |
+| 신규 아이디 추천             | https://programmers.co.kr/learn/courses/30/lessons/72410 | Lv. 1 |
+| 숫자 문자열과 영단어         | https://programmers.co.kr/learn/courses/30/lessons/81301 | Lv. 1 |
+| 완주하지 못한 선수           | https://programmers.co.kr/learn/courses/30/lessons/42576 | Lv. 1 |
+| 모의고사                     | https://programmers.co.kr/learn/courses/30/lessons/42840 | Lv. 1 |
