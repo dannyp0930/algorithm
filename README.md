@@ -147,3 +147,8 @@
 | 키패드 누르기                | https://programmers.co.kr/learn/courses/30/lessons/67256 | Lv. 1 |
 | 크레인 인형뽑기 게임         | https://programmers.co.kr/learn/courses/30/lessons/64061 | Lv. 1 |
 | 없는 숫자 더하기             | https://programmers.co.kr/learn/courses/30/lessons/86051 | Lv. 1 |
+| 음양 더하기                  | https://programmers.co.kr/learn/courses/30/lessons/76501 | Lv. 1 |
+| 내적                         | https://programmers.co.kr/learn/courses/30/lessons/70128 | Lv. 1 |
+| 소수 만들기                  | https://programmers.co.kr/learn/courses/30/lessons/12977 | Lv. 1 |
+| 체육복                       | https://programmers.co.kr/learn/courses/30/lessons/42862 | Lv. 1 |
+| 폰켓몬                       | https://programmers.co.kr/learn/courses/30/lessons/1845  | Lv. 1 |
