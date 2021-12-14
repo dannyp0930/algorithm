@@ -153,3 +153,8 @@
 | 소수 만들기                  | https://programmers.co.kr/learn/courses/30/lessons/12977 | Lv. 1 |
 | 체육복                       | https://programmers.co.kr/learn/courses/30/lessons/42862 | Lv. 1 |
 | 폰켓몬                       | https://programmers.co.kr/learn/courses/30/lessons/1845  | Lv. 1 |
+| 실패율                       | https://programmers.co.kr/learn/courses/30/lessons/42889 | Lv. 1 |
+| 약수의 개수와 덧셈           | https://programmers.co.kr/learn/courses/30/lessons/77884 | Lv. 1 |
+| 3진법 뒤집기                 | https://programmers.co.kr/learn/courses/30/lessons/68935 | Lv. 1 |
+| 예산                         | https://programmers.co.kr/learn/courses/30/lessons/12982 | Lv. 1 |
+| 두 개 뽑아서 더하기          | https://programmers.co.kr/learn/courses/30/lessons/68644 | Lv. 1 |
