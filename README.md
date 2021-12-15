@@ -1,4 +1,4 @@
-# 알고리즘 연습 REPO
+# ㄴ알고리즘 연습 REPO
 
 ## DP
 
@@ -139,23 +139,29 @@
 
 ## programmers
 
-| 문제                         | 출처                                                     | 비고  |
-| ---------------------------- | -------------------------------------------------------- | ----- |
-| 로또의 최고 순위와 최저 순위 | https://programmers.co.kr/learn/courses/30/lessons/77484 | Lv. 1 |
-| 신규 아이디 추천             | https://programmers.co.kr/learn/courses/30/lessons/72410 | Lv. 1 |
-| 숫자 문자열과 영단어         | https://programmers.co.kr/learn/courses/30/lessons/81301 | Lv. 1 |
-| 완주하지 못한 선수           | https://programmers.co.kr/learn/courses/30/lessons/42576 | Lv. 1 |
-| 모의고사                     | https://programmers.co.kr/learn/courses/30/lessons/42840 | Lv. 1 |
-| 키패드 누르기                | https://programmers.co.kr/learn/courses/30/lessons/67256 | Lv. 1 |
-| 크레인 인형뽑기 게임         | https://programmers.co.kr/learn/courses/30/lessons/64061 | Lv. 1 |
-| 없는 숫자 더하기             | https://programmers.co.kr/learn/courses/30/lessons/86051 | Lv. 1 |
-| 음양 더하기                  | https://programmers.co.kr/learn/courses/30/lessons/76501 | Lv. 1 |
-| 내적                         | https://programmers.co.kr/learn/courses/30/lessons/70128 | Lv. 1 |
-| 소수 만들기                  | https://programmers.co.kr/learn/courses/30/lessons/12977 | Lv. 1 |
-| 체육복                       | https://programmers.co.kr/learn/courses/30/lessons/42862 | Lv. 1 |
-| 폰켓몬                       | https://programmers.co.kr/learn/courses/30/lessons/1845  | Lv. 1 |
-| 실패율                       | https://programmers.co.kr/learn/courses/30/lessons/42889 | Lv. 1 |
-| 약수의 개수와 덧셈           | https://programmers.co.kr/learn/courses/30/lessons/77884 | Lv. 1 |
-| 3진법 뒤집기                 | https://programmers.co.kr/learn/courses/30/lessons/68935 | Lv. 1 |
-| 예산                         | https://programmers.co.kr/learn/courses/30/lessons/12982 | Lv. 1 |
-| 두 개 뽑아서 더하기          | https://programmers.co.kr/learn/courses/30/lessons/68644 | Lv. 1 |
+| 문제                         | 출처                                                     | 비고                                        |
+| ---------------------------- | -------------------------------------------------------- | ------------------------------------------- |
+| 로또의 최고 순위와 최저 순위 | https://programmers.co.kr/learn/courses/30/lessons/77484 | 2021 Dev-Matching: 웹 백엔드 개발자(상반기) |
+| 신규 아이디 추천             | https://programmers.co.kr/learn/courses/30/lessons/72410 | 2021 KAKAO BLIND RECRUITMENT                |
+| 숫자 문자열과 영단어         | https://programmers.co.kr/learn/courses/30/lessons/81301 | 2021 카카오 채용연계형 인턴십               |
+| 완주하지 못한 선수           | https://programmers.co.kr/learn/courses/30/lessons/42576 | 해시                                        |
+| K번째수                      | https://programmers.co.kr/learn/courses/30/lessons/42748 | 정렬                                        |
+| 모의고사                     | https://programmers.co.kr/learn/courses/30/lessons/42840 | 완전탐색                                    |
+| 키패드 누르기                | https://programmers.co.kr/learn/courses/30/lessons/67256 | 2020 카카오 인턴십                          |
+| 크레인 인형뽑기 게임         | https://programmers.co.kr/learn/courses/30/lessons/64061 | 2019 카카오 개발자 겨울 인턴십              |
+| 없는 숫자 더하기             | https://programmers.co.kr/learn/courses/30/lessons/86051 | 월간 코드 챌린지 시즌3                      |
+| 음양 더하기                  | https://programmers.co.kr/learn/courses/30/lessons/76501 | 월간 코드 챌린지 시즌 2                     |
+| 내적                         | https://programmers.co.kr/learn/courses/30/lessons/70128 | 월간 코드 챌린지 시즌 1                     |
+| 소수 만들기                  | https://programmers.co.kr/learn/courses/30/lessons/12977 | Summer/Winter Coding(~2018)                 |
+| 체육복                       | https://programmers.co.kr/learn/courses/30/lessons/42862 | 탐욕법(Greedy)                              |
+| 폰켓몬                       | https://programmers.co.kr/learn/courses/30/lessons/1845  | 찾아라 프로그래밍 마에스터                  |
+| 실패율                       | https://programmers.co.kr/learn/courses/30/lessons/42889 | 2019 KAKAO BLIND RECRUITMENT                |
+| 약수의 개수와 덧셈           | https://programmers.co.kr/learn/courses/30/lessons/77884 | 월간 코드 챌린지 시즌 2                     |
+| 3진법 뒤집기                 | https://programmers.co.kr/learn/courses/30/lessons/68935 | 월간 코드 챌린지 시즌 1                     |
+| 예산                         | https://programmers.co.kr/learn/courses/30/lessons/12982 | Summer/Winter Coding(~2018)                 |
+| 두 개 뽑아서 더하기          | https://programmers.co.kr/learn/courses/30/lessons/68644 | 월간 코드 챌린지 시즌 1                     |
+| 2016년                       | https://programmers.co.kr/learn/courses/30/lessons/12901 | 연습문제                                    |
+| 최소직사각형                 | https://programmers.co.kr/learn/courses/30/lessons/86491 | 위클리 챌린지                               |
+| 나머지가 1이 되는 수 찾기    | https://programmers.co.kr/learn/courses/30/lessons/87389 | 월간 코드 챌린지 시즌3                      |
+| 부족한 금액 계산하기         | https://programmers.co.kr/learn/courses/30/lessons/82612 | 위클리 챌린지                               |
+| [1차] 비밀지도               | https://programmers.co.kr/learn/courses/30/lessons/17681 | 2018 KAKAO BLIND ECRUITMENT                 |
