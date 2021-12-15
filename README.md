@@ -165,3 +165,8 @@
 | 나머지가 1이 되는 수 찾기    | https://programmers.co.kr/learn/courses/30/lessons/87389 | 월간 코드 챌린지 시즌3                      |
 | 부족한 금액 계산하기         | https://programmers.co.kr/learn/courses/30/lessons/82612 | 위클리 챌린지                               |
 | [1차] 비밀지도               | https://programmers.co.kr/learn/courses/30/lessons/17681 | 2018 KAKAO BLIND ECRUITMENT                 |
+| 가운데 글자 가져오기         | https://programmers.co.kr/learn/courses/30/lessons/12903 | 연습문제                                    |
+| [1차] 다트 게임              | https://programmers.co.kr/learn/courses/30/lessons/17682 | 2018 KAKAO BLIND ECRUITMENT                 |
+| 같은 문자는 싫어             | https://programmers.co.kr/learn/courses/30/lessons/12906 | 연습문제                                    |
+| 나누어 떨어지는 숫자 배열    | https://programmers.co.kr/learn/courses/30/lessons/12910 | 연습문제                                    |
+| 두 정수 사이의 합            | https://programmers.co.kr/learn/courses/30/lessons/12912 | 연습문제                                    |
