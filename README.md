@@ -185,3 +185,8 @@
 | 자연수 뒤집어 배열로 만들기  | https://programmers.co.kr/learn/courses/30/lessons/12932 | 연습문제                                    |
 | 정수 내림차순으로 배치하기   | https://programmers.co.kr/learn/courses/30/lessons/12933 | 연습문제                                    |
 | 정수 제곱근 판별             | https://programmers.co.kr/learn/courses/30/lessons/12934 | 연습문제                                    |
+| 제일 작은 수 제거하기        | https://programmers.co.kr/learn/courses/30/lessons/12935 | 연습문제                                    |
+| 짝수와 홀수                  | https://programmers.co.kr/learn/courses/30/lessons/12937 | 연습문제                                    |
+| 최대공약수와 최소공배수      | https://programmers.co.kr/learn/courses/30/lessons/12940 | 연습문제                                    |
+| 콜라츠 추측                  | https://programmers.co.kr/learn/courses/30/lessons/12943 | 연습문제                                    |
+| 평균 구하기                  | https://programmers.co.kr/learn/courses/30/lessons/12944 | 연습문제                                    |
