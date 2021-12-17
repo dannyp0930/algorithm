@@ -190,3 +190,8 @@
 | 최대공약수와 최소공배수      | https://programmers.co.kr/learn/courses/30/lessons/12940 | 연습문제                                    |
 | 콜라츠 추측                  | https://programmers.co.kr/learn/courses/30/lessons/12943 | 연습문제                                    |
 | 평균 구하기                  | https://programmers.co.kr/learn/courses/30/lessons/12944 | 연습문제                                    |
+| 하샤드 수                    | https://programmers.co.kr/learn/courses/30/lessons/12947 | 연습문제                                    |
+| 핸드폰 번호 가리기           | https://programmers.co.kr/learn/courses/30/lessons/12948 | 연습문제                                    |
+| 행렬의 덧셈                  | https://programmers.co.kr/learn/courses/30/lessons/12950 | 연습문제                                    |
+| x만큼 간격이 있는 n개의 숫자 | https://programmers.co.kr/learn/courses/30/lessons/12954 | 연습문제                                    |
+| 직사각형 별찍기              | https://programmers.co.kr/learn/courses/30/lessons/12969 | 연습문제                                    |
