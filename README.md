@@ -196,3 +196,4 @@
 | x만큼 간격이 있는 n개의 숫자 | https://programmers.co.kr/learn/courses/30/lessons/12954 | 연습문제                                    |
 | 직사각형 별찍기              | https://programmers.co.kr/learn/courses/30/lessons/12969 | 연습문제                                    |
 | N개의 최소공배수             | https://programmers.co.kr/learn/courses/30/lessons/12953 | 연습문제                                    |
+| JadenCase 문자열 만들기      | https://programmers.co.kr/learn/courses/30/lessons/12951 | 연습문제                                    |
