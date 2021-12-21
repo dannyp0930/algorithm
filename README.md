@@ -199,3 +199,9 @@
 | JadenCase 문자열 만들기      | https://programmers.co.kr/learn/courses/30/lessons/12951 | 연습문제                                    |
 | 행렬의 곱셈                  | https://programmers.co.kr/learn/courses/30/lessons/12949 | 연습문제                                    |
 | 피보나치 수                  | https://programmers.co.kr/learn/courses/30/lessons/12945 | 연습문제                                    |
+| 최솟값 만들기                | https://programmers.co.kr/learn/courses/30/lessons/12941 | 연습문제                                    |
+| 최댓값과 최솟값              | https://programmers.co.kr/learn/courses/30/lessons/12939 | 연습문제                                    |
+| 숫자의 표현                  | https://programmers.co.kr/learn/courses/30/lessons/12924 | 연습문제                                    |
+| 땅따먹기                     | https://programmers.co.kr/learn/courses/30/lessons/12913 | 연습문제                                    |
+| 다음 큰 숫자                 | https://programmers.co.kr/learn/courses/30/lessons/12911 | 연습문제                                    |
+
