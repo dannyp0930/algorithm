@@ -205,4 +205,5 @@
 | 땅따먹기                     | https://programmers.co.kr/learn/courses/30/lessons/12913 | 연습문제                                    |
 | 다음 큰 숫자                 | https://programmers.co.kr/learn/courses/30/lessons/12911 | 연습문제                                    |
 | 올바른 괄호                  | https://programmers.co.kr/learn/courses/30/lessons/12909 | 연습문제                                    |
+| 가장 큰 정사각형 찾기        | https://programmers.co.kr/learn/courses/30/lessons/12905 | 연습문제                                    |
 
