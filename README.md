@@ -204,4 +204,5 @@
 | 숫자의 표현                  | https://programmers.co.kr/learn/courses/30/lessons/12924 | 연습문제                                    |
 | 땅따먹기                     | https://programmers.co.kr/learn/courses/30/lessons/12913 | 연습문제                                    |
 | 다음 큰 숫자                 | https://programmers.co.kr/learn/courses/30/lessons/12911 | 연습문제                                    |
+| 올바른 괄호                  | https://programmers.co.kr/learn/courses/30/lessons/12909 | 연습문제                                    |
 
