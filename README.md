@@ -206,4 +206,9 @@
 | 다음 큰 숫자                 | https://programmers.co.kr/learn/courses/30/lessons/12911 | 연습문제                                    |
 | 올바른 괄호                  | https://programmers.co.kr/learn/courses/30/lessons/12909 | 연습문제                                    |
 | 가장 큰 정사각형 찾기        | https://programmers.co.kr/learn/courses/30/lessons/12905 | 연습문제                                    |
+| 전력망을 둘로 나누기         | https://programmers.co.kr/learn/courses/30/lessons/86971 | 위클리 챌린지                               |
+| 카펫                         | https://programmers.co.kr/learn/courses/30/lessons/42842 | 완전탐색                                    |
+| 문자열 압축                  | https://programmers.co.kr/learn/courses/30/lessons/60057 | 2020 KAKAO BLIND RECRUITMENT                |
+| 124 나라의 숫자              | https://programmers.co.kr/learn/courses/30/lessons/12899 | 연습문제                                    |
+| 오픈채팅방                   | https://programmers.co.kr/learn/courses/30/lessons/42888 | 2019 KAKAO BLIND RECRUITMENT                |
 
