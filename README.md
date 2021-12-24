@@ -211,4 +211,6 @@
 | 문자열 압축                  | https://programmers.co.kr/learn/courses/30/lessons/60057 | 2020 KAKAO BLIND RECRUITMENT                |
 | 124 나라의 숫자              | https://programmers.co.kr/learn/courses/30/lessons/12899 | 연습문제                                    |
 | 오픈채팅방                   | https://programmers.co.kr/learn/courses/30/lessons/42888 | 2019 KAKAO BLIND RECRUITMENT                |
+| 더 맵게                      | https://programmers.co.kr/learn/courses/30/lessons/42626 | 힙                                          |
+| 기능개발                     | https://programmers.co.kr/learn/courses/30/lessons/42586 | 스택/큐                                     |
 
