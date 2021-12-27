@@ -213,4 +213,7 @@
 | 오픈채팅방                   | https://programmers.co.kr/learn/courses/30/lessons/42888 | 2019 KAKAO BLIND RECRUITMENT                |
 | 더 맵게                      | https://programmers.co.kr/learn/courses/30/lessons/42626 | 힙                                          |
 | 기능개발                     | https://programmers.co.kr/learn/courses/30/lessons/42586 | 스택/큐                                     |
+| 짝지어 제거하기              | https://programmers.co.kr/learn/courses/30/lessons/12973 | 2017 팁스타운                               |
+| 타겟 넘버                    | https://programmers.co.kr/learn/courses/30/lessons/43165 | DFS/BFS                                     |
+| 멀쩡한 사각형                | https://programmers.co.kr/learn/courses/30/lessons/62048 | Summer/Winter Coding(2019)                  |
 
