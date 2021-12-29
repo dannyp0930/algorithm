@@ -219,4 +219,6 @@
 | 행렬 테두리 회전하기         | https://programmers.co.kr/learn/courses/30/lessons/77485 | 2021 Dev-Matching: 웹 백엔드 개발자(상반기) |
 | 거리두기 확인하기            | https://programmers.co.kr/learn/courses/30/lessons/81302 | 2021 카카오 채용연계형 인턴십               |
 | [1차] 뉴스 클러스터링        | https://programmers.co.kr/learn/courses/30/lessons/17677 | 2018 KAKAO BLIND RECRUITMENT                |
+| 전화번호 목록                | https://programmers.co.kr/learn/courses/30/lessons/42577 | 해시                                        |
+| 튜플                         | https://programmers.co.kr/learn/courses/30/lessons/64065 | 2019 카카오 개발자 겨울 인턴십              |
 
