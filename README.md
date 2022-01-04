@@ -221,4 +221,5 @@
 | [1차] 뉴스 클러스터링        | https://programmers.co.kr/learn/courses/30/lessons/17677 | 2018 KAKAO BLIND RECRUITMENT                |
 | 전화번호 목록                | https://programmers.co.kr/learn/courses/30/lessons/42577 | 해시                                        |
 | 튜플                         | https://programmers.co.kr/learn/courses/30/lessons/64065 | 2019 카카오 개발자 겨울 인턴십              |
+| 프린터                       | https://programmers.co.kr/learn/courses/30/lessons/42587 | 스택/큐                                     |
 
