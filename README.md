@@ -222,5 +222,6 @@
 | 전화번호 목록                | https://programmers.co.kr/learn/courses/30/lessons/42577 | 해시                                        |
 | 튜플                         | https://programmers.co.kr/learn/courses/30/lessons/64065 | 2019 카카오 개발자 겨울 인턴십              |
 | 프린터                       | https://programmers.co.kr/learn/courses/30/lessons/42587 | 스택/큐                                     |
-| H-Index                      | https://programmers.co.kr/learn/courses/30/lessons/42747 | 정렬                                        |
+| H-Index                      | https://programmers.co.kr/learn/courses/30/lessons/42747 | 정렬괄호 변환                               |
+| 괄호 변환                    | https://programmers.co.kr/learn/courses/30/lessons/60058 | 2020 KAKAO BLIND RECRUITMENT                |
 
