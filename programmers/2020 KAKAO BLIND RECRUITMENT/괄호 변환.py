@@ -1,5 +1,5 @@
 # 문자열 나누기
-def seperate(s):
+def separate(s):
     cnt1 = cnt2 = 0
     for i in range(len(s)):
         if s[i] == '(':
@@ -28,7 +28,7 @@ def solution(p):
     if not p:
         return p
     # 2
-    u, v = seperate(p)
+    u, v = separate(p)
 
     # 3
     if determine(u):
