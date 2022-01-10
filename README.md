@@ -227,4 +227,5 @@
 | 주식가격                     | https://programmers.co.kr/learn/courses/30/lessons/42584 | 스택/큐                                     |
 | 순위 검색                    | https://programmers.co.kr/learn/courses/30/lessons/72412 | 2021 KAKAO BLIND RECRUITMENT                |
 | 배달                         | https://programmers.co.kr/learn/courses/30/lessons/12978 | Summer/Winter Coding(~2018)                 |
+| 이진 변환 반복하기           | https://programmers.co.kr/learn/courses/30/lessons/70129 | 월간 코드 챌린지 시즌1                      |
 
