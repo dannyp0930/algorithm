@@ -230,4 +230,5 @@
 | 이진 변환 반복하기           | https://programmers.co.kr/learn/courses/30/lessons/70129 | 월간 코드 챌린지 시즌1                      |
 | 메뉴 리뉴얼                  | https://programmers.co.kr/learn/courses/30/lessons/72411 | 2021 KAKAO BLIND RECRUITMENT                |
 | 영어 끝말잇기                | https://programmers.co.kr/learn/courses/30/lessons/12981 | Summer/Winter Coding(~2018)                 |
+| 구명보트                     | https://programmers.co.kr/learn/courses/30/lessons/42885 | 탐욕법(Greedy)                              |
 
