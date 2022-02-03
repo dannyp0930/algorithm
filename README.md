@@ -232,4 +232,5 @@
 | 영어 끝말잇기                | https://programmers.co.kr/learn/courses/30/lessons/12981 | Summer/Winter Coding(~2018)                 |
 | 구명보트                     | https://programmers.co.kr/learn/courses/30/lessons/42885 | 탐욕법(Greedy)                              |
 | 가장 큰 수                   | https://programmers.co.kr/learn/courses/30/lessons/42746 | 정렬                                        |
+| 피로도                       | https://programmers.co.kr/learn/courses/30/lessons/87946 | 위클리 챌린지                               |
 
