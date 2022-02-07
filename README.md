@@ -234,4 +234,5 @@
 | 가장 큰 수                   | https://programmers.co.kr/learn/courses/30/lessons/42746 | 정렬                                        |
 | 피로도                       | https://programmers.co.kr/learn/courses/30/lessons/87946 | 위클리 챌린지                               |
 | 삼각달팽이                   | https://programmers.co.kr/learn/courses/30/lessons/68645 | 월간 코드 챌린지 시즌1                      |
+| 소수 찾기                    | https://programmers.co.kr/learn/courses/30/lessons/42839 | 완전탐색                                    |
 
