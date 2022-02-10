@@ -237,4 +237,5 @@
 | 소수 찾기                    | https://programmers.co.kr/learn/courses/30/lessons/42839 | 완전탐색                                    |
 | 큰 수 만들기                 | https://programmers.co.kr/learn/courses/30/lessons/42883 | 탐욕법(Greedy)                              |
 | 스킬트리                     | https://programmers.co.kr/learn/courses/30/lessons/49993 | Summer/Winter Coding(~2018)                 |
+| 위장                         | https://programmers.co.kr/learn/courses/30/lessons/42578 | 해시                                        |
 
