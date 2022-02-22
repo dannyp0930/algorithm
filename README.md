@@ -81,6 +81,7 @@
 | BOJ_7562_나이트의 이동   | https://www.acmicpc.net/problem/7562  |      |
 | BOJ_2580_스도쿠          | https://www.acmicpc.net/problem/2580  |      |
 | BOJ_1799_비숍            | https://www.acmicpc.net/problem/1799  |      |
+| BOJ_9663_N-Queen         | https://www.acmicpc.net/problem/9663  |      |
 
 
 
@@ -238,4 +239,5 @@
 | 큰 수 만들기                 | https://programmers.co.kr/learn/courses/30/lessons/42883 | 탐욕법(Greedy)                              |
 | 스킬트리                     | https://programmers.co.kr/learn/courses/30/lessons/49993 | Summer/Winter Coding(~2018)                 |
 | 위장                         | https://programmers.co.kr/learn/courses/30/lessons/42578 | 해시                                        |
+| 신고 결과 받기               | https://programmers.co.kr/learn/courses/30/lessons/92334 | 2022 KAKAO BLIND RECRUITMENT                |
 
