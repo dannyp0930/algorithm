@@ -59,6 +59,7 @@
 | BOJ_2479_경로찾기           | https://www.acmicpc.net/problem/2479  |                        |
 | BOJ_1726_로봇               | https://www.acmicpc.net/problem/1726  |                        |
 | BOJ_10711_모래성            | https://www.acmicpc.net/problem/10711 | SWEA 1907.모래성 쌓기  |
+| BOJ_1260_DFS와 BFS          | https://www.acmicpc.net/problem/1260  |                        |
 
 
 
