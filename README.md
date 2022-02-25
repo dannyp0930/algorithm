@@ -87,10 +87,11 @@
 
 ## Math
 
-| 문제               | 출처                                 | 비고 |
-| ------------------ | ------------------------------------ | ---- |
-| BOJ_1978_소수 찾기 | https://www.acmicpc.net/problem/1978 |      |
-| BOJ_2581_소수      | https://www.acmicpc.net/problem/2581 |      |
+| 문제                 | 출처                                  | 비고 |
+| -------------------- | ------------------------------------- | ---- |
+| BOJ_1978_소수 찾기   | https://www.acmicpc.net/problem/1978  |      |
+| BOJ_2581_소수        | https://www.acmicpc.net/problem/2581  |      |
+| BOJ_11653_소인수분해 | https://www.acmicpc.net/submit/11653/ |      |
 
 
 
