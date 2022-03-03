@@ -22,6 +22,3 @@ def solution(n, times):
             # 최소값 늘리기
             left = mid + 1
     return answer
-
-
-print(solution(6, [7, 10]))
