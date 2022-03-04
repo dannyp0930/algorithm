@@ -98,6 +98,7 @@
 | BOJ_9020_골드바흐의 추측   | https://www.acmicpc.net/problem/9020  |      |
 | BOJ_1085_직사각형에서 탈출 | https://www.acmicpc.net/problem/1085  |      |
 | BOJ_3009_네 번째 점        | https://www.acmicpc.net/problem/3009  |      |
+| BOJ_4153_직각삼각형        | https://www.acmicpc.net/problem/4153  |      |
 
 
 
