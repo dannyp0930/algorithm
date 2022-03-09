@@ -100,6 +100,7 @@
 | BOJ_3009_네 번째 점        | https://www.acmicpc.net/problem/3009  |      |
 | BOJ_4153_직각삼각형        | https://www.acmicpc.net/problem/4153  |      |
 | BOJ_3053_택시기하학        | https://www.acmicpc.net/problem/3053  |      |
+| BOJ_1002_터렛              | https://www.acmicpc.net/problem/1002  |      |
 
 
 
