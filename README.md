@@ -99,6 +99,7 @@
 | BOJ_1085_직사각형에서 탈출 | https://www.acmicpc.net/problem/1085  |      |
 | BOJ_3009_네 번째 점        | https://www.acmicpc.net/problem/3009  |      |
 | BOJ_4153_직각삼각형        | https://www.acmicpc.net/problem/4153  |      |
+| BOJ_10872_팩토리얼         | https://www.acmicpc.net/problem/10872 |      |
 
 
 
