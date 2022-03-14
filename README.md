@@ -101,8 +101,15 @@
 | BOJ_4153_직각삼각형        | https://www.acmicpc.net/problem/4153  |      |
 | BOJ_3053_택시기하학        | https://www.acmicpc.net/problem/3053  |      |
 | BOJ_1002_터렛              | https://www.acmicpc.net/problem/1002  |      |
-| BOJ_10872_팩토리얼         | https://www.acmicpc.net/problem/10872 |      |
-| BOJ_10820_피보나치 수 5    | https://www.acmicpc.net/problem/10870 |      |
+
+
+
+## 재귀
+
+| 문제                    | 출처                                  | 비고 |
+| ----------------------- | ------------------------------------- | ---- |
+| BOJ_10872_팩토리얼      | https://www.acmicpc.net/problem/10872 |      |
+| BOJ_10820_피보나치 수 5 | https://www.acmicpc.net/problem/10870 |      |
 
 
 
