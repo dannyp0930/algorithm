@@ -110,6 +110,7 @@
 | ----------------------- | ------------------------------------- | ---- |
 | BOJ_10872_팩토리얼      | https://www.acmicpc.net/problem/10872 |      |
 | BOJ_10820_피보나치 수 5 | https://www.acmicpc.net/problem/10870 |      |
+| BOJ_2447_별 찍기 - 10   | https://www.acmicpc.net/problem/2447  |      |
 
 
 
