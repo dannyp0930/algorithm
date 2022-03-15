@@ -106,11 +106,12 @@
 
 ## 재귀
 
-| 문제                    | 출처                                  | 비고 |
-| ----------------------- | ------------------------------------- | ---- |
-| BOJ_10872_팩토리얼      | https://www.acmicpc.net/problem/10872 |      |
-| BOJ_10820_피보나치 수 5 | https://www.acmicpc.net/problem/10870 |      |
-| BOJ_2447_별 찍기 - 10   | https://www.acmicpc.net/problem/2447  |      |
+| 문제                          | 출처                                  | 비고 |
+| ----------------------------- | ------------------------------------- | ---- |
+| BOJ_10872_팩토리얼            | https://www.acmicpc.net/problem/10872 |      |
+| BOJ_10820_피보나치 수 5       | https://www.acmicpc.net/problem/10870 |      |
+| BOJ_2447_별 찍기 - 10         | https://www.acmicpc.net/problem/2447  |      |
+| BOJ_11729_하노이 탑 이동 순서 | https://www.acmicpc.net/problem/11729 |      |
 
 
 
