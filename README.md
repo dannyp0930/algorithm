@@ -83,6 +83,7 @@
 | BOJ_2580_스도쿠          | https://www.acmicpc.net/problem/2580  |      |
 | BOJ_1799_비숍            | https://www.acmicpc.net/problem/1799  |      |
 | BOJ_9663_N-Queen         | https://www.acmicpc.net/problem/9663  |      |
+| BOJ_2529_부등호          | https://www.acmicpc.net/problem/2529  |      |
 
 
 
