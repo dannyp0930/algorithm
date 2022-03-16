@@ -5,9 +5,8 @@ def possible(i, j, k):
 
 
 def solve(cnt, num):
-
     global max_num, min_num
-    if cnt == n+1:
+    if cnt == n + 1:
         if not min_num:
             min_num = num
         else:
