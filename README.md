@@ -103,6 +103,7 @@
 | BOJ_3053_택시기하학        | https://www.acmicpc.net/problem/3053  |      |
 | BOJ_1002_터렛              | https://www.acmicpc.net/problem/1002  |      |
 | BOJ_4375_1                 | https://www.acmicpc.net/problem/4375  |      |
+| BOJ_1037_약수              | https://www.acmicpc.net/problem/1037  |      |
 
 
 
