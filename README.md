@@ -105,6 +105,7 @@
 | BOJ_4375_1                 | https://www.acmicpc.net/problem/4375  |      |
 | BOJ_1037_약수              | https://www.acmicpc.net/problem/1037  |      |
 | BOJ_17427_약수의 합 2      | https://www.acmicpc.net/problem/17427 |      |
+| BOJ_17425_약수의 합        | https://www.acmicpc.net/problem/17425 |      |
 
 
 
