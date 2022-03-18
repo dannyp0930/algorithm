@@ -89,23 +89,24 @@
 
 ## Math
 
-| 문제                       | 출처                                  | 비고 |
-| -------------------------- | ------------------------------------- | ---- |
-| BOJ_1978_소수 찾기         | https://www.acmicpc.net/problem/1978  |      |
-| BOJ_2581_소수              | https://www.acmicpc.net/problem/2581  |      |
-| BOJ_11653_소인수분해       | https://www.acmicpc.net/submit/11653/ |      |
-| BOJ_1929_소수 구하기       | https://www.acmicpc.net/problem/1929  |      |
-| BOJ_4948_베르트랑 공준     | https://www.acmicpc.net/problem/4948  |      |
-| BOJ_9020_골드바흐의 추측   | https://www.acmicpc.net/problem/9020  |      |
-| BOJ_1085_직사각형에서 탈출 | https://www.acmicpc.net/problem/1085  |      |
-| BOJ_3009_네 번째 점        | https://www.acmicpc.net/problem/3009  |      |
-| BOJ_4153_직각삼각형        | https://www.acmicpc.net/problem/4153  |      |
-| BOJ_3053_택시기하학        | https://www.acmicpc.net/problem/3053  |      |
-| BOJ_1002_터렛              | https://www.acmicpc.net/problem/1002  |      |
-| BOJ_4375_1                 | https://www.acmicpc.net/problem/4375  |      |
-| BOJ_1037_약수              | https://www.acmicpc.net/problem/1037  |      |
-| BOJ_17427_약수의 합 2      | https://www.acmicpc.net/problem/17427 |      |
-| BOJ_17425_약수의 합        | https://www.acmicpc.net/problem/17425 |      |
+| 문제                             | 출처                                  | 비고 |
+| -------------------------------- | ------------------------------------- | ---- |
+| BOJ_1978_소수 찾기               | https://www.acmicpc.net/problem/1978  |      |
+| BOJ_2581_소수                    | https://www.acmicpc.net/problem/2581  |      |
+| BOJ_11653_소인수분해             | https://www.acmicpc.net/submit/11653/ |      |
+| BOJ_1929_소수 구하기             | https://www.acmicpc.net/problem/1929  |      |
+| BOJ_4948_베르트랑 공준           | https://www.acmicpc.net/problem/4948  |      |
+| BOJ_9020_골드바흐의 추측         | https://www.acmicpc.net/problem/9020  |      |
+| BOJ_1085_직사각형에서 탈출       | https://www.acmicpc.net/problem/1085  |      |
+| BOJ_3009_네 번째 점              | https://www.acmicpc.net/problem/3009  |      |
+| BOJ_4153_직각삼각형              | https://www.acmicpc.net/problem/4153  |      |
+| BOJ_3053_택시기하학              | https://www.acmicpc.net/problem/3053  |      |
+| BOJ_1002_터렛                    | https://www.acmicpc.net/problem/1002  |      |
+| BOJ_4375_1                       | https://www.acmicpc.net/problem/4375  |      |
+| BOJ_1037_약수                    | https://www.acmicpc.net/problem/1037  |      |
+| BOJ_17427_약수의 합 2            | https://www.acmicpc.net/problem/17427 |      |
+| BOJ_17425_약수의 합              | https://www.acmicpc.net/problem/17425 |      |
+| BOJ_2609_최대공약수와 최소공배수 | https://www.acmicpc.net/problem/2609  |      |
 
 
 
