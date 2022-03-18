@@ -84,6 +84,7 @@
 | BOJ_1799_비숍            | https://www.acmicpc.net/problem/1799  |      |
 | BOJ_9663_N-Queen         | https://www.acmicpc.net/problem/9663  |      |
 | BOJ_2529_부등호          | https://www.acmicpc.net/problem/2529  |      |
+| BOJ_1182_부분수열의 합   | https://www.acmicpc.net/problem/1182  |      |
 
 
 
