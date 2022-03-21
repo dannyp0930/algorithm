@@ -280,4 +280,5 @@
 | 신고 결과 받기               | https://programmers.co.kr/learn/courses/30/lessons/92334 | 2022 KAKAO BLIND RECRUITMENT                |
 | 입국심사                     | https://programmers.co.kr/learn/courses/30/lessons/43238 | 이분탐색                                    |
 | 양궁대회                     | https://programmers.co.kr/learn/courses/30/lessons/92342 | 2022 KAKAO BLIND RECRUITMENT                |
+| n^2 배열 자르기              | https://programmers.co.kr/learn/courses/30/lessons/87390 | 월간 코드 챌린지 시즌3                      |
 
