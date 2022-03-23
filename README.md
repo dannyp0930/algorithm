@@ -125,11 +125,12 @@
 
 ## Bruteforce
 
-| 문제               | 출처                                 | 비고 |
-| ------------------ | ------------------------------------ | ---- |
-| BOJ_1476_날짜 계산 | https://www.acmicpc.net/problem/1476 |      |
-| BOJ_3085_사탕 게임 | https://www.acmicpc.net/problem/3085 |      |
-| BOJ_1107_리모컨    | https://www.acmicpc.net/problem/1107 |      |
+| 문제                 | 출처                                  | 비고 |
+| -------------------- | ------------------------------------- | ---- |
+| BOJ_1476_날짜 계산   | https://www.acmicpc.net/problem/1476  |      |
+| BOJ_3085_사탕 게임   | https://www.acmicpc.net/problem/3085  |      |
+| BOJ_1107_리모컨      | https://www.acmicpc.net/problem/1107  |      |
+| BOJ_14500_테트로미노 | https://www.acmicpc.net/problem/14500 |      |
 
 
 
