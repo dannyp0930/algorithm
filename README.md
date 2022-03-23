@@ -129,6 +129,7 @@
 | ------------------ | ------------------------------------ | ---- |
 | BOJ_1476_날짜 계산 | https://www.acmicpc.net/problem/1476 |      |
 | BOJ_3085_사탕 게임 | https://www.acmicpc.net/problem/3085 |      |
+| BOJ_1107_리모컨    | https://www.acmicpc.net/problem/1107 |      |
 
 
 
