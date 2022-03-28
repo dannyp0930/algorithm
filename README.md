@@ -67,10 +67,10 @@
 
 | 문제                     | 출처                                  | 비고 |
 | ------------------------ | ------------------------------------- | ---- |
-| BOJ_15649_N과M(1)        | https://www.acmicpc.net/problem/15649 |      |
-| BOJ_15650_N과M(2)        | https://www.acmicpc.net/problem/15650 |      |
-| BOJ_15651_N과M(3)        | https://www.acmicpc.net/problem/15651 |      |
-| BOJ_15652_N과M(4)        | https://www.acmicpc.net/problem/15652 |      |
+| BOJ_15649_N과 M (1)      | https://www.acmicpc.net/problem/15649 |      |
+| BOJ_15650_N과 M (2)      | https://www.acmicpc.net/problem/15650 |      |
+| BOJ_15651_N과 M (3)      | https://www.acmicpc.net/problem/15651 |      |
+| BOJ_15652_N과 M (4)      | https://www.acmicpc.net/problem/15652 |      |
 | BOJ_2798_블랙잭          | https://www.acmicpc.net/problem/2798  |      |
 | BOJ_2309_일곱 난쟁이     | https://www.acmicpc.net/problem/2309  |      |
 | SWEA_2817_부분 수열의 합 | SWEA/CODE/2817                        |      |
@@ -85,6 +85,7 @@
 | BOJ_9663_N-Queen         | https://www.acmicpc.net/problem/9663  |      |
 | BOJ_2529_부등호          | https://www.acmicpc.net/problem/2529  |      |
 | BOJ_1182_부분수열의 합   | https://www.acmicpc.net/problem/1182  |      |
+| BOJ_15654_N과 M (5)      | https://www.acmicpc.net/problem/15654 |      |
 
 
 
