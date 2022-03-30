@@ -86,6 +86,8 @@
 | BOJ_2529_부등호          | https://www.acmicpc.net/problem/2529  |      |
 | BOJ_1182_부분수열의 합   | https://www.acmicpc.net/problem/1182  |      |
 | BOJ_15654_N과 M (5)      | https://www.acmicpc.net/problem/15654 |      |
+| BOJ_15655_N과 M (6)      | https://www.acmicpc.net/problem/15655 |      |
+| BOJ_15656_N과 M (7)      | https://www.acmicpc.net/problem/15656 |      |
 
 
 
