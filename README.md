@@ -300,4 +300,5 @@
 | n^2 배열 자르기              | https://programmers.co.kr/learn/courses/30/lessons/87390 | 월간 코드 챌린지 시즌3                      |
 | 수식 최대화                  | https://programmers.co.kr/learn/courses/30/lessons/67257 | 2020 카카오 인턴십                          |
 | 빛의 경로 사이클             | https://programmers.co.kr/learn/courses/30/lessons/86052 | 월간 코드 챌린지 시즌 3                     |
+| 게임 맵 최단거리             | https://programmers.co.kr/learn/courses/30/lessons/1844  | 찾아라 프로그래밍 마에스터                  |
 
