@@ -90,6 +90,7 @@
 | BOJ_15656_N과 M (7)      | https://www.acmicpc.net/problem/15656 |      |
 | BOJ_15657_N과 M (8)      | https://www.acmicpc.net/problem/15657 |      |
 | BOJ_18290_NM과 K(1)      | https://www.acmicpc.net/problem/18290 |      |
+| BOJ_14889_스타트와링크   | https://www.acmicpc.net/problem/14889 |      |
 
 
 
