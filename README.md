@@ -140,6 +140,7 @@
 | BOJ_6064_카잉 달력      | https://www.acmicpc.net/problem/6064  |      |
 | BOJ_1748_수 이어 쓰기 1 | https://www.acmicpc.net/problem/1748  |      |
 | BOJ_2231_분해합         | https://www.acmicpc.net/problem/2231  |      |
+| BOJ_7568_덩치           | https://www.acmicpc.net/problem/7568  |      |
 
 
 
