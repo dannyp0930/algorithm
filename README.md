@@ -131,16 +131,17 @@
 
 ## Bruteforce
 
-| 문제                    | 출처                                  | 비고 |
-| ----------------------- | ------------------------------------- | ---- |
-| BOJ_1476_날짜 계산      | https://www.acmicpc.net/problem/1476  |      |
-| BOJ_3085_사탕 게임      | https://www.acmicpc.net/problem/3085  |      |
-| BOJ_1107_리모컨         | https://www.acmicpc.net/problem/1107  |      |
-| BOJ_14500_테트로미노    | https://www.acmicpc.net/problem/14500 |      |
-| BOJ_6064_카잉 달력      | https://www.acmicpc.net/problem/6064  |      |
-| BOJ_1748_수 이어 쓰기 1 | https://www.acmicpc.net/problem/1748  |      |
-| BOJ_2231_분해합         | https://www.acmicpc.net/problem/2231  |      |
-| BOJ_7568_덩치           | https://www.acmicpc.net/problem/7568  |      |
+| 문제                        | 출처                                  | 비고 |
+| --------------------------- | ------------------------------------- | ---- |
+| BOJ_1476_날짜 계산          | https://www.acmicpc.net/problem/1476  |      |
+| BOJ_3085_사탕 게임          | https://www.acmicpc.net/problem/3085  |      |
+| BOJ_1107_리모컨             | https://www.acmicpc.net/problem/1107  |      |
+| BOJ_14500_테트로미노        | https://www.acmicpc.net/problem/14500 |      |
+| BOJ_6064_카잉 달력          | https://www.acmicpc.net/problem/6064  |      |
+| BOJ_1748_수 이어 쓰기 1     | https://www.acmicpc.net/problem/1748  |      |
+| BOJ_2231_분해합             | https://www.acmicpc.net/problem/2231  |      |
+| BOJ_7568_덩치               | https://www.acmicpc.net/problem/7568  |      |
+| BOJ_1018_체스판 다시 칠하기 | https://www.acmicpc.net/problem/1018  |      |
 
 
 
