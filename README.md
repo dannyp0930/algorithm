@@ -91,7 +91,6 @@
 | BOJ_15657_N과 M (8)      | https://www.acmicpc.net/problem/15657 |      |
 | BOJ_18290_NM과 K(1)      | https://www.acmicpc.net/problem/18290 |      |
 | BOJ_14889_스타트와링크   | https://www.acmicpc.net/problem/14889 |      |
-| BOJ_1436_영화감독 슘     | https://www.acmicpc.net/problem/1436  |      |
 
 
 
@@ -143,6 +142,7 @@
 | BOJ_2231_분해합             | https://www.acmicpc.net/problem/2231  |      |
 | BOJ_7568_덩치               | https://www.acmicpc.net/problem/7568  |      |
 | BOJ_1018_체스판 다시 칠하기 | https://www.acmicpc.net/problem/1018  |      |
+| BOJ_1436_영화감독 숌        | https://www.acmicpc.net/problem/1436  |      |
 
 
 
