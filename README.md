@@ -148,10 +148,11 @@
 
 ## 정렬
 
-| 문제                  | 출처                                 | 비고 |
-| --------------------- | ------------------------------------ | ---- |
-| BOJ_2750_수 정렬하기  | https://www.acmicpc.net/problem/2750 |      |
-| BOJ_2751_수 정렬하기2 | https://www.acmicpc.net/problem/2751 |      |
+| 문제                   | 출처                                  | 비고 |
+| ---------------------- | ------------------------------------- | ---- |
+| BOJ_2750_수 정렬하기   | https://www.acmicpc.net/problem/2750  |      |
+| BOJ_2751_수 정렬하기2  | https://www.acmicpc.net/problem/2751  |      |
+| BOJ_10989_수 정렬하기3 | https://www.acmicpc.net/problem/10989 |      |
 
 
 
