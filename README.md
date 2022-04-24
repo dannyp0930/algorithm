@@ -318,4 +318,5 @@
 | 빛의 경로 사이클             | https://programmers.co.kr/learn/courses/30/lessons/86052 | 월간 코드 챌린지 시즌 3                     |
 | 게임 맵 최단거리             | https://programmers.co.kr/learn/courses/30/lessons/1844  | 찾아라 프로그래밍 마에스터                  |
 | [1차] 캐시                   | https://programmers.co.kr/learn/courses/30/lessons/17680 | 2018 KAKAO BLIND RECRUITMENT                |
+| [1차] 프렌즈4블록            | https://programmers.co.kr/learn/courses/30/lessons/17679 | 2018 KAKAO BLIND RECRUITMENT                |
 
