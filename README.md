@@ -153,6 +153,7 @@
 | BOJ_2750_수 정렬하기   | https://www.acmicpc.net/problem/2750  |      |
 | BOJ_2751_수 정렬하기2  | https://www.acmicpc.net/problem/2751  |      |
 | BOJ_10989_수 정렬하기3 | https://www.acmicpc.net/problem/10989 |      |
+| BOJ_2108_통계학        | https://www.acmicpc.net/problem/2108  |      |
 
 
 
