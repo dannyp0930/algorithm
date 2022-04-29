@@ -115,6 +115,7 @@
 | BOJ_17425_약수의 합              | https://www.acmicpc.net/problem/17425 |      |
 | BOJ_2609_최대공약수와 최소공배수 | https://www.acmicpc.net/problem/2609  |      |
 | BOJ_6588_골드바흐의 추측         | https://www.acmicpc.net/problem/6588  |      |
+| BOJ_5086_배수와 약수             | https://www.acmicpc.net/problem/5086  |      |
 
 
 
