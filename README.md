@@ -148,6 +148,7 @@
 | BOJ_7568_덩치               | https://www.acmicpc.net/problem/7568  |      |
 | BOJ_1018_체스판 다시 칠하기 | https://www.acmicpc.net/problem/1018  |      |
 | BOJ_1436_영화감독 숌        | https://www.acmicpc.net/problem/1436  |      |
+| BOJ_1059_좋은 구간          | https://www.acmicpc.net/problem/1059  |      |
 
 
 
