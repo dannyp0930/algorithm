@@ -119,6 +119,7 @@
 | BOJ_1934_최소공배수              | https://www.acmicpc.net/problem/1934  |      |
 | BOJ_2981_검문                    | https://www.acmicpc.net/problem/2981  |      |
 | BOJ_3036_링                      | https://www.acmicpc.net/problem/3036  |      |
+| BOJ_1064_평행사변형              | https://www.acmicpc.net/problem/1064  |      |
 
 
 
