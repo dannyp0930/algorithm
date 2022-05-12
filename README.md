@@ -163,6 +163,7 @@
 | BOJ_2108_통계학         | https://www.acmicpc.net/problem/2108  |      |
 | BOJ_1427_소트인사이드   | https://www.acmicpc.net/problem/1427  |      |
 | BOJ_11650_좌표 정렬하기 | https://www.acmicpc.net/problem/11650 |      |
+| BOJ_11651_좌표 정렬하기 | https://www.acmicpc.net/problem/11651 |      |
 
 
 
