@@ -151,6 +151,7 @@
 | BOJ_1018_체스판 다시 칠하기 | https://www.acmicpc.net/problem/1018  |      |
 | BOJ_1436_영화감독 숌        | https://www.acmicpc.net/problem/1436  |      |
 | BOJ_1059_좋은 구간          | https://www.acmicpc.net/problem/1059  |      |
+| BOJ_1027_고층 건물          | https://www.acmicpc.net/problem/1027  |      |
 
 
 
