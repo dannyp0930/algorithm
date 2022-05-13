@@ -120,6 +120,7 @@
 | BOJ_2981_검문                    | https://www.acmicpc.net/problem/2981  |      |
 | BOJ_3036_링                      | https://www.acmicpc.net/problem/3036  |      |
 | BOJ_1064_평행사변형              | https://www.acmicpc.net/problem/1064  |      |
+| BOJ_3034_앵그리 창영             | https://www.acmicpc.net/problem/3034  |      |
 
 
 
