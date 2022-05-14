@@ -167,15 +167,16 @@
 
 ## 정렬
 
-| 문제                    | 출처                                  | 비고 |
-| ----------------------- | ------------------------------------- | ---- |
-| BOJ_2750_수 정렬하기    | https://www.acmicpc.net/problem/2750  |      |
-| BOJ_2751_수 정렬하기2   | https://www.acmicpc.net/problem/2751  |      |
-| BOJ_10989_수 정렬하기3  | https://www.acmicpc.net/problem/10989 |      |
-| BOJ_2108_통계학         | https://www.acmicpc.net/problem/2108  |      |
-| BOJ_1427_소트인사이드   | https://www.acmicpc.net/problem/1427  |      |
-| BOJ_11650_좌표 정렬하기 | https://www.acmicpc.net/problem/11650 |      |
-| BOJ_11651_좌표 정렬하기 | https://www.acmicpc.net/problem/11651 |      |
+| 문제                     | 출처                                  | 비고 |
+| ------------------------ | ------------------------------------- | ---- |
+| BOJ_2750_수 정렬하기     | https://www.acmicpc.net/problem/2750  |      |
+| BOJ_2751_수 정렬하기2    | https://www.acmicpc.net/problem/2751  |      |
+| BOJ_10989_수 정렬하기3   | https://www.acmicpc.net/problem/10989 |      |
+| BOJ_2108_통계학          | https://www.acmicpc.net/problem/2108  |      |
+| BOJ_1427_소트인사이드    | https://www.acmicpc.net/problem/1427  |      |
+| BOJ_11650_좌표 정렬하기  | https://www.acmicpc.net/problem/11650 |      |
+| BOJ_11651_좌표 정렬하기2 | https://www.acmicpc.net/problem/11651 |      |
+| BOJ_1181_단어 정렬       | https://www.acmicpc.net/problem/1181  |      |
 
 
 
