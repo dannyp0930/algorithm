@@ -6,6 +6,7 @@
 | ------------------- | ------------------------------------ | ---- |
 | BOJ_2920_음계       | https://www.acmicpc.net/problem/2920 |      |
 | BOJ_1259_팰린드롬수 | https://www.acmicpc.net/problem/1259 |      |
+| BOJ_2475_검증수     | https://www.acmicpc.net/problem/2475 |      |
 
 
 
