@@ -134,6 +134,7 @@
 | 17070_파이프 옮기기 1        | https://www.acmicpc.net/problem/17070 |                        |
 | 17135_캐슬 디펜스            | https://www.acmicpc.net/problem/17135 |                        |
 | 1920_수 찾기                 | https://www.acmicpc.net/problem/1920  |                        |
+| 2164_카드2                   | https://www.acmicpc.net/problem/2164  |                        |
 
 ## SWEA
 
