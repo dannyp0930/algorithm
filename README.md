@@ -1,237 +1,177 @@
 # 알고리즘 연습 REPO
 
-## 구현
+## baekjoon
 
-| 문제                | 출처                                 | 비고 |
-| ------------------- | ------------------------------------ | ---- |
-| BOJ_2920_음계       | https://www.acmicpc.net/problem/2920 |      |
-| BOJ_1259_팰린드롬수 | https://www.acmicpc.net/problem/1259 |      |
-| BOJ_2475_검증수     | https://www.acmicpc.net/problem/2475 |      |
+| 문제                         | 출처                                  | 비고                   |
+| ---------------------------- | ------------------------------------- | ---------------------- |
+| 2920_음계                    | https://www.acmicpc.net/problem/2920  |                        |
+| 1259_팰린드롬수              | https://www.acmicpc.net/problem/1259  |                        |
+| 2475_검증수                  | https://www.acmicpc.net/problem/2475  |                        |
+| 1463_1로 만들기              | https://www.acmicpc.net/problem/1463  |                        |
+| 9095_1, 2, 3 더하기          | https://www.acmicpc.net/problem/9095  |                        |
+| 1003_피보나치 함수           | https://www.acmicpc.net/problem/1003  |                        |
+| 11726_2xN 타일링             | https://www.acmicpc.net/problem/11726 |                        |
+| 1149_RGB 거리                | https://www.acmicpc.net/problem/1149  |                        |
+| 2579_계단 오르기             | https://www.acmicpc.net/problem/2579  |                        |
+| 2913_이친수                  | https://www.acmicpc.net/problem/2193  |                        |
+| 1932_정수 삼각형             | https://www.acmicpc.net/problem/1932  |                        |
+| 2156_포도주 시식             | https://www.acmicpc.net/problem/2156  |                        |
+| 2167_2차원 배열의 합         | https://www.acmicpc.net/problem/2167  |                        |
+| 10844_쉬운 계단 수           | https://www.acmicpc.net/problem/10844 |                        |
+| 15486_퇴사2                  | https://www.acmicpc.net/problem/15486 |                        |
+| 9084_동전                    | https://www.acmicpc.net/problem/9084  |                        |
+| 1520_내리막 길               | https://www.acmicpc.net/problem/1520  |                        |
+| 1890_점프                    | https://www.acmicpc.net/problem/1890  |                        |
+| 10164_격자상의 경로          | https://www.acmicpc.net/problem/10164 |                        |
+| 5557_1학년                   | https://www.acmicpc.net/problem/5557  |                        |
+| 1010_다리 놓기               | https://www.acmicpc.net/problem/1010  |                        |
+| 17069_파이프 옮기기 2        | https://www.acmicpc.net/problem/17069 |                        |
+| 2294_동전 2                  | https://www.acmicpc.net/problem/2294  | 유명한 문제            |
+| 11051_이항 계수 2            | https://www.acmicpc.net/problem/11051 | 유명한 문제            |
+| 5582_공통 부분 문자열        | https://www.acmicpc.net/problem/5582  | 유명한 문제            |
+| 1912_연속합                  | https://www.acmicpc.net/problem/1912  | 유명한 문제            |
+| 9251_LCS                     | https://www.acmicpc.net/problem/9251  | 유명한 문제            |
+| 2098_외판원 순회             | https://www.acmicpc.net/problem/2098  | 유명한 문제, 순열      |
+| 11049_행렬 곱셈 순서         | https://www.acmicpc.net/problem/11049 | 유명한 문제            |
+| 2606_바이러스                | https://www.acmicpc.net/problem/2606  |                        |
+| 2667_단지번호붙이기          | https://www.acmicpc.net/problem/2667  | 결합 컴포넌트          |
+| 10026_적록색약               | https://www.acmicpc.net/problem/10026 |                        |
+| 1012_유기농 배추             | https://www.acmicpc.net/problem/1012  | DFS는 Depth limit 주의 |
+| 7576_토마토                  | https://www.acmicpc.net/problem/7576  |                        |
+| 7569_토마토                  | https://www.acmicpc.net/problem/7569  |                        |
+| 2583_영역 구하기             | https://www.acmicpc.net/problem/2583  |                        |
+| 2468_안전 영역               | https://www.acmicpc.net/problem/2468  |                        |
+| 2589_보물섬                  | https://www.acmicpc.net/problem/2589  |                        |
+| 2636_치즈                    | https://www.acmicpc.net/problem/2636  |                        |
+| 2660_회장뽑기                | https://www.acmicpc.net/problem/2660  |                        |
+| 2206_벽 부수고 이동하기      | https://www.acmicpc.net/problem/2206  |                        |
+| 5427_불                      | https://www.acmicpc.net/problem/5427  |                        |
+| 2146_다리 만들기             | https://www.acmicpc.net/problem/2146  |                        |
+| 2644_촌수계산                | https://www.acmicpc.net/problem/2644  |                        |
+| 2479_경로찾기                | https://www.acmicpc.net/problem/2479  |                        |
+| 1726_로봇                    | https://www.acmicpc.net/problem/1726  |                        |
+| 10711_모래성                 | https://www.acmicpc.net/problem/10711 | SWEA 1907.모래성 쌓기  |
+| 1260_DFS와 BFS               | https://www.acmicpc.net/problem/1260  |                        |
+| 15649_N과 M (1)              | https://www.acmicpc.net/problem/15649 |                        |
+| 15650_N과 M (2)              | https://www.acmicpc.net/problem/15650 |                        |
+| 15651_N과 M (3)              | https://www.acmicpc.net/problem/15651 |                        |
+| 15652_N과 M (4)              | https://www.acmicpc.net/problem/15652 |                        |
+| 2798_블랙잭                  | https://www.acmicpc.net/problem/2798  |                        |
+| 2309_일곱 난쟁이             | https://www.acmicpc.net/problem/2309  |                        |
+| 6603_로또                    | https://www.acmicpc.net/problem/6603  |                        |
+| 1759_암호 만들기             | https://www.acmicpc.net/problem/1759  |                        |
+| 1697_숨바꼭질                | https://www.acmicpc.net/problem/1697  |                        |
+| 2210_숫자판 점프             | https://www.acmicpc.net/problem/2210  |                        |
+| 1941_소문난 칠공주           | https://www.acmicpc.net/problem/1941  |                        |
+| 7562_나이트의 이동           | https://www.acmicpc.net/problem/7562  |                        |
+| 2580_스도쿠                  | https://www.acmicpc.net/problem/2580  |                        |
+| 1799_비숍                    | https://www.acmicpc.net/problem/1799  |                        |
+| 9663_N-Queen                 | https://www.acmicpc.net/problem/9663  |                        |
+| 2529_부등호                  | https://www.acmicpc.net/problem/2529  |                        |
+| 1182_부분수열의 합           | https://www.acmicpc.net/problem/1182  |                        |
+| 15654_N과 M (5)              | https://www.acmicpc.net/problem/15654 |                        |
+| 15655_N과 M (6)              | https://www.acmicpc.net/problem/15655 |                        |
+| 15656_N과 M (7)              | https://www.acmicpc.net/problem/15656 |                        |
+| 15657_N과 M (8)              | https://www.acmicpc.net/problem/15657 |                        |
+| 18290_NM과 K(1)              | https://www.acmicpc.net/problem/18290 |                        |
+| 14889_스타트와링크           | https://www.acmicpc.net/problem/14889 |                        |
+| 1978_소수 찾기               | https://www.acmicpc.net/problem/1978  |                        |
+| 2581_소수                    | https://www.acmicpc.net/problem/2581  |                        |
+| 11653_소인수분해             | https://www.acmicpc.net/submit/11653/ |                        |
+| 1929_소수 구하기             | https://www.acmicpc.net/problem/1929  |                        |
+| 4948_베르트랑 공준           | https://www.acmicpc.net/problem/4948  |                        |
+| 9020_골드바흐의 추측         | https://www.acmicpc.net/problem/9020  |                        |
+| 1085_직사각형에서 탈출       | https://www.acmicpc.net/problem/1085  |                        |
+| 3009_네 번째 점              | https://www.acmicpc.net/problem/3009  |                        |
+| 4153_직각삼각형              | https://www.acmicpc.net/problem/4153  |                        |
+| 3053_택시기하학              | https://www.acmicpc.net/problem/3053  |                        |
+| 1002_터렛                    | https://www.acmicpc.net/problem/1002  |                        |
+| 4375_1                       | https://www.acmicpc.net/problem/4375  |                        |
+| 1037_약수                    | https://www.acmicpc.net/problem/1037  |                        |
+| 17427_약수의 합 2            | https://www.acmicpc.net/problem/17427 |                        |
+| 17425_약수의 합              | https://www.acmicpc.net/problem/17425 |                        |
+| 2609_최대공약수와 최소공배수 | https://www.acmicpc.net/problem/2609  |                        |
+| 6588_골드바흐의 추측         | https://www.acmicpc.net/problem/6588  |                        |
+| 5086_배수와 약수             | https://www.acmicpc.net/problem/5086  |                        |
+| 1934_최소공배수              | https://www.acmicpc.net/problem/1934  |                        |
+| 2981_검문                    | https://www.acmicpc.net/problem/2981  |                        |
+| 3036_링                      | https://www.acmicpc.net/problem/3036  |                        |
+| 1064_평행사변형              | https://www.acmicpc.net/problem/1064  |                        |
+| 3034_앵그리 창영             | https://www.acmicpc.net/problem/3034  |                        |
+| 10872_팩토리얼               | https://www.acmicpc.net/problem/10872 |                        |
+| 10820_피보나치 수 5          | https://www.acmicpc.net/problem/10870 |                        |
+| 2447_별 찍기 - 10            | https://www.acmicpc.net/problem/2447  |                        |
+| 11729_하노이 탑 이동 순서    | https://www.acmicpc.net/problem/11729 |                        |
+| 17478_재귀함수가 뭔가요?     | https://www.acmicpc.net/problem/17478 |                        |
+| 1476_날짜 계산               | https://www.acmicpc.net/problem/1476  |                        |
+| 3085_사탕 게임               | https://www.acmicpc.net/problem/3085  |                        |
+| 1107_리모컨                  | https://www.acmicpc.net/problem/1107  |                        |
+| 14500_테트로미노             | https://www.acmicpc.net/problem/14500 |                        |
+| 6064_카잉 달력               | https://www.acmicpc.net/problem/6064  |                        |
+| 1748_수 이어 쓰기 1          | https://www.acmicpc.net/problem/1748  |                        |
+| 2231_분해합                  | https://www.acmicpc.net/problem/2231  |                        |
+| 7568_덩치                    | https://www.acmicpc.net/problem/7568  |                        |
+| 1018_체스판 다시 칠하기      | https://www.acmicpc.net/problem/1018  |                        |
+| 1436_영화감독 숌             | https://www.acmicpc.net/problem/1436  |                        |
+| 1059_좋은 구간               | https://www.acmicpc.net/problem/1059  |                        |
+| 1027_고층 건물               | https://www.acmicpc.net/problem/1027  |                        |
+| 2750_수 정렬하기             | https://www.acmicpc.net/problem/2750  |                        |
+| 2751_수 정렬하기2            | https://www.acmicpc.net/problem/2751  |                        |
+| 10989_수 정렬하기3           | https://www.acmicpc.net/problem/10989 |                        |
+| 2108_통계학                  | https://www.acmicpc.net/problem/2108  |                        |
+| 1427_소트인사이드            | https://www.acmicpc.net/problem/1427  |                        |
+| 11650_좌표 정렬하기          | https://www.acmicpc.net/problem/11650 |                        |
+| 11651_좌표 정렬하기2         | https://www.acmicpc.net/problem/11651 |                        |
+| 1181_단어 정렬               | https://www.acmicpc.net/problem/1181  |                        |
+| 14501_퇴사                   | https://www.acmicpc.net/problem/14501 |                        |
+| 14503_로봇 청소기            | https://www.acmicpc.net/problem/14503 |                        |
+| 14888_연산자 끼워넣기        | https://www.acmicpc.net/problem/14888 |                        |
+| 17155_미세먼지 안녕!         | https://www.acmicpc.net/problem/17144 |                        |
+| 15686_치킨 배달              | https://www.acmicpc.net/problem/15686 |                        |
+| 17471_게리맨더링             | https://www.acmicpc.net/problem/17471 |                        |
+| 14502_연구소                 | https://www.acmicpc.net/problem/14502 |                        |
+| 17136_색종이 붙이기          | https://www.acmicpc.net/problem/17136 |                        |
+| 파이프 옮기기 1              | https://www.acmicpc.net/problem/17070 |                        |
+| 캐슬 디펜스                  | https://www.acmicpc.net/problem/17135 |                        |
 
+## SWEA
 
-
-## DP
-
-| 문제                                 | 출처                                  | 비고              |
-| ------------------------------------ | ------------------------------------- | ----------------- |
-| BOJ_1463_1로 만들기                  | https://www.acmicpc.net/problem/1463  |                   |
-| BOJ_9095_1, 2, 3 더하기              | https://www.acmicpc.net/problem/9095  |                   |
-| BOJ_1003_피보나치 함수               | https://www.acmicpc.net/problem/1003  |                   |
-| BOJ_11726_2xN 타일링                 | https://www.acmicpc.net/problem/11726 |                   |
-| BOJ_1149_RGB 거리                    | https://www.acmicpc.net/problem/1149  |                   |
-| BOJ_2579_계단 오르기                 | https://www.acmicpc.net/problem/2579  |                   |
-| BOJ_2913_이친수                      | https://www.acmicpc.net/problem/2193  |                   |
-| BOJ_1932_정수 삼각형                 | https://www.acmicpc.net/problem/1932  |                   |
-| BOJ_2156_포도주 시식                 | https://www.acmicpc.net/problem/2156  |                   |
-| BOJ_2167_2차원 배열의 합             | https://www.acmicpc.net/problem/2167  |                   |
-| BOJ_10844_쉬운 계단 수               | https://www.acmicpc.net/problem/10844 |                   |
-| BOJ_15486_퇴사2                      | https://www.acmicpc.net/problem/15486 |                   |
-| BOJ_9084_동전                        | https://www.acmicpc.net/problem/9084  |                   |
-| BOJ_1520_내리막 길                   | https://www.acmicpc.net/problem/1520  |                   |
-| BOJ_1890_점프                        | https://www.acmicpc.net/problem/1890  |                   |
-| BOJ_10164_격자상의 경로              | https://www.acmicpc.net/problem/10164 |                   |
-| BOJ_5557_1학년                       | https://www.acmicpc.net/problem/5557  |                   |
-| BOJ_1010_다리 놓기                   | https://www.acmicpc.net/problem/1010  |                   |
-| BOJ_17069_파이프 옮기기 2            | https://www.acmicpc.net/problem/17069 |                   |
-| BOJ_2294_동전 2                      | https://www.acmicpc.net/problem/2294  | 유명한 문제       |
-| BOJ_11051_이항 계수 2                | https://www.acmicpc.net/problem/11051 | 유명한 문제       |
-| SWEA_3282_0/1 Knapsack               | SWEA/CODE/3282                        | 유명한 문제       |
-| BOJ_5582_공통 부분 문자열            | https://www.acmicpc.net/problem/5582  | 유명한 문제       |
-| BOJ_1912_연속합                      | https://www.acmicpc.net/problem/1912  | 유명한 문제       |
-| BOJ_9251_LCS                         | https://www.acmicpc.net/problem/9251  | 유명한 문제       |
-| SWEA_3307_최장 증가 부분 수열        | SWEA/CODE/3307                        | 유명한 문제       |
-| SWEA_3308_최장 증가 부분 수열 (Hard) | SWEA/CODE/3308                        | 유명한 문제       |
-| BOJ_2098_외판원 순회                 | https://www.acmicpc.net/problem/2098  | 유명한 문제, 순열 |
-| BOJ_11049_행렬 곱셈 순서             | https://www.acmicpc.net/problem/11049 | 유명한 문제       |
-
-
-
-## DFS/BFS
-
-| 문제                        | 출처                                  | 비고                   |
-| --------------------------- | ------------------------------------- | ---------------------- |
-| BOJ_2606_바이러스           | https://www.acmicpc.net/problem/2606  |                        |
-| BOJ_2667_단지번호붙이기     | https://www.acmicpc.net/problem/2667  | 결합 컴포넌트          |
-| SWEA_2814_최장경로          | SWEA/CODE/2814                        |                        |
-| BOJ_10026_적록색약          | https://www.acmicpc.net/problem/10026 |                        |
-| BOJ_1012_유기농 배추        | https://www.acmicpc.net/problem/1012  | DFS는 Depth limit 주의 |
-| BOJ_7576_토마토             | https://www.acmicpc.net/problem/7576  |                        |
-| BOJ_7569_토마토             | https://www.acmicpc.net/problem/7569  |                        |
-| BOJ_2583_영역 구하기        | https://www.acmicpc.net/problem/2583  |                        |
-| BOJ_2468_안전 영역          | https://www.acmicpc.net/problem/2468  |                        |
-| BOJ_2589_보물섬             | https://www.acmicpc.net/problem/2589  |                        |
-| BOJ_2636_치즈               | https://www.acmicpc.net/problem/2636  |                        |
-| BOJ_2660_회장뽑기           | https://www.acmicpc.net/problem/2660  |                        |
-| BOJ_2206_벽 부수고 이동하기 | https://www.acmicpc.net/problem/2206  |                        |
-| BOJ_5427_불                 | https://www.acmicpc.net/problem/5427  |                        |
-| BOJ_2146_다리 만들기        | https://www.acmicpc.net/problem/2146  |                        |
-| BOJ_2644_촌수계산           | https://www.acmicpc.net/problem/2644  |                        |
-| BOJ_2479_경로찾기           | https://www.acmicpc.net/problem/2479  |                        |
-| BOJ_1726_로봇               | https://www.acmicpc.net/problem/1726  |                        |
-| BOJ_10711_모래성            | https://www.acmicpc.net/problem/10711 | SWEA 1907.모래성 쌓기  |
-| BOJ_1260_DFS와 BFS          | https://www.acmicpc.net/problem/1260  |                        |
-
-
-
-## 백트래킹
-
-| 문제                     | 출처                                  | 비고 |
-| ------------------------ | ------------------------------------- | ---- |
-| BOJ_15649_N과 M (1)      | https://www.acmicpc.net/problem/15649 |      |
-| BOJ_15650_N과 M (2)      | https://www.acmicpc.net/problem/15650 |      |
-| BOJ_15651_N과 M (3)      | https://www.acmicpc.net/problem/15651 |      |
-| BOJ_15652_N과 M (4)      | https://www.acmicpc.net/problem/15652 |      |
-| BOJ_2798_블랙잭          | https://www.acmicpc.net/problem/2798  |      |
-| BOJ_2309_일곱 난쟁이     | https://www.acmicpc.net/problem/2309  |      |
-| SWEA_2817_부분 수열의 합 | SWEA/CODE/2817                        |      |
-| BOJ_6603_로또            | https://www.acmicpc.net/problem/6603  |      |
-| BOJ_1759_암호 만들기     | https://www.acmicpc.net/problem/1759  |      |
-| BOJ_1697_숨바꼭질        | https://www.acmicpc.net/problem/1697  |      |
-| BOJ_2210_숫자판 점프     | https://www.acmicpc.net/problem/2210  |      |
-| BOJ_1941_소문난 칠공주   | https://www.acmicpc.net/problem/1941  |      |
-| BOJ_7562_나이트의 이동   | https://www.acmicpc.net/problem/7562  |      |
-| BOJ_2580_스도쿠          | https://www.acmicpc.net/problem/2580  |      |
-| BOJ_1799_비숍            | https://www.acmicpc.net/problem/1799  |      |
-| BOJ_9663_N-Queen         | https://www.acmicpc.net/problem/9663  |      |
-| BOJ_2529_부등호          | https://www.acmicpc.net/problem/2529  |      |
-| BOJ_1182_부분수열의 합   | https://www.acmicpc.net/problem/1182  |      |
-| BOJ_15654_N과 M (5)      | https://www.acmicpc.net/problem/15654 |      |
-| BOJ_15655_N과 M (6)      | https://www.acmicpc.net/problem/15655 |      |
-| BOJ_15656_N과 M (7)      | https://www.acmicpc.net/problem/15656 |      |
-| BOJ_15657_N과 M (8)      | https://www.acmicpc.net/problem/15657 |      |
-| BOJ_18290_NM과 K(1)      | https://www.acmicpc.net/problem/18290 |      |
-| BOJ_14889_스타트와링크   | https://www.acmicpc.net/problem/14889 |      |
-
-
-
-## Math
-
-| 문제                             | 출처                                  | 비고 |
-| -------------------------------- | ------------------------------------- | ---- |
-| BOJ_1978_소수 찾기               | https://www.acmicpc.net/problem/1978  |      |
-| BOJ_2581_소수                    | https://www.acmicpc.net/problem/2581  |      |
-| BOJ_11653_소인수분해             | https://www.acmicpc.net/submit/11653/ |      |
-| BOJ_1929_소수 구하기             | https://www.acmicpc.net/problem/1929  |      |
-| BOJ_4948_베르트랑 공준           | https://www.acmicpc.net/problem/4948  |      |
-| BOJ_9020_골드바흐의 추측         | https://www.acmicpc.net/problem/9020  |      |
-| BOJ_1085_직사각형에서 탈출       | https://www.acmicpc.net/problem/1085  |      |
-| BOJ_3009_네 번째 점              | https://www.acmicpc.net/problem/3009  |      |
-| BOJ_4153_직각삼각형              | https://www.acmicpc.net/problem/4153  |      |
-| BOJ_3053_택시기하학              | https://www.acmicpc.net/problem/3053  |      |
-| BOJ_1002_터렛                    | https://www.acmicpc.net/problem/1002  |      |
-| BOJ_4375_1                       | https://www.acmicpc.net/problem/4375  |      |
-| BOJ_1037_약수                    | https://www.acmicpc.net/problem/1037  |      |
-| BOJ_17427_약수의 합 2            | https://www.acmicpc.net/problem/17427 |      |
-| BOJ_17425_약수의 합              | https://www.acmicpc.net/problem/17425 |      |
-| BOJ_2609_최대공약수와 최소공배수 | https://www.acmicpc.net/problem/2609  |      |
-| BOJ_6588_골드바흐의 추측         | https://www.acmicpc.net/problem/6588  |      |
-| BOJ_5086_배수와 약수             | https://www.acmicpc.net/problem/5086  |      |
-| BOJ_1934_최소공배수              | https://www.acmicpc.net/problem/1934  |      |
-| BOJ_2981_검문                    | https://www.acmicpc.net/problem/2981  |      |
-| BOJ_3036_링                      | https://www.acmicpc.net/problem/3036  |      |
-| BOJ_1064_평행사변형              | https://www.acmicpc.net/problem/1064  |      |
-| BOJ_3034_앵그리 창영             | https://www.acmicpc.net/problem/3034  |      |
-
-
-
-## 재귀
-
-| 문제                          | 출처                                  | 비고 |
-| ----------------------------- | ------------------------------------- | ---- |
-| BOJ_10872_팩토리얼            | https://www.acmicpc.net/problem/10872 |      |
-| BOJ_10820_피보나치 수 5       | https://www.acmicpc.net/problem/10870 |      |
-| BOJ_2447_별 찍기 - 10         | https://www.acmicpc.net/problem/2447  |      |
-| BOJ_11729_하노이 탑 이동 순서 | https://www.acmicpc.net/problem/11729 |      |
-| BOJ_17478_재귀함수가 뭔가요?  | https://www.acmicpc.net/problem/17478 |      |
-
-
-
-## Bruteforce
-
-| 문제                        | 출처                                  | 비고 |
-| --------------------------- | ------------------------------------- | ---- |
-| BOJ_1476_날짜 계산          | https://www.acmicpc.net/problem/1476  |      |
-| BOJ_3085_사탕 게임          | https://www.acmicpc.net/problem/3085  |      |
-| BOJ_1107_리모컨             | https://www.acmicpc.net/problem/1107  |      |
-| BOJ_14500_테트로미노        | https://www.acmicpc.net/problem/14500 |      |
-| BOJ_6064_카잉 달력          | https://www.acmicpc.net/problem/6064  |      |
-| BOJ_1748_수 이어 쓰기 1     | https://www.acmicpc.net/problem/1748  |      |
-| BOJ_2231_분해합             | https://www.acmicpc.net/problem/2231  |      |
-| BOJ_7568_덩치               | https://www.acmicpc.net/problem/7568  |      |
-| BOJ_1018_체스판 다시 칠하기 | https://www.acmicpc.net/problem/1018  |      |
-| BOJ_1436_영화감독 숌        | https://www.acmicpc.net/problem/1436  |      |
-| BOJ_1059_좋은 구간          | https://www.acmicpc.net/problem/1059  |      |
-| BOJ_1027_고층 건물          | https://www.acmicpc.net/problem/1027  |      |
-
-
-
-## 정렬
-
-| 문제                     | 출처                                  | 비고 |
-| ------------------------ | ------------------------------------- | ---- |
-| BOJ_2750_수 정렬하기     | https://www.acmicpc.net/problem/2750  |      |
-| BOJ_2751_수 정렬하기2    | https://www.acmicpc.net/problem/2751  |      |
-| BOJ_10989_수 정렬하기3   | https://www.acmicpc.net/problem/10989 |      |
-| BOJ_2108_통계학          | https://www.acmicpc.net/problem/2108  |      |
-| BOJ_1427_소트인사이드    | https://www.acmicpc.net/problem/1427  |      |
-| BOJ_11650_좌표 정렬하기  | https://www.acmicpc.net/problem/11650 |      |
-| BOJ_11651_좌표 정렬하기2 | https://www.acmicpc.net/problem/11651 |      |
-| BOJ_1181_단어 정렬       | https://www.acmicpc.net/problem/1181  |      |
-
-
-
-## SWEA 문제풀이
-
-| 문제                                | 출처            | 비고 |
-| ----------------------------------- | --------------- | ---- |
-| 1859_백만 장차 프로젝트             | SWEA/CODE/1859  |      |
-| 1961_숫자 배열 회전                 | SWEA/CODE/1961  |      |
-| 1974_스도쿠 검증                    | SWEA/CODE/1974  |      |
-| 1979_어디에 단어가 들어갈 수 있을까 | SWEA/CODE/1979  |      |
-| 4408_자기 방으로 돌아가기           | SWEA/CODE/4408  |      |
-| 5356_의석이의 세로로 말해요         | SWEA/CODE/5356  |      |
-| 5432_쇠막대기 자르기                | SWEA/CODE/5432  |      |
-| 6475_삼성시의 버스노선              | SWEA/CODE/6475  |      |
-| 1949_등산로 조성                    | SWEA/CODE/1940  |      |
-| 1952_수영장                         | SWEA/CODE/1952  |      |
-| 1953_탈주범 검거                    | SWEA/CODE/1953  |      |
-| 10966_물놀이를 가자                 | SWEA/CODE/10966 |      |
-| 1486_장훈이의 높은선반              | SWEA/CODE/1486  |      |
-| 1861_정사각형 방                    | SWEA/CODE/1861  |      |
-| 1970_쉬운 거스름돈                  | SWEA/CODE/1970  |      |
-| 2819_격자판의 숫자 이어 붙이기      | SWEA/CODE/2819  |      |
-| 4366_정식이의 은행업무              | SWEA/CODE/4366  |      |
-| 4012_요리사                         | SWEA/CODE/4012  |      |
-| 2105_디저트 카페                    | SWEA/CODE/2105  |      |
-| 1249_보급로                         | SWEA/CODE/1249  |      |
-| 1251_하나로                         | SWEA/CODE/1251  |      |
-| 1795_인수의 생일파티                | SWEA/CODE/1795  |      |
-| 7465_창용 마을 무리의 개수          | SWEA/CODE/7465  |      |
-
-
-
-## A형 대비 문제
-
-| 문제                        | 출처                                  | 비고 |
-| --------------------------- | ------------------------------------- | ---- |
-| BOJ_14501_퇴사              | https://www.acmicpc.net/problem/14501 |      |
-| BOJ_14503_로봇 청소기       | https://www.acmicpc.net/problem/14503 |      |
-| BOJ_14888_연산자 끼워넣기   | https://www.acmicpc.net/problem/14888 |      |
-| BOJ_17155_미세먼지 안녕!    | https://www.acmicpc.net/problem/17144 |      |
-| BOJ_15686_치킨 배달         | https://www.acmicpc.net/problem/15686 |      |
-| BOJ_17471_게리맨더링        | https://www.acmicpc.net/problem/17471 |      |
-| SWEA_1865_동철이의 일 분배  | SWEA/CODE/1865                        |      |
-| SWEA_2383_점심 식사시간     | SWEA/CODE/2383                        |      |
-| SWEA_5658_보물상자 비밀번호 | SWEA/CODE/5658                        |      |
-| SWEA_2328_미생물 격리       | SWEA/CODE/2328                        |      |
-| SWEA_5650_핀볼 게임         | SWEA/CODE/5650                        |      |
-| BOJ_14502_연구소            | https://www.acmicpc.net/problem/14502 |      |
-| SWEA_1767_프로세서 연결하기 | SWEA/CODE/1767                        |      |
-| BOJ_17136_색종이 붙이기     | https://www.acmicpc.net/problem/17136 |      |
-| BOJ_파이프 옮기기 1         | https://www.acmicpc.net/problem/17070 |      |
-| BOJ_캐슬 디펜스             | https://www.acmicpc.net/problem/17135 |      |
-
-
+| 문제                                | 출처            | 비고        |
+| ----------------------------------- | --------------- | ----------- |
+| 3282_0/1 Knapsack                   | SWEA/CODE/3282  | 유명한 문제 |
+| 3307_최장 증가 부분 수열            | SWEA/CODE/3307  | 유명한 문제 |
+| 3308_최장 증가 부분 수열 (Hard)     | SWEA/CODE/3308  | 유명한 문제 |
+| 2814_최장경로                       | SWEA/CODE/2814  |             |
+| 2817_부분 수열의 합                 | SWEA/CODE/2817  |             |
+| 1859_백만 장차 프로젝트             | SWEA/CODE/1859  |             |
+| 1961_숫자 배열 회전                 | SWEA/CODE/1961  |             |
+| 1974_스도쿠 검증                    | SWEA/CODE/1974  |             |
+| 1979_어디에 단어가 들어갈 수 있을까 | SWEA/CODE/1979  |             |
+| 4408_자기 방으로 돌아가기           | SWEA/CODE/4408  |             |
+| 5356_의석이의 세로로 말해요         | SWEA/CODE/5356  |             |
+| 5432_쇠막대기 자르기                | SWEA/CODE/5432  |             |
+| 6475_삼성시의 버스노선              | SWEA/CODE/6475  |             |
+| 1949_등산로 조성                    | SWEA/CODE/1940  |             |
+| 1952_수영장                         | SWEA/CODE/1952  |             |
+| 1953_탈주범 검거                    | SWEA/CODE/1953  |             |
+| 10966_물놀이를 가자                 | SWEA/CODE/10966 |             |
+| 1486_장훈이의 높은선반              | SWEA/CODE/1486  |             |
+| 1861_정사각형 방                    | SWEA/CODE/1861  |             |
+| 1970_쉬운 거스름돈                  | SWEA/CODE/1970  |             |
+| 2819_격자판의 숫자 이어 붙이기      | SWEA/CODE/2819  |             |
+| 4366_정식이의 은행업무              | SWEA/CODE/4366  |             |
+| 4012_요리사                         | SWEA/CODE/4012  |             |
+| 2105_디저트 카페                    | SWEA/CODE/2105  |             |
+| 1249_보급로                         | SWEA/CODE/1249  |             |
+| 1251_하나로                         | SWEA/CODE/1251  |             |
+| 1795_인수의 생일파티                | SWEA/CODE/1795  |             |
+| 7465_창용 마을 무리의 개수          | SWEA/CODE/7465  |             |
+| 1865_동철이의 일 분배               | SWEA/CODE/1865  |             |
+| 2383_점심 식사시간                  | SWEA/CODE/2383  |             |
+| 5658_보물상자 비밀번호              | SWEA/CODE/5658  |             |
+| 2328_미생물 격리                    | SWEA/CODE/2328  |             |
+| 5650_핀볼 게임                      | SWEA/CODE/5650  |             |
+| 1767_프로세서 연결하기              | SWEA/CODE/1767  |             |
 
 ## programmers
 
