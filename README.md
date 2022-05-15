@@ -131,8 +131,9 @@
 | 17471_게리맨더링             | https://www.acmicpc.net/problem/17471 |                        |
 | 14502_연구소                 | https://www.acmicpc.net/problem/14502 |                        |
 | 17136_색종이 붙이기          | https://www.acmicpc.net/problem/17136 |                        |
-| 파이프 옮기기 1              | https://www.acmicpc.net/problem/17070 |                        |
-| 캐슬 디펜스                  | https://www.acmicpc.net/problem/17135 |                        |
+| 17070_파이프 옮기기 1        | https://www.acmicpc.net/problem/17070 |                        |
+| 17135_캐슬 디펜스            | https://www.acmicpc.net/problem/17135 |                        |
+| 1920_수 찾기                 | https://www.acmicpc.net/problem/1920  |                        |
 
 ## SWEA
 
