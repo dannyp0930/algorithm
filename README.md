@@ -138,6 +138,7 @@
 | 9012_괄호                    | https://www.acmicpc.net/problem/9012  |                        |
 | 10814_나이순정렬             | https://www.acmicpc.net/problem/10814 |                        |
 | 10816_숫자 카드 2            | https://www.acmicpc.net/problem/10816 |                        |
+| 10828_스택                   | https://www.acmicpc.net/problem/10828 |                        |
 
 ## SWEA
 
