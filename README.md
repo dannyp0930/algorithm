@@ -143,6 +143,7 @@
 | 10866_덱                     | https://www.acmicpc.net/problem/10866 |                        |
 | 11050_이항 계수 1            | https://www.acmicpc.net/problem/11050 |                        |
 | 11866_요세푸스 문제 0        | https://www.acmicpc.net/problem/11866 |                        |
+| 1654_랜선자르기              | https://www.acmicpc.net/problem/1654  |                        |
 
 ## SWEA
 
