@@ -141,6 +141,7 @@
 | 10828_스택                   | https://www.acmicpc.net/problem/10828 |                        |
 | 10845_큐                     | https://www.acmicpc.net/problem/10845 |                        |
 | 10866_덱                     | https://www.acmicpc.net/problem/10866 |                        |
+| 11050_이항 계수 1            | https://www.acmicpc.net/problem/11050 |                        |
 
 ## SWEA
 
