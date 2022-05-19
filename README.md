@@ -145,6 +145,7 @@
 | 11866_요세푸스 문제 0        | https://www.acmicpc.net/problem/11866 |                        |
 | 1654_랜선자르기              | https://www.acmicpc.net/problem/1654  |                        |
 | 1874_스택 수열               | https://www.acmicpc.net/problem/1874  |                        |
+| 4949_균형잡힌 세상           | https://www.acmicpc.net/problem/4949  |                        |
 
 ## SWEA
 
