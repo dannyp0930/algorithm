@@ -145,12 +145,11 @@
 | 11866_요세푸스 문제 0        | https://www.acmicpc.net/problem/11866 |                        |
 | 1654_랜선자르기              | https://www.acmicpc.net/problem/1654  |                        |
 | 1874_스택 수열               | https://www.acmicpc.net/problem/1874  |                        |
-<<<<<<< HEAD
 | 1966_프린터 큐               | https://www.acmicpc.net/problem/1966  |                        |
 | 2805_나무 자르기             | https://www.acmicpc.net/problem/2805  |                        |
-=======
 | 4949_균형잡힌 세상           | https://www.acmicpc.net/problem/4949  |                        |
->>>>>>> 7f341bafd55a54bab124e4cdbb90179315b424d5
+| 10773_제로                   | https://www.acmicpc.net/problem/10773 |                        |
+
 
 ## SWEA
 
