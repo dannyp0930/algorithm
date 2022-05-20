@@ -146,6 +146,7 @@
 | 1654_랜선자르기              | https://www.acmicpc.net/problem/1654  |                        |
 | 1874_스택 수열               | https://www.acmicpc.net/problem/1874  |                        |
 | 1966_프린터 큐               | https://www.acmicpc.net/problem/1966  |                        |
+| 2805_나무 자르기             | https://www.acmicpc.net/problem/2805  |                        |
 
 ## SWEA
 
