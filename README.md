@@ -150,6 +150,7 @@
 | 4949_균형잡힌 세상           | https://www.acmicpc.net/problem/4949  |                        |
 | 10773_제로                   | https://www.acmicpc.net/problem/10773 |                        |
 | 15829_Hashing                | https://www.acmicpc.net/problem/15829 |                        |
+| 18111_마인크래프트           | https://www.acmicpc.net/problem/18111 |                        |
 
 
 ## SWEA
