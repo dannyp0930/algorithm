@@ -152,6 +152,7 @@
 | 15829_Hashing                    | https://www.acmicpc.net/problem/15829 |                        |
 | 18111_마인크래프트               | https://www.acmicpc.net/problem/18111 |                        |
 | 1620_나는야 포켓몬 마스터 이다솜 | https://www.acmicpc.net/problem/1620  |                        |
+| 1676_팩토리얼 0의 개수           | https://www.acmicpc.net/problem/1676  |                        |
 
 
 ## SWEA
