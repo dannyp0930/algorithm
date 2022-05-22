@@ -2,155 +2,156 @@
 
 ## baekjoon
 
-| 문제                         | 출처                                  | 비고                   |
-| ---------------------------- | ------------------------------------- | ---------------------- |
-| 2920_음계                    | https://www.acmicpc.net/problem/2920  |                        |
-| 1259_팰린드롬수              | https://www.acmicpc.net/problem/1259  |                        |
-| 2475_검증수                  | https://www.acmicpc.net/problem/2475  |                        |
-| 1463_1로 만들기              | https://www.acmicpc.net/problem/1463  |                        |
-| 9095_1, 2, 3 더하기          | https://www.acmicpc.net/problem/9095  |                        |
-| 1003_피보나치 함수           | https://www.acmicpc.net/problem/1003  |                        |
-| 11726_2xN 타일링             | https://www.acmicpc.net/problem/11726 |                        |
-| 1149_RGB 거리                | https://www.acmicpc.net/problem/1149  |                        |
-| 2579_계단 오르기             | https://www.acmicpc.net/problem/2579  |                        |
-| 2913_이친수                  | https://www.acmicpc.net/problem/2193  |                        |
-| 1932_정수 삼각형             | https://www.acmicpc.net/problem/1932  |                        |
-| 2156_포도주 시식             | https://www.acmicpc.net/problem/2156  |                        |
-| 2167_2차원 배열의 합         | https://www.acmicpc.net/problem/2167  |                        |
-| 10844_쉬운 계단 수           | https://www.acmicpc.net/problem/10844 |                        |
-| 15486_퇴사2                  | https://www.acmicpc.net/problem/15486 |                        |
-| 9084_동전                    | https://www.acmicpc.net/problem/9084  |                        |
-| 1520_내리막 길               | https://www.acmicpc.net/problem/1520  |                        |
-| 1890_점프                    | https://www.acmicpc.net/problem/1890  |                        |
-| 10164_격자상의 경로          | https://www.acmicpc.net/problem/10164 |                        |
-| 5557_1학년                   | https://www.acmicpc.net/problem/5557  |                        |
-| 1010_다리 놓기               | https://www.acmicpc.net/problem/1010  |                        |
-| 17069_파이프 옮기기 2        | https://www.acmicpc.net/problem/17069 |                        |
-| 2294_동전 2                  | https://www.acmicpc.net/problem/2294  | 유명한 문제            |
-| 11051_이항 계수 2            | https://www.acmicpc.net/problem/11051 | 유명한 문제            |
-| 5582_공통 부분 문자열        | https://www.acmicpc.net/problem/5582  | 유명한 문제            |
-| 1912_연속합                  | https://www.acmicpc.net/problem/1912  | 유명한 문제            |
-| 9251_LCS                     | https://www.acmicpc.net/problem/9251  | 유명한 문제            |
-| 2098_외판원 순회             | https://www.acmicpc.net/problem/2098  | 유명한 문제, 순열      |
-| 11049_행렬 곱셈 순서         | https://www.acmicpc.net/problem/11049 | 유명한 문제            |
-| 2606_바이러스                | https://www.acmicpc.net/problem/2606  |                        |
-| 2667_단지번호붙이기          | https://www.acmicpc.net/problem/2667  | 결합 컴포넌트          |
-| 10026_적록색약               | https://www.acmicpc.net/problem/10026 |                        |
-| 1012_유기농 배추             | https://www.acmicpc.net/problem/1012  | DFS는 Depth limit 주의 |
-| 7576_토마토                  | https://www.acmicpc.net/problem/7576  |                        |
-| 7569_토마토                  | https://www.acmicpc.net/problem/7569  |                        |
-| 2583_영역 구하기             | https://www.acmicpc.net/problem/2583  |                        |
-| 2468_안전 영역               | https://www.acmicpc.net/problem/2468  |                        |
-| 2589_보물섬                  | https://www.acmicpc.net/problem/2589  |                        |
-| 2636_치즈                    | https://www.acmicpc.net/problem/2636  |                        |
-| 2660_회장뽑기                | https://www.acmicpc.net/problem/2660  |                        |
-| 2206_벽 부수고 이동하기      | https://www.acmicpc.net/problem/2206  |                        |
-| 5427_불                      | https://www.acmicpc.net/problem/5427  |                        |
-| 2146_다리 만들기             | https://www.acmicpc.net/problem/2146  |                        |
-| 2644_촌수계산                | https://www.acmicpc.net/problem/2644  |                        |
-| 2479_경로찾기                | https://www.acmicpc.net/problem/2479  |                        |
-| 1726_로봇                    | https://www.acmicpc.net/problem/1726  |                        |
-| 10711_모래성                 | https://www.acmicpc.net/problem/10711 | SWEA 1907.모래성 쌓기  |
-| 1260_DFS와 BFS               | https://www.acmicpc.net/problem/1260  |                        |
-| 15649_N과 M (1)              | https://www.acmicpc.net/problem/15649 |                        |
-| 15650_N과 M (2)              | https://www.acmicpc.net/problem/15650 |                        |
-| 15651_N과 M (3)              | https://www.acmicpc.net/problem/15651 |                        |
-| 15652_N과 M (4)              | https://www.acmicpc.net/problem/15652 |                        |
-| 2798_블랙잭                  | https://www.acmicpc.net/problem/2798  |                        |
-| 2309_일곱 난쟁이             | https://www.acmicpc.net/problem/2309  |                        |
-| 6603_로또                    | https://www.acmicpc.net/problem/6603  |                        |
-| 1759_암호 만들기             | https://www.acmicpc.net/problem/1759  |                        |
-| 1697_숨바꼭질                | https://www.acmicpc.net/problem/1697  |                        |
-| 2210_숫자판 점프             | https://www.acmicpc.net/problem/2210  |                        |
-| 1941_소문난 칠공주           | https://www.acmicpc.net/problem/1941  |                        |
-| 7562_나이트의 이동           | https://www.acmicpc.net/problem/7562  |                        |
-| 2580_스도쿠                  | https://www.acmicpc.net/problem/2580  |                        |
-| 1799_비숍                    | https://www.acmicpc.net/problem/1799  |                        |
-| 9663_N-Queen                 | https://www.acmicpc.net/problem/9663  |                        |
-| 2529_부등호                  | https://www.acmicpc.net/problem/2529  |                        |
-| 1182_부분수열의 합           | https://www.acmicpc.net/problem/1182  |                        |
-| 15654_N과 M (5)              | https://www.acmicpc.net/problem/15654 |                        |
-| 15655_N과 M (6)              | https://www.acmicpc.net/problem/15655 |                        |
-| 15656_N과 M (7)              | https://www.acmicpc.net/problem/15656 |                        |
-| 15657_N과 M (8)              | https://www.acmicpc.net/problem/15657 |                        |
-| 18290_NM과 K(1)              | https://www.acmicpc.net/problem/18290 |                        |
-| 14889_스타트와링크           | https://www.acmicpc.net/problem/14889 |                        |
-| 1978_소수 찾기               | https://www.acmicpc.net/problem/1978  |                        |
-| 2581_소수                    | https://www.acmicpc.net/problem/2581  |                        |
-| 11653_소인수분해             | https://www.acmicpc.net/submit/11653/ |                        |
-| 1929_소수 구하기             | https://www.acmicpc.net/problem/1929  |                        |
-| 4948_베르트랑 공준           | https://www.acmicpc.net/problem/4948  |                        |
-| 9020_골드바흐의 추측         | https://www.acmicpc.net/problem/9020  |                        |
-| 1085_직사각형에서 탈출       | https://www.acmicpc.net/problem/1085  |                        |
-| 3009_네 번째 점              | https://www.acmicpc.net/problem/3009  |                        |
-| 4153_직각삼각형              | https://www.acmicpc.net/problem/4153  |                        |
-| 3053_택시기하학              | https://www.acmicpc.net/problem/3053  |                        |
-| 1002_터렛                    | https://www.acmicpc.net/problem/1002  |                        |
-| 4375_1                       | https://www.acmicpc.net/problem/4375  |                        |
-| 1037_약수                    | https://www.acmicpc.net/problem/1037  |                        |
-| 17427_약수의 합 2            | https://www.acmicpc.net/problem/17427 |                        |
-| 17425_약수의 합              | https://www.acmicpc.net/problem/17425 |                        |
-| 2609_최대공약수와 최소공배수 | https://www.acmicpc.net/problem/2609  |                        |
-| 6588_골드바흐의 추측         | https://www.acmicpc.net/problem/6588  |                        |
-| 5086_배수와 약수             | https://www.acmicpc.net/problem/5086  |                        |
-| 1934_최소공배수              | https://www.acmicpc.net/problem/1934  |                        |
-| 2981_검문                    | https://www.acmicpc.net/problem/2981  |                        |
-| 3036_링                      | https://www.acmicpc.net/problem/3036  |                        |
-| 1064_평행사변형              | https://www.acmicpc.net/problem/1064  |                        |
-| 3034_앵그리 창영             | https://www.acmicpc.net/problem/3034  |                        |
-| 10872_팩토리얼               | https://www.acmicpc.net/problem/10872 |                        |
-| 10820_피보나치 수 5          | https://www.acmicpc.net/problem/10870 |                        |
-| 2447_별 찍기 - 10            | https://www.acmicpc.net/problem/2447  |                        |
-| 11729_하노이 탑 이동 순서    | https://www.acmicpc.net/problem/11729 |                        |
-| 17478_재귀함수가 뭔가요?     | https://www.acmicpc.net/problem/17478 |                        |
-| 1476_날짜 계산               | https://www.acmicpc.net/problem/1476  |                        |
-| 3085_사탕 게임               | https://www.acmicpc.net/problem/3085  |                        |
-| 1107_리모컨                  | https://www.acmicpc.net/problem/1107  |                        |
-| 14500_테트로미노             | https://www.acmicpc.net/problem/14500 |                        |
-| 6064_카잉 달력               | https://www.acmicpc.net/problem/6064  |                        |
-| 1748_수 이어 쓰기 1          | https://www.acmicpc.net/problem/1748  |                        |
-| 2231_분해합                  | https://www.acmicpc.net/problem/2231  |                        |
-| 7568_덩치                    | https://www.acmicpc.net/problem/7568  |                        |
-| 1018_체스판 다시 칠하기      | https://www.acmicpc.net/problem/1018  |                        |
-| 1436_영화감독 숌             | https://www.acmicpc.net/problem/1436  |                        |
-| 1059_좋은 구간               | https://www.acmicpc.net/problem/1059  |                        |
-| 1027_고층 건물               | https://www.acmicpc.net/problem/1027  |                        |
-| 2750_수 정렬하기             | https://www.acmicpc.net/problem/2750  |                        |
-| 2751_수 정렬하기2            | https://www.acmicpc.net/problem/2751  |                        |
-| 10989_수 정렬하기3           | https://www.acmicpc.net/problem/10989 |                        |
-| 2108_통계학                  | https://www.acmicpc.net/problem/2108  |                        |
-| 1427_소트인사이드            | https://www.acmicpc.net/problem/1427  |                        |
-| 11650_좌표 정렬하기          | https://www.acmicpc.net/problem/11650 |                        |
-| 11651_좌표 정렬하기2         | https://www.acmicpc.net/problem/11651 |                        |
-| 1181_단어 정렬               | https://www.acmicpc.net/problem/1181  |                        |
-| 14501_퇴사                   | https://www.acmicpc.net/problem/14501 |                        |
-| 14503_로봇 청소기            | https://www.acmicpc.net/problem/14503 |                        |
-| 14888_연산자 끼워넣기        | https://www.acmicpc.net/problem/14888 |                        |
-| 17155_미세먼지 안녕!         | https://www.acmicpc.net/problem/17144 |                        |
-| 15686_치킨 배달              | https://www.acmicpc.net/problem/15686 |                        |
-| 17471_게리맨더링             | https://www.acmicpc.net/problem/17471 |                        |
-| 14502_연구소                 | https://www.acmicpc.net/problem/14502 |                        |
-| 17136_색종이 붙이기          | https://www.acmicpc.net/problem/17136 |                        |
-| 17070_파이프 옮기기 1        | https://www.acmicpc.net/problem/17070 |                        |
-| 17135_캐슬 디펜스            | https://www.acmicpc.net/problem/17135 |                        |
-| 1920_수 찾기                 | https://www.acmicpc.net/problem/1920  |                        |
-| 2164_카드2                   | https://www.acmicpc.net/problem/2164  |                        |
-| 9012_괄호                    | https://www.acmicpc.net/problem/9012  |                        |
-| 10814_나이순정렬             | https://www.acmicpc.net/problem/10814 |                        |
-| 10816_숫자 카드 2            | https://www.acmicpc.net/problem/10816 |                        |
-| 10828_스택                   | https://www.acmicpc.net/problem/10828 |                        |
-| 10845_큐                     | https://www.acmicpc.net/problem/10845 |                        |
-| 10866_덱                     | https://www.acmicpc.net/problem/10866 |                        |
-| 11050_이항 계수 1            | https://www.acmicpc.net/problem/11050 |                        |
-| 11866_요세푸스 문제 0        | https://www.acmicpc.net/problem/11866 |                        |
-| 1654_랜선자르기              | https://www.acmicpc.net/problem/1654  |                        |
-| 1874_스택 수열               | https://www.acmicpc.net/problem/1874  |                        |
-| 1966_프린터 큐               | https://www.acmicpc.net/problem/1966  |                        |
-| 2805_나무 자르기             | https://www.acmicpc.net/problem/2805  |                        |
-| 4949_균형잡힌 세상           | https://www.acmicpc.net/problem/4949  |                        |
-| 10773_제로                   | https://www.acmicpc.net/problem/10773 |                        |
-| 15829_Hashing                | https://www.acmicpc.net/problem/15829 |                        |
-| 18111_마인크래프트           | https://www.acmicpc.net/problem/18111 |                        |
+| 문제                             | 출처                                  | 비고                   |
+| -------------------------------- | ------------------------------------- | ---------------------- |
+| 2920_음계                        | https://www.acmicpc.net/problem/2920  |                        |
+| 1259_팰린드롬수                  | https://www.acmicpc.net/problem/1259  |                        |
+| 2475_검증수                      | https://www.acmicpc.net/problem/2475  |                        |
+| 1463_1로 만들기                  | https://www.acmicpc.net/problem/1463  |                        |
+| 9095_1, 2, 3 더하기              | https://www.acmicpc.net/problem/9095  |                        |
+| 1003_피보나치 함수               | https://www.acmicpc.net/problem/1003  |                        |
+| 11726_2xN 타일링                 | https://www.acmicpc.net/problem/11726 |                        |
+| 1149_RGB 거리                    | https://www.acmicpc.net/problem/1149  |                        |
+| 2579_계단 오르기                 | https://www.acmicpc.net/problem/2579  |                        |
+| 2913_이친수                      | https://www.acmicpc.net/problem/2193  |                        |
+| 1932_정수 삼각형                 | https://www.acmicpc.net/problem/1932  |                        |
+| 2156_포도주 시식                 | https://www.acmicpc.net/problem/2156  |                        |
+| 2167_2차원 배열의 합             | https://www.acmicpc.net/problem/2167  |                        |
+| 10844_쉬운 계단 수               | https://www.acmicpc.net/problem/10844 |                        |
+| 15486_퇴사2                      | https://www.acmicpc.net/problem/15486 |                        |
+| 9084_동전                        | https://www.acmicpc.net/problem/9084  |                        |
+| 1520_내리막 길                   | https://www.acmicpc.net/problem/1520  |                        |
+| 1890_점프                        | https://www.acmicpc.net/problem/1890  |                        |
+| 10164_격자상의 경로              | https://www.acmicpc.net/problem/10164 |                        |
+| 5557_1학년                       | https://www.acmicpc.net/problem/5557  |                        |
+| 1010_다리 놓기                   | https://www.acmicpc.net/problem/1010  |                        |
+| 17069_파이프 옮기기 2            | https://www.acmicpc.net/problem/17069 |                        |
+| 2294_동전 2                      | https://www.acmicpc.net/problem/2294  | 유명한 문제            |
+| 11051_이항 계수 2                | https://www.acmicpc.net/problem/11051 | 유명한 문제            |
+| 5582_공통 부분 문자열            | https://www.acmicpc.net/problem/5582  | 유명한 문제            |
+| 1912_연속합                      | https://www.acmicpc.net/problem/1912  | 유명한 문제            |
+| 9251_LCS                         | https://www.acmicpc.net/problem/9251  | 유명한 문제            |
+| 2098_외판원 순회                 | https://www.acmicpc.net/problem/2098  | 유명한 문제, 순열      |
+| 11049_행렬 곱셈 순서             | https://www.acmicpc.net/problem/11049 | 유명한 문제            |
+| 2606_바이러스                    | https://www.acmicpc.net/problem/2606  |                        |
+| 2667_단지번호붙이기              | https://www.acmicpc.net/problem/2667  | 결합 컴포넌트          |
+| 10026_적록색약                   | https://www.acmicpc.net/problem/10026 |                        |
+| 1012_유기농 배추                 | https://www.acmicpc.net/problem/1012  | DFS는 Depth limit 주의 |
+| 7576_토마토                      | https://www.acmicpc.net/problem/7576  |                        |
+| 7569_토마토                      | https://www.acmicpc.net/problem/7569  |                        |
+| 2583_영역 구하기                 | https://www.acmicpc.net/problem/2583  |                        |
+| 2468_안전 영역                   | https://www.acmicpc.net/problem/2468  |                        |
+| 2589_보물섬                      | https://www.acmicpc.net/problem/2589  |                        |
+| 2636_치즈                        | https://www.acmicpc.net/problem/2636  |                        |
+| 2660_회장뽑기                    | https://www.acmicpc.net/problem/2660  |                        |
+| 2206_벽 부수고 이동하기          | https://www.acmicpc.net/problem/2206  |                        |
+| 5427_불                          | https://www.acmicpc.net/problem/5427  |                        |
+| 2146_다리 만들기                 | https://www.acmicpc.net/problem/2146  |                        |
+| 2644_촌수계산                    | https://www.acmicpc.net/problem/2644  |                        |
+| 2479_경로찾기                    | https://www.acmicpc.net/problem/2479  |                        |
+| 1726_로봇                        | https://www.acmicpc.net/problem/1726  |                        |
+| 10711_모래성                     | https://www.acmicpc.net/problem/10711 | SWEA 1907.모래성 쌓기  |
+| 1260_DFS와 BFS                   | https://www.acmicpc.net/problem/1260  |                        |
+| 15649_N과 M (1)                  | https://www.acmicpc.net/problem/15649 |                        |
+| 15650_N과 M (2)                  | https://www.acmicpc.net/problem/15650 |                        |
+| 15651_N과 M (3)                  | https://www.acmicpc.net/problem/15651 |                        |
+| 15652_N과 M (4)                  | https://www.acmicpc.net/problem/15652 |                        |
+| 2798_블랙잭                      | https://www.acmicpc.net/problem/2798  |                        |
+| 2309_일곱 난쟁이                 | https://www.acmicpc.net/problem/2309  |                        |
+| 6603_로또                        | https://www.acmicpc.net/problem/6603  |                        |
+| 1759_암호 만들기                 | https://www.acmicpc.net/problem/1759  |                        |
+| 1697_숨바꼭질                    | https://www.acmicpc.net/problem/1697  |                        |
+| 2210_숫자판 점프                 | https://www.acmicpc.net/problem/2210  |                        |
+| 1941_소문난 칠공주               | https://www.acmicpc.net/problem/1941  |                        |
+| 7562_나이트의 이동               | https://www.acmicpc.net/problem/7562  |                        |
+| 2580_스도쿠                      | https://www.acmicpc.net/problem/2580  |                        |
+| 1799_비숍                        | https://www.acmicpc.net/problem/1799  |                        |
+| 9663_N-Queen                     | https://www.acmicpc.net/problem/9663  |                        |
+| 2529_부등호                      | https://www.acmicpc.net/problem/2529  |                        |
+| 1182_부분수열의 합               | https://www.acmicpc.net/problem/1182  |                        |
+| 15654_N과 M (5)                  | https://www.acmicpc.net/problem/15654 |                        |
+| 15655_N과 M (6)                  | https://www.acmicpc.net/problem/15655 |                        |
+| 15656_N과 M (7)                  | https://www.acmicpc.net/problem/15656 |                        |
+| 15657_N과 M (8)                  | https://www.acmicpc.net/problem/15657 |                        |
+| 18290_NM과 K(1)                  | https://www.acmicpc.net/problem/18290 |                        |
+| 14889_스타트와링크               | https://www.acmicpc.net/problem/14889 |                        |
+| 1978_소수 찾기                   | https://www.acmicpc.net/problem/1978  |                        |
+| 2581_소수                        | https://www.acmicpc.net/problem/2581  |                        |
+| 11653_소인수분해                 | https://www.acmicpc.net/submit/11653/ |                        |
+| 1929_소수 구하기                 | https://www.acmicpc.net/problem/1929  |                        |
+| 4948_베르트랑 공준               | https://www.acmicpc.net/problem/4948  |                        |
+| 9020_골드바흐의 추측             | https://www.acmicpc.net/problem/9020  |                        |
+| 1085_직사각형에서 탈출           | https://www.acmicpc.net/problem/1085  |                        |
+| 3009_네 번째 점                  | https://www.acmicpc.net/problem/3009  |                        |
+| 4153_직각삼각형                  | https://www.acmicpc.net/problem/4153  |                        |
+| 3053_택시기하학                  | https://www.acmicpc.net/problem/3053  |                        |
+| 1002_터렛                        | https://www.acmicpc.net/problem/1002  |                        |
+| 4375_1                           | https://www.acmicpc.net/problem/4375  |                        |
+| 1037_약수                        | https://www.acmicpc.net/problem/1037  |                        |
+| 17427_약수의 합 2                | https://www.acmicpc.net/problem/17427 |                        |
+| 17425_약수의 합                  | https://www.acmicpc.net/problem/17425 |                        |
+| 2609_최대공약수와 최소공배수     | https://www.acmicpc.net/problem/2609  |                        |
+| 6588_골드바흐의 추측             | https://www.acmicpc.net/problem/6588  |                        |
+| 5086_배수와 약수                 | https://www.acmicpc.net/problem/5086  |                        |
+| 1934_최소공배수                  | https://www.acmicpc.net/problem/1934  |                        |
+| 2981_검문                        | https://www.acmicpc.net/problem/2981  |                        |
+| 3036_링                          | https://www.acmicpc.net/problem/3036  |                        |
+| 1064_평행사변형                  | https://www.acmicpc.net/problem/1064  |                        |
+| 3034_앵그리 창영                 | https://www.acmicpc.net/problem/3034  |                        |
+| 10872_팩토리얼                   | https://www.acmicpc.net/problem/10872 |                        |
+| 10820_피보나치 수 5              | https://www.acmicpc.net/problem/10870 |                        |
+| 2447_별 찍기 - 10                | https://www.acmicpc.net/problem/2447  |                        |
+| 11729_하노이 탑 이동 순서        | https://www.acmicpc.net/problem/11729 |                        |
+| 17478_재귀함수가 뭔가요?         | https://www.acmicpc.net/problem/17478 |                        |
+| 1476_날짜 계산                   | https://www.acmicpc.net/problem/1476  |                        |
+| 3085_사탕 게임                   | https://www.acmicpc.net/problem/3085  |                        |
+| 1107_리모컨                      | https://www.acmicpc.net/problem/1107  |                        |
+| 14500_테트로미노                 | https://www.acmicpc.net/problem/14500 |                        |
+| 6064_카잉 달력                   | https://www.acmicpc.net/problem/6064  |                        |
+| 1748_수 이어 쓰기 1              | https://www.acmicpc.net/problem/1748  |                        |
+| 2231_분해합                      | https://www.acmicpc.net/problem/2231  |                        |
+| 7568_덩치                        | https://www.acmicpc.net/problem/7568  |                        |
+| 1018_체스판 다시 칠하기          | https://www.acmicpc.net/problem/1018  |                        |
+| 1436_영화감독 숌                 | https://www.acmicpc.net/problem/1436  |                        |
+| 1059_좋은 구간                   | https://www.acmicpc.net/problem/1059  |                        |
+| 1027_고층 건물                   | https://www.acmicpc.net/problem/1027  |                        |
+| 2750_수 정렬하기                 | https://www.acmicpc.net/problem/2750  |                        |
+| 2751_수 정렬하기2                | https://www.acmicpc.net/problem/2751  |                        |
+| 10989_수 정렬하기3               | https://www.acmicpc.net/problem/10989 |                        |
+| 2108_통계학                      | https://www.acmicpc.net/problem/2108  |                        |
+| 1427_소트인사이드                | https://www.acmicpc.net/problem/1427  |                        |
+| 11650_좌표 정렬하기              | https://www.acmicpc.net/problem/11650 |                        |
+| 11651_좌표 정렬하기2             | https://www.acmicpc.net/problem/11651 |                        |
+| 1181_단어 정렬                   | https://www.acmicpc.net/problem/1181  |                        |
+| 14501_퇴사                       | https://www.acmicpc.net/problem/14501 |                        |
+| 14503_로봇 청소기                | https://www.acmicpc.net/problem/14503 |                        |
+| 14888_연산자 끼워넣기            | https://www.acmicpc.net/problem/14888 |                        |
+| 17155_미세먼지 안녕!             | https://www.acmicpc.net/problem/17144 |                        |
+| 15686_치킨 배달                  | https://www.acmicpc.net/problem/15686 |                        |
+| 17471_게리맨더링                 | https://www.acmicpc.net/problem/17471 |                        |
+| 14502_연구소                     | https://www.acmicpc.net/problem/14502 |                        |
+| 17136_색종이 붙이기              | https://www.acmicpc.net/problem/17136 |                        |
+| 17070_파이프 옮기기 1            | https://www.acmicpc.net/problem/17070 |                        |
+| 17135_캐슬 디펜스                | https://www.acmicpc.net/problem/17135 |                        |
+| 1920_수 찾기                     | https://www.acmicpc.net/problem/1920  |                        |
+| 2164_카드2                       | https://www.acmicpc.net/problem/2164  |                        |
+| 9012_괄호                        | https://www.acmicpc.net/problem/9012  |                        |
+| 10814_나이순정렬                 | https://www.acmicpc.net/problem/10814 |                        |
+| 10816_숫자 카드 2                | https://www.acmicpc.net/problem/10816 |                        |
+| 10828_스택                       | https://www.acmicpc.net/problem/10828 |                        |
+| 10845_큐                         | https://www.acmicpc.net/problem/10845 |                        |
+| 10866_덱                         | https://www.acmicpc.net/problem/10866 |                        |
+| 11050_이항 계수 1                | https://www.acmicpc.net/problem/11050 |                        |
+| 11866_요세푸스 문제 0            | https://www.acmicpc.net/problem/11866 |                        |
+| 1654_랜선자르기                  | https://www.acmicpc.net/problem/1654  |                        |
+| 1874_스택 수열                   | https://www.acmicpc.net/problem/1874  |                        |
+| 1966_프린터 큐                   | https://www.acmicpc.net/problem/1966  |                        |
+| 2805_나무 자르기                 | https://www.acmicpc.net/problem/2805  |                        |
+| 4949_균형잡힌 세상               | https://www.acmicpc.net/problem/4949  |                        |
+| 10773_제로                       | https://www.acmicpc.net/problem/10773 |                        |
+| 15829_Hashing                    | https://www.acmicpc.net/problem/15829 |                        |
+| 18111_마인크래프트               | https://www.acmicpc.net/problem/18111 |                        |
+| 1620_나는야 포켓몬 마스터 이다솜 | https://www.acmicpc.net/problem/1620  |                        |
 
 
 ## SWEA
