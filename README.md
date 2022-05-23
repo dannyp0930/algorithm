@@ -154,6 +154,7 @@
 | 1620_나는야 포켓몬 마스터 이다솜 | https://www.acmicpc.net/problem/1620  |                        |
 | 1676_팩토리얼 0의 개수           | https://www.acmicpc.net/problem/1676  |                        |
 | 11723_집합                       | https://www.acmicpc.net/problem/11723 |                        |
+| 1764_듣보잡                      | https://www.acmicpc.net/problem/1764  |                        |
 
 
 ## SWEA
