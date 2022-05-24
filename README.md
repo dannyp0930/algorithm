@@ -155,6 +155,7 @@
 | 1676_팩토리얼 0의 개수           | https://www.acmicpc.net/problem/1676  |                        |
 | 11723_집합                       | https://www.acmicpc.net/problem/11723 |                        |
 | 1764_듣보잡                      | https://www.acmicpc.net/problem/1764  |                        |
+| 17626_Four Squares               | https://www.acmicpc.net/problem/17626 |                        |
 
 
 ## SWEA
