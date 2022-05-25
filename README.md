@@ -156,6 +156,7 @@
 | 11723_집합                       | https://www.acmicpc.net/problem/11723 |                        |
 | 1764_듣보잡                      | https://www.acmicpc.net/problem/1764  |                        |
 | 17626_Four Squares               | https://www.acmicpc.net/problem/17626 |                        |
+| 2630_색종이 만들기               | https://www.acmicpc.net/problem/2630  |                        |
 
 
 ## SWEA
