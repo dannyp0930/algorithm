@@ -158,6 +158,7 @@
 | 17626_Four Squares               | https://www.acmicpc.net/problem/17626 |                        |
 | 2630_색종이 만들기               | https://www.acmicpc.net/problem/2630  |                        |
 | 11399_ATM                        | https://www.acmicpc.net/problem/11399 |                        |
+| 18870_좌표 압축                  | https://www.acmicpc.net/problem/18870 |                        |
 
 
 ## SWEA
