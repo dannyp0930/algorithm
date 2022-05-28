@@ -160,6 +160,7 @@
 | 11399_ATM                        | https://www.acmicpc.net/problem/11399 |                        |
 | 18870_좌표 압축                  | https://www.acmicpc.net/problem/18870 |                        |
 | 11724_연결 요소의 개수           | https://www.acmicpc.net/problem/11724 |                        |
+| 1074_Z                           | https://www.acmicpc.net/problem/1074  |                        |
 
 
 ## SWEA
