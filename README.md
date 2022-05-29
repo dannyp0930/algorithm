@@ -161,6 +161,7 @@
 | 18870_좌표 압축                  | https://www.acmicpc.net/problem/18870 |                        |
 | 11724_연결 요소의 개수           | https://www.acmicpc.net/problem/11724 |                        |
 | 1074_Z                           | https://www.acmicpc.net/problem/1074  |                        |
+| 1931_회의실 배정                 | https://www.acmicpc.net/problem/1931  |                        |
 
 
 ## SWEA
