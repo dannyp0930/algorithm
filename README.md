@@ -164,6 +164,7 @@
 | 1931_회의실 배정                 | https://www.acmicpc.net/problem/1931  |                        |
 | 1927_최소 힙                     | https://www.acmicpc.net/problem/1927  |                        |
 | 11279_최대 힙                    | https://www.acmicpc.net/problem/11279 |                        |
+| 7662_이중 우선순위 큐            | https://www.acmicpc.net/problem/7662  |                        |
 
 
 ## SWEA
