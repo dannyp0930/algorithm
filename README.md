@@ -172,6 +172,7 @@
 | 11659_구간 합 구하기 4           | https://www.acmicpc.net/problem/11659 |                        |
 | 9461_파도반 수열                 | https://www.acmicpc.net/problem/9461  |                        |
 | 11727_2xn 타일링 2               | https://www.acmicpc.net/problem/11727 |                        |
+| 1541_잃어버린 괄호               | https://www.acmicpc.net/problem/1541  |                        |
 
 
 ## SWEA
