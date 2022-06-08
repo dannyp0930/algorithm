@@ -173,6 +173,7 @@
 | 9461_파도반 수열                 | https://www.acmicpc.net/problem/9461  |                        |
 | 11727_2xn 타일링 2               | https://www.acmicpc.net/problem/11727 |                        |
 | 1541_잃어버린 괄호               | https://www.acmicpc.net/problem/1541  |                        |
+| 1780_종이의 개수                 | https://www.acmicpc.net/problem/1780  |                        |
 
 
 ## SWEA
