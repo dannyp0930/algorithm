@@ -174,6 +174,7 @@
 | 1541_잃어버린 괄호               | https://www.acmicpc.net/problem/1541  |                        |
 | 1780_종이의 개수                 | https://www.acmicpc.net/problem/1780  |                        |
 | 6064_카잉 달력                   | https://www.acmicpc.net/problem/6064  |                        |
+| 1389_케빈 베이컨의 6단계 법칙    | https://www.acmicpc.net/problem/1389  | 플로이드-워셜          |
 
 
 ## SWEA
