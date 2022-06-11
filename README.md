@@ -176,6 +176,7 @@
 | 6064_카잉 달력                   | https://www.acmicpc.net/problem/6064  |                        |
 | 1389_케빈 베이컨의 6단계 법칙    | https://www.acmicpc.net/problem/1389  | 플로이드-워셜          |
 | 2178_미로 탐색                   | https://www.acmicpc.net/problem/2178  | BFS                    |
+| 1992_쿼드트리                    | https://www.acmicpc.net/problem/1992  | 분할정복               |
 
 
 ## SWEA
