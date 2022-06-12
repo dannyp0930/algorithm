@@ -178,6 +178,7 @@
 | 2178_미로 탐색                   | https://www.acmicpc.net/problem/2178  | BFS                    |
 | 1992_쿼드트리                    | https://www.acmicpc.net/problem/1992  | 분할정복               |
 | 5525_IOIOI                       | https://www.acmicpc.net/problem/5525  |                        |
+| 11286_절댓값 힙                  | https://www.acmicpc.net/problem/11286 | 우선순위 큐            |
 
 
 ## SWEA
