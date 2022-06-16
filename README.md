@@ -185,6 +185,7 @@
 | 9019_DSLR                        | https://www.acmicpc.net/problem/9019  |                        |
 | 16236_아기 상어                  | https://www.acmicpc.net/problem/16236 |                        |
 | 2407_조합                        | https://www.acmicpc.net/problem/2407  |                        |
+| 11053_가장 긴 증가하는 부분 수열 | https://www.acmicpc.net/problem/11053 |                        |
 
 
 ## SWEA
