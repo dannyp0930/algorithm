@@ -191,6 +191,7 @@
 | 15664_N과 M(10)                  | https://www.acmicpc.net/problem/15664 |                        |
 | 15665_N과 M(11)                  | https://www.acmicpc.net/problem/15665 |                        |
 | 15666_N과 M (12)                 | https://www.acmicpc.net/problem/15666 |                        |
+| 16953_A:arrow_right:B            | https://www.acmicpc.net/problem/16953 |                        |
 
 
 ## SWEA
