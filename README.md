@@ -188,6 +188,7 @@
 | 11053_가장 긴 증가하는 부분 수열 | https://www.acmicpc.net/problem/11053 | O(N<sup>2</sup>)       |
 | 11725_트리의 부모 찾기           | https://www.acmicpc.net/problem/11725 |                        |
 | 15663_N과 M(9)                   | https://www.acmicpc.net/problem/15663 |                        |
+| 15664_N과 M(10)                  | https://www.acmicpc.net/problem/15664 |                        |
 | 15666_N과 M (12)                 | https://www.acmicpc.net/problem/15666 |                        |
 
 
