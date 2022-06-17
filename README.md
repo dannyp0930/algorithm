@@ -195,6 +195,7 @@
 | 1629_곱셉                        | https://www.acmicpc.net/problem/1629  |                        |
 | 1991_트리 순회                   | https://www.acmicpc.net/problem/1991  |                        |
 | 9465_스티커                      | https://www.acmicpc.net/problem/9465  |                        |
+| 11660_구간 합 구하기 5           | https://www.acmicpc.net/problem/11660 |                        |
 
 
 ## SWEA
