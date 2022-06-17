@@ -355,4 +355,5 @@
 | k진수에서 소수 개수 구하기   | https://programmers.co.kr/learn/courses/30/lessons/92335 | 2022 KAKAO BLIND RECRUITMENT                |
 | 조이스틱                     | https://programmers.co.kr/learn/courses/30/lessons/42860 | 탐욕법(Greedy)                              |
 | 예상 대진표                  | https://programmers.co.kr/learn/courses/30/lessons/12985 | 2017 팁스타운                               |
+| 방문 길이                    | https://programmers.co.kr/learn/courses/30/lessons/49994 | Summer/Winter Coding(~2018)                 |
 
