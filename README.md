@@ -197,6 +197,7 @@
 | 9465_스티커                      | https://www.acmicpc.net/problem/9465  |                        |
 | 11660_구간 합 구하기 5           | https://www.acmicpc.net/problem/11660 |                        |
 | 12865_평범한 배낭                | https://www.acmicpc.net/problem/12865 | 0-1 knapsack           |
+| 13549_숨바꼭질 3                 | https://www.acmicpc.net/problem/13549 |                        |
 
 
 ## SWEA
