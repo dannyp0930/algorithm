@@ -199,6 +199,7 @@
 | 12865_평범한 배낭                | https://www.acmicpc.net/problem/12865 | 0-1 knapsack                 |
 | 13549_숨바꼭질 3                 | https://www.acmicpc.net/problem/13549 |                              |
 | 1916_최소비용 구하기             | https://www.acmicpc.net/problem/1916  | 다익스트라(O(N<sup>2</sup>)) |
+| 2096_내려가기                    | https://www.acmicpc.net/problem/2096  | 슬라이딩 윈도우              |
 
 
 ## SWEA
