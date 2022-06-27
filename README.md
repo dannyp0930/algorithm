@@ -203,6 +203,7 @@
 | 5639_이진 검색 트리              | https://www.acmicpc.net/problem/5639  |                              |
 | 1043_거짓말                      | https://www.acmicpc.net/problem/1043  |                              |
 | 1504_특정한 최단 경로            | https://www.acmicpc.net/problem/1504  | 다익스트라                   |
+| 1753_최단경로                    | https://www.acmicpc.net/problem/1753  |                              |
 
 
 ## SWEA
