@@ -1,5 +1,4 @@
 import sys
-import heapq
 
 class heap:
     def __init__(self, data):
