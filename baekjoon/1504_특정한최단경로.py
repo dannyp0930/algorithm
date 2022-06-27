@@ -26,7 +26,7 @@ class heap:
         while 1:
             child = parent * 2
             if child + 1 < len(self.queue) and self.queue[child] > self.queue[child + 1]:
-                child + 1
+                child += 1
             if child >= len(self.queue) or self.queue[child] > self.queue[parent]:
                 break
             self.swap(child, parent)
