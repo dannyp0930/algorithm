@@ -44,7 +44,6 @@
 | 2589_보물섬                      | https://www.acmicpc.net/problem/2589  |                              |
 | 2636_치즈                        | https://www.acmicpc.net/problem/2636  |                              |
 | 2660_회장뽑기                    | https://www.acmicpc.net/problem/2660  |                              |
-| 2206_벽 부수고 이동하기          | https://www.acmicpc.net/problem/2206  |                              |
 | 5427_불                          | https://www.acmicpc.net/problem/5427  |                              |
 | 2146_다리 만들기                 | https://www.acmicpc.net/problem/2146  |                              |
 | 2644_촌수계산                    | https://www.acmicpc.net/problem/2644  |                              |
@@ -205,6 +204,7 @@
 | 1504_특정한 최단 경로            | https://www.acmicpc.net/problem/1504  | 다익스트라                   |
 | 1753_최단경로                    | https://www.acmicpc.net/problem/1753  |                              |
 | 1967_트리의 지름                 | https://www.acmicpc.net/problem/1967  |                              |
+| 2206_벽 부수고 이동하기          | https://www.acmicpc.net/problem/2206  |                              |
 
 
 ## SWEA
