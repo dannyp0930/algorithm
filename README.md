@@ -207,6 +207,7 @@
 | 2206_벽 부수고 이동하기          | https://www.acmicpc.net/problem/2206  |                              |
 | 2448_별 찍기 - 11                | https://www.acmicpc.net/problem/2448  |                              |
 | 9935_문자열 폭발                 | https://www.acmicpc.net/problem/9935  |                              |
+| 10830_행렬 제곱                  | https://www.acmicpc.net/problem/10830 |                              |
 
 
 ## SWEA
