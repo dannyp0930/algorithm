@@ -210,6 +210,7 @@
 | 10830_행렬 제곱                  | https://www.acmicpc.net/problem/10830 |                              |
 | 11404_플로이드                   | https://www.acmicpc.net/problem/11404 |                              |
 | 1865_웜홀                        | https://www.acmicpc.net/problem/1865  | 벨만-포드                    |
+| 12851_숨바꼭질 2                 | https://www.acmicpc.net/problem/12851 |                              |
 
 
 ## SWEA
