@@ -211,6 +211,7 @@
 | 11404_플로이드                   | https://www.acmicpc.net/problem/11404 |                              |
 | 1865_웜홀                        | https://www.acmicpc.net/problem/1865  | 벨만-포드                    |
 | 12851_숨바꼭질 2                 | https://www.acmicpc.net/problem/12851 |                              |
+| 13172_Σ                          | https://www.acmicpc.net/problem/13172 |                              |
 
 
 ## SWEA
