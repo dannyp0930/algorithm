@@ -212,6 +212,7 @@
 | 1865_웜홀                        | https://www.acmicpc.net/problem/1865  | 벨만-포드                    |
 | 12851_숨바꼭질 2                 | https://www.acmicpc.net/problem/12851 |                              |
 | 13172_Σ                          | https://www.acmicpc.net/problem/13172 |                              |
+| 14938_서강그라운드               | https://www.acmicpc.net/problem/14938 |                              |
 
 
 ## SWEA
