@@ -215,6 +215,7 @@
 | 14938_서강그라운드               | https://www.acmicpc.net/problem/14938 |                              |
 | 1238_파티                        | https://www.acmicpc.net/problem/1238  |                              |
 | 2638_치즈                        | https://www.acmicpc.net/problem/2638  |                              |
+| 11054_가장 긴 바이토닉 부분 수열 | https://www.acmicpc.net/problem/11054 | LIS, LDS                     |
 
 
 ## SWEA
