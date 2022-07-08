@@ -218,6 +218,7 @@
 | 11054_가장 긴 바이토닉 부분 수열 | https://www.acmicpc.net/problem/11054 | LIS, LDS                     |
 | 11779_최소비용 구하기 2          | https://www.acmicpc.net/problem/11779 | 다익스트라(O(logN))          |
 | 1167_트리의 지름                 | https://www.acmicpc.net/problem/1167  |                              |
+| 1918_후위 표기식                 | https://www.acmicpc.net/problem/1918  |                              |
 
 
 ## SWEA
