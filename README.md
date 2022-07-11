@@ -221,6 +221,7 @@
 | 1918_후위 표기식                 | https://www.acmicpc.net/problem/1918  |                              |
 | 2263_트리의 순회                 | https://www.acmicpc.net/problem/2263  |                              |
 | 11444_피보나치 6                 | https://www.acmicpc.net/problem/11444 |                              |
+| 12852_1로 만들기 2               | https://www.acmicpc.net/problem/12852 |                              |
 
 
 ## SWEA
