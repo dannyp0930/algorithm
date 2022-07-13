@@ -225,6 +225,7 @@
 | 2166_다각형의 면적               | https://www.acmicpc.net/problem/2166  |                              |
 | 2467_용액                        | https://www.acmicpc.net/problem/2467  | 두 포인터                    |
 | 1197_ 최소 스패닝 트리           | https://www.acmicpc.net/problem/1197  |                              |
+| 1647_도시 분할 계획              | https://www.acmicpc.net/problem/1647  |                              |
 
 
 ## SWEA
