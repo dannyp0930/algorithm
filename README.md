@@ -228,6 +228,7 @@
 | 1647_도시 분할 계획              | https://www.acmicpc.net/problem/1647  | Kruskal MST                  |
 | 1806_부분합                      | https://www.acmicpc.net/problem/1806  | 두 포인터                    |
 | 1005_ACM Craft                   | https://www.acmicpc.net/problem/1005  | 위상 정렬                    |
+| 1987_알파벳                      | https://www.acmicpc.net/problem/1987  |                              |
 
 
 ## SWEA
