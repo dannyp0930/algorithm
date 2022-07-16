@@ -231,6 +231,7 @@
 | 1987_알파벳                      | https://www.acmicpc.net/problem/1987  |                              |
 | 2239_스도쿠                      | https://www.acmicpc.net/problem/2239  |                              |
 | 4386_별자리 만들기               | https://www.acmicpc.net/problem/4386  | MST                          |
+| 9252_LCS 2                       | https://www.acmicpc.net/problem/9252  |                              |
 
 
 ## SWEA
