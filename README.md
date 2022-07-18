@@ -234,6 +234,7 @@
 | 9252_LCS 2                       | https://www.acmicpc.net/problem/9252  |                              |
 | 10942_팰린드롬?                  | https://www.acmicpc.net/problem/10942 |                              |
 | 17404_RGB거리 2                  | https://www.acmicpc.net/problem/17404 |                              |
+| 20040_사이클 게임                | https://www.acmicpc.net/problem/20040 |                              |
 
 
 ## SWEA
