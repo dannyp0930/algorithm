@@ -233,6 +233,7 @@
 | 4386_별자리 만들기               | https://www.acmicpc.net/problem/4386  | MST                          |
 | 9252_LCS 2                       | https://www.acmicpc.net/problem/9252  |                              |
 | 10942_팰린드롬?                  | https://www.acmicpc.net/problem/10942 |                              |
+| 17404_RGB거리 2                  | https://www.acmicpc.net/problem/17404 |                              |
 
 
 ## SWEA
