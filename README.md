@@ -237,6 +237,7 @@
 | 20040_사이클 게임                | https://www.acmicpc.net/problem/20040 |                                    |
 | 1644_소수의 연속합               | https://www.acmicpc.net/problem/1644  | 에라토스테네스의 체<br />두 포인터 |
 | 2143_두 배열의 합                | https://www.acmicpc.net/problem/2143  |                                    |
+| 2252_줄 세우기                   | https://www.acmicpc.net/problem/2252  | 위상 정렬                          |
 
 
 ## SWEA
