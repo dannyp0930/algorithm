@@ -239,6 +239,7 @@
 | 2143_두 배열의 합                | https://www.acmicpc.net/problem/2143  |                                    |
 | 2252_줄 세우기                   | https://www.acmicpc.net/problem/2252  | 위상 정렬                          |
 | 2342_Dance Dance Revolution      | https://www.acmicpc.net/problem/2342  |                                    |
+| 2473_세 용액                     | https://www.acmicpc.net/problem/2473  | 두 포인터                          |
 
 
 ## SWEA
