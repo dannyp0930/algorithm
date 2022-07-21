@@ -403,5 +403,5 @@
 | 방문 길이                    | https://programmers.co.kr/learn/courses/30/lessons/49994     | Summer/Winter Coding(~2018)                 |
 | 괄호 회전하기                | https://programmers.co.kr/learn/courses/30/lessons/76502     | 월간 코드 챌린지 시즌2                      |
 | 다리를 지나는 트럭           | https://school.programmers.co.kr/learn/courses/30/lessons/42583 | 스택/큐                                     |
-| 2 x n 타일링                 | https://school.programmers.co.kr/learn/courses/30/lessons/12900 |                                             |
+| 2 x n 타일링                 | https://school.programmers.co.kr/learn/courses/30/lessons/12900 | 연습문제                                    |
 
