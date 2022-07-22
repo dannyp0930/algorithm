@@ -245,6 +245,7 @@
 | 1535_안녕                        | https://www.acmicpc.net/problem/1535  | 0-1 knapsack                       |
 | 9466_텀 프로젝트                 | https://www.acmicpc.net/problem/9466  |                                    |
 | 16724_피리 부는 사나이           | https://www.acmicpc.net/problem/16724 | 분리 집합                          |
+| 1007_벡터 매칭                   | https://www.acmicpc.net/problem/1007  |                                    |
 
 
 ## SWEA
