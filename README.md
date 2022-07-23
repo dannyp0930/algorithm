@@ -246,6 +246,7 @@
 | 9466_텀 프로젝트                 | https://www.acmicpc.net/problem/9466  |                                    |
 | 16724_피리 부는 사나이           | https://www.acmicpc.net/problem/16724 | 분리 집합                          |
 | 1007_벡터 매칭                   | https://www.acmicpc.net/problem/1007  |                                    |
+| 1202_보석 도둑                   | https://www.acmicpc.net/problem/1202  |                                    |
 
 
 ## SWEA
