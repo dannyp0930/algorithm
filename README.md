@@ -247,6 +247,7 @@
 | 16724_피리 부는 사나이           | https://www.acmicpc.net/problem/16724 | 분리 집합                          |
 | 1007_벡터 매칭                   | https://www.acmicpc.net/problem/1007  |                                    |
 | 1202_보석 도둑                   | https://www.acmicpc.net/problem/1202  |                                    |
+| 1766_문제집                      | https://www.acmicpc.net/problem/1766  |                                    |
 
 
 ## SWEA
