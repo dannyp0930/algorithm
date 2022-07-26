@@ -249,6 +249,7 @@
 | 1202_보석 도둑                   | https://www.acmicpc.net/problem/1202  |                                    |
 | 1766_문제집                      | https://www.acmicpc.net/problem/1766  |                                    |
 | 9527_1의 개수 세기               | https://www.acmicpc.net/problem/9527  | 비트마스크                         |
+| 10775_공항                       | https://www.acmicpc.net/problem/10775 | 분리 집합 - 경로 압축              |
 
 
 ## SWEA
