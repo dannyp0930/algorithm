@@ -252,6 +252,7 @@
 | 10775_공항                         | https://www.acmicpc.net/problem/10775 | 분리 집합 - 경로 압축              |
 | 12015_가장 긴 증가하는 부분 수열 2 | https://www.acmicpc.net/problem/12015 | O(n log n)                         |
 | 12100_2048(Easy)                   | https://www.acmicpc.net/problem/12100 |                                    |
+| 16946_벽 부수고 이동하기 4         | https://www.acmicpc.net/problem/16946 |                                    |
 
 
 ## SWEA
