@@ -11,15 +11,14 @@ class point():
             return 1
         return 0
 
-    def gte(self, other):
+    def __le__(self, other):
         if self.x == other.x:
-            return self.y >= other.y
-        else:
-            return self.x >= other.x
+            return self.y <= other.y
+        return self.x <= other.x
 
 class line():
     def __init__(self, p1, p2):
-        if point.gte(p2, p1):
+        if p1 <= p2:
             self.p1 = p1
             self.p2 = p2
         else:
@@ -30,7 +29,7 @@ class line():
         ccw1 = point.ccw(self.p1, self.p2, other.p1) * point.ccw(self.p1, self.p2, other.p2)
         ccw2 = point.ccw(other.p1, other.p2, self.p1) * point.ccw(other.p1, other.p2, self.p2)
         if ccw1 == 0 and ccw2 == 0:
-            if point.gte(other.p2, self.p1) and point.gte(self.p2, other.p1):
+            if self.p1 <= other.p2 and other.p1 <= self.p2:
                 return 1
         elif ccw1 <= 0 and ccw2 <= 0:
             return 1
