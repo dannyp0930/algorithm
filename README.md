@@ -255,6 +255,7 @@
 | 16946_벽 부수고 이동하기 4         | https://www.acmicpc.net/problem/16946 |                                    |
 | 17143_낚시왕                       | https://www.acmicpc.net/problem/17143 |                                    |
 | 17387_선분교차2                    | https://www.acmicpc.net/problem/17387 | 선분 교차 판정                     |
+| 1208_부분수열의 합 2               | https://www.acmicpc.net/problem/1208  |                                    |
 
 
 ## SWEA
