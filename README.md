@@ -258,6 +258,7 @@
 | 1208_부분수열의 합 2               | https://www.acmicpc.net/problem/1208  |                                    |
 | 1509_팰린드롬 분할                 | https://www.acmicpc.net/problem/1509  |                                    |
 | 1562_계단 수                       | https://www.acmicpc.net/problem/1562  |                                    |
+| 2162_선분 그룹                     | https://www.acmicpc.net/problem/2162  |                                    |
 
 
 ## SWEA
