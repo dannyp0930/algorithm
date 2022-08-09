@@ -262,6 +262,7 @@
 | 1004_어린 왕자                     | https://www.acmicpc.net/problem/1004  |                                    |
 | 9328_열쇠                          | https://www.acmicpc.net/problem/9328  |                                    |
 | 12850_본대 산책2                   | https://www.acmicpc.net/problem/12850 |                                    |
+| 13460_구슬 탈출 2                  | https://www.acmicpc.net/problem/13460 |                                    |
 
 
 ## SWEA
