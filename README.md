@@ -263,6 +263,7 @@
 | 9328_열쇠                          | https://www.acmicpc.net/problem/9328  |                                    |
 | 12850_본대 산책2                   | https://www.acmicpc.net/problem/12850 |                                    |
 | 13460_구슬 탈출 2                  | https://www.acmicpc.net/problem/13460 |                                    |
+| 14003_가장 긴 증가하는 부분 수열 5 | https://www.acmicpc.net/problem/14003 |                                    |
 
 
 ## SWEA
