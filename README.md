@@ -266,6 +266,7 @@
 | 14003_가장 긴 증가하는 부분 수열 5 | https://www.acmicpc.net/problem/14003 |                                    |
 | 2568_전깃줄-2                      | https://www.acmicpc.net/problem/2568  | LIS                                |
 | 2887_행성 터널                     | https://www.acmicpc.net/problem/2887  | MST                                |
+| 14939_불 끄기                      | https://www.acmicpc.net/problem/14939 | 비트마스킹                         |
 
 
 
