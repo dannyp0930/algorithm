@@ -267,6 +267,7 @@
 | 2568_전깃줄-2                      | https://www.acmicpc.net/problem/2568  | LIS                                |
 | 2887_행성 터널                     | https://www.acmicpc.net/problem/2887  | MST                                |
 | 14939_불 끄기                      | https://www.acmicpc.net/problem/14939 | 비트마스킹                         |
+| 3003_킹, 퀸, 룩, 비숍, 나이트, 폰  | https://www.acmicpc.net/problem/3003  |                                    |
 
 
 
