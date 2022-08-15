@@ -268,6 +268,7 @@
 | 2887_행성 터널                     | https://www.acmicpc.net/problem/2887  | MST                                |
 | 14939_불 끄기                      | https://www.acmicpc.net/problem/14939 | 비트마스킹                         |
 | 3003_킹, 퀸, 룩, 비숍, 나이트, 폰  | https://www.acmicpc.net/problem/3003  |                                    |
+| 16566_카드 게임                    | https://www.acmicpc.net/problem/16566 | 이분탐색, 분리집합                 |
 
 
 
