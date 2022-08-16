@@ -269,6 +269,7 @@
 | 14939_불 끄기                      | https://www.acmicpc.net/problem/14939 | 비트마스킹                         |
 | 3003_킹, 퀸, 룩, 비숍, 나이트, 폰  | https://www.acmicpc.net/problem/3003  |                                    |
 | 16566_카드 게임                    | https://www.acmicpc.net/problem/16566 | 이분탐색, 분리집합                 |
+| 2533_사회망 서비스(SNS)            | https://www.acmicpc.net/problem/2533  | 트리에서의 DP                      |
 
 
 
