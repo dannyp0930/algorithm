@@ -274,6 +274,7 @@
 | 25304_영수증                       | https://www.acmicpc.net/problem/25304 |                                    |
 | 25305_커트라인                     | https://www.acmicpc.net/problem/25305 |                                    |
 | 10815_숫자 카드                    | https://www.acmicpc.net/problem/10815 |                                    |
+| 14425_문자열 집합                  | https://www.acmicpc.net/problem/14425 |                                    |
 
 
 
