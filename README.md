@@ -273,6 +273,7 @@
 | 14725_개미굴                       | https://www.acmicpc.net/problem/14725 | 트라이(Trie)                       |
 | 25304_영수증                       | https://www.acmicpc.net/problem/25304 |                                    |
 | 25305_커트라인                     | https://www.acmicpc.net/problem/25305 |                                    |
+| 10815_숫자 카드                    | https://www.acmicpc.net/problem/10815 |                                    |
 
 
 
