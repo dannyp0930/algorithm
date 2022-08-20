@@ -276,6 +276,7 @@
 | 10815_숫자 카드                    | https://www.acmicpc.net/problem/10815 |                                    |
 | 14425_문자열 집합                  | https://www.acmicpc.net/problem/14425 |                                    |
 | 1269_대칭 차집합                   | https://www.acmicpc.net/problem/1269  |                                    |
+| 11478_서로 다른 부분 문자열의 개수 | https://www.acmicpc.net/problem/11478 |                                    |
 
 
 
