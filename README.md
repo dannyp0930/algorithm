@@ -444,5 +444,6 @@
 | 괄호 회전하기                | https://programmers.co.kr/learn/courses/30/lessons/76502     | 월간 코드 챌린지 시즌2                      |
 | 다리를 지나는 트럭           | https://school.programmers.co.kr/learn/courses/30/lessons/42583 | 스택/큐                                     |
 | 2 x n 타일링                 | https://school.programmers.co.kr/learn/courses/30/lessons/12900 | 연습문제                                    |
-| 2개 이하로 다른 비트         | https://school.programmers.co.kr/learn/courses/30/lessons/77885?language=python3# | 월간 코드 챌린지 시즌2                      |
+| 2개 이하로 다른 비트         | https://school.programmers.co.kr/learn/courses/30/lessons/77885 | 월간 코드 챌린지 시즌2                      |
+| 성격 유형 검사하기           | https://school.programmers.co.kr/learn/courses/30/lessons/118666 | 2022 KAKAO TECH INTERNSHIP                  |
 
