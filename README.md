@@ -1,7 +1,7 @@
 # 알고리즘 연습 REPO
 
-## [baekjoon](#baekjoon)
+## [baekjoon](baekjoon)
 
-## [SWEA](#SWEA)
+## [SWEA](SWEA)
 
-## [programmers](#programmers)
+## [programmers](programmers)
