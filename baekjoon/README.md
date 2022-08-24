@@ -278,3 +278,4 @@
 | 15824_너 봄에는 캡사이신이 맛있단다 | https://www.acmicpc.net/problem/15824 |                                    |
 | 13334_철로                          | https://www.acmicpc.net/problem/13334 |                                    |
 | 16565_N포커                         | https://www.acmicpc.net/problem/16565 | 포함 배제의 원리                   |
+| 1358_하키                           | https://www.acmicpc.net/problem/1358  |                                    |
