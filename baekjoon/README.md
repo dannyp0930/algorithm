@@ -279,3 +279,4 @@
 | 13334_철로                          | https://www.acmicpc.net/problem/13334 |                                    |
 | 16565_N포커                         | https://www.acmicpc.net/problem/16565 | 포함 배제의 원리                   |
 | 1358_하키                           | https://www.acmicpc.net/problem/1358  |                                    |
+| 2004_조합 0의 개수                  | https://www.acmicpc.net/problem/2004  |                                    |
