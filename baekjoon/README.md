@@ -280,3 +280,4 @@
 | 16565_N포커                         | https://www.acmicpc.net/problem/16565 | 포함 배제의 원리                   |
 | 1358_하키                           | https://www.acmicpc.net/problem/1358  |                                    |
 | 2004_조합 0의 개수                  | https://www.acmicpc.net/problem/2004  |                                    |
+| 24416_알고리즘 수업 - 피보나치 수 1 | https://www.acmicpc.net/problem/24416 |                                    |
