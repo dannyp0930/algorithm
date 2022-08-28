@@ -283,3 +283,4 @@
 | 24416_알고리즘 수업 - 피보나치 수 1 | https://www.acmicpc.net/problem/24416 |                                    |
 | 9184_신나는 함수 실행               | https://www.acmicpc.net/problem/9184  |                                    |
 | 1904_01타일                         | https://www.acmicpc.net/problem/1904  |                                    |
+| 2565_전깃줄                         | https://www.acmicpc.net/problem/2565  | LIS                                |
