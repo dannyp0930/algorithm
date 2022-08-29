@@ -284,3 +284,4 @@
 | 9184_신나는 함수 실행               | https://www.acmicpc.net/problem/9184  |                                    |
 | 1904_01타일                         | https://www.acmicpc.net/problem/1904  |                                    |
 | 2565_전깃줄                         | https://www.acmicpc.net/problem/2565  | LIS                                |
+| 2559_수열                           | https://www.acmicpc.net/problem/2559  | 슬라이딩 윈도우                    |
