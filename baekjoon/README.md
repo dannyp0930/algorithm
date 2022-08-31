@@ -286,3 +286,4 @@
 | 2565_전깃줄                         | https://www.acmicpc.net/problem/2565  | LIS                                |
 | 2559_수열                           | https://www.acmicpc.net/problem/2559  | 슬라이딩 윈도우                    |
 | 16139_인간-컴퓨터 상호작용          | https://www.acmicpc.net/problem/16139 |                                    |
+| 10986_나머지 합                     | https://www.acmicpc.net/problem/10986 |                                    |
