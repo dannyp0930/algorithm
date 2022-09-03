@@ -289,3 +289,4 @@
 | 10986_나머지 합                     | https://www.acmicpc.net/problem/10986 |                                    |
 | 13305_주유소                        | https://www.acmicpc.net/problem/13305 |                                    |
 | 17298_오큰수                        | https://www.acmicpc.net/problem/17298 |                                    |
+| 18258_큐 2                          | https://www.acmicpc.net/problem/18258 | 선형 큐                            |
