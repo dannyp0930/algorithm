@@ -290,3 +290,4 @@
 | 13305_주유소                        | https://www.acmicpc.net/problem/13305 |                                    |
 | 17298_오큰수                        | https://www.acmicpc.net/problem/17298 |                                    |
 | 18258_큐 2                          | https://www.acmicpc.net/problem/18258 | 선형 큐                            |
+| 1021_회전하는 큐                    | https://www.acmicpc.net/problem/1021  | 덱                                 |
