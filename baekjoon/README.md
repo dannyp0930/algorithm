@@ -293,3 +293,4 @@
 | 1021_회전하는 큐                    | https://www.acmicpc.net/problem/1021  | 덱                                 |
 | 11401_이항 계수 3                   | https://www.acmicpc.net/problem/11401 |                                    |
 | 2740_행렬 곱셈                      | https://www.acmicpc.net/problem/2740  |                                    |
+| 2110_공유기 설치                    | https://www.acmicpc.net/problem/2110  |                                    |
