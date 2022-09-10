@@ -296,3 +296,4 @@
 | 2110_공유기 설치                    | https://www.acmicpc.net/problem/2110  |                                    |
 | 1015_수열 정렬                      | https://www.acmicpc.net/problem/1015  |                                    |
 | 9372_상근이의 여행                  | https://www.acmicpc.net/step/15       |                                    |
+| 25501_재귀의 귀재                   | https://www.acmicpc.net/problem/25501 |                                    |
