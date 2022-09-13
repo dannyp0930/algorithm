@@ -299,3 +299,4 @@
 | 25501_재귀의 귀재                   | https://www.acmicpc.net/problem/25501 |                                    |
 | 24060_알고리즘 수업 - 병합 정렬 1   | https://www.acmicpc.net/problem/24060 | 병합 정렬                          |
 | 1024_수열의 합                      | https://www.acmicpc.net/problem/1024  |                                    |
+| 1026_보물                           | https://www.acmicpc.net/problem/1026  |                                    |
