@@ -124,4 +124,5 @@
 | 성격 유형 검사하기           | https://school.programmers.co.kr/learn/courses/30/lessons/118666 | 2022 KAKAO TECH INTERNSHIP                  |
 | 멀리 뛰기                    | https://school.programmers.co.kr/learn/courses/30/lessons/12914 | 연습문제                                    |
 | 점프와 순간 이동             | https://school.programmers.co.kr/learn/courses/30/lessons/12980 | Summer/Winter Coding(~2018)                 |
+| 최고의 집합                  | https://school.programmers.co.kr/learn/courses/30/lessons/12938 | 연습문제                                    |
 
