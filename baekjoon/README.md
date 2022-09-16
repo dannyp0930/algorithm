@@ -302,3 +302,4 @@
 | 1026_보물                           | https://www.acmicpc.net/problem/1026  |                                    |
 | 1009_분산처리                       | https://www.acmicpc.net/problem/1009  |                                    |
 | 1011_Fly me to the Alpha Centauri   | https://www.acmicpc.net/problem/1011  |                                    |
+| 1094_막대기                         | https://www.acmicpc.net/problem/1094  |                                    |
