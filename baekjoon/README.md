@@ -306,3 +306,4 @@
 | 1158_요세푸스 문제                  | https://www.acmicpc.net/problem/1158  |                                    |
 | 1063_킹                             | https://www.acmicpc.net/problem/1063  |                                    |
 | 1058_친구                           | https://www.acmicpc.net/problem/1058  | 플로이드-워셜                      |
+| 1013_Contact                        | https://www.acmicpc.net/problem/1013  | 정규 표현식                        |
