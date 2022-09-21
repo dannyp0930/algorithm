@@ -308,3 +308,4 @@
 | 1058_친구                           | https://www.acmicpc.net/problem/1058  | 플로이드-워셜                      |
 | 1013_Contact                        | https://www.acmicpc.net/problem/1013  | 정규 표현식                        |
 | 1025_제곱수 찾기                    | https://www.acmicpc.net/problem/1025  |                                    |
+| 1038_감소하는 수                    | https://www.acmicpc.net/problem/1038  |                                    |
