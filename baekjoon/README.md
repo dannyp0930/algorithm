@@ -309,3 +309,4 @@
 | 1013_Contact                        | https://www.acmicpc.net/problem/1013  | 정규 표현식                        |
 | 1025_제곱수 찾기                    | https://www.acmicpc.net/problem/1025  |                                    |
 | 1038_감소하는 수                    | https://www.acmicpc.net/problem/1038  |                                    |
+| 1072_게임                           | https://www.acmicpc.net/problem/1072  |                                    |
