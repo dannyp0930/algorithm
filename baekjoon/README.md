@@ -310,3 +310,5 @@
 | 1025_제곱수 찾기                    | https://www.acmicpc.net/problem/1025  |                                    |
 | 1038_감소하는 수                    | https://www.acmicpc.net/problem/1038  |                                    |
 | 1072_게임                           | https://www.acmicpc.net/problem/1072  |                                    |
+| 1124_언더프라임                     | https://www.acmicpc.net/problem/1124  |                                    |
+
