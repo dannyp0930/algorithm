@@ -126,4 +126,5 @@
 | 점프와 순간 이동             | https://school.programmers.co.kr/learn/courses/30/lessons/12980 | Summer/Winter Coding(~2018)                 |
 | 최고의 집합                  | https://school.programmers.co.kr/learn/courses/30/lessons/12938 | 연습문제                                    |
 | 이중우선순위큐               | https://school.programmers.co.kr/learn/courses/30/lessons/42628 | 힙(Heap)                                    |
+| 야근지수                     | https://school.programmers.co.kr/learn/courses/30/lessons/12927 | 연습문제                                    |
 
