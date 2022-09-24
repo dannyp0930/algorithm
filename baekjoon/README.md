@@ -311,4 +311,5 @@
 | 1038_감소하는 수                    | https://www.acmicpc.net/problem/1038  |                                    |
 | 1072_게임                           | https://www.acmicpc.net/problem/1072  |                                    |
 | 1124_언더프라임                     | https://www.acmicpc.net/problem/1124  |                                    |
+| 1251_단어 나누기                    | https://www.acmicpc.net/problem/1251  |                                    |
 
