@@ -314,4 +314,5 @@
 | 1251_단어 나누기                    | https://www.acmicpc.net/problem/1251  |                                    |
 | 1052_물병                           | https://www.acmicpc.net/problem/1052  |                                    |
 | 1057_토너먼트                       | https://www.acmicpc.net/problem/1057  |                                    |
+| 1041_주사위                         | https://www.acmicpc.net/problem/1041  |                                    |
 
