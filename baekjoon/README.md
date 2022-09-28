@@ -316,4 +316,5 @@
 | 1057_토너먼트                       | https://www.acmicpc.net/problem/1057  |                                    |
 | 1041_주사위                         | https://www.acmicpc.net/problem/1041  |                                    |
 | 1068_트리                           | https://www.acmicpc.net/problem/1068  |                                    |
+| 1083_소트                           | https://www.acmicpc.net/problem/1083  |                                    |
 
