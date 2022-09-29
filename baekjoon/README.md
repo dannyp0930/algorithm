@@ -318,4 +318,5 @@
 | 1068_트리                           | https://www.acmicpc.net/problem/1068  |                                    |
 | 1083_소트                           | https://www.acmicpc.net/problem/1083  |                                    |
 | 1092_배                             | https://www.acmicpc.net/problem/1092  |                                    |
+| 1106_호텔                           | https://www.acmicpc.net/problem/1106  |                                    |
 
