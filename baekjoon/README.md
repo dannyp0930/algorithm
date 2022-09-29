@@ -319,4 +319,5 @@
 | 1083_소트                           | https://www.acmicpc.net/problem/1083  |                                    |
 | 1092_배                             | https://www.acmicpc.net/problem/1092  |                                    |
 | 1106_호텔                           | https://www.acmicpc.net/problem/1106  |                                    |
+| 1022_소용돌이 예쁘게 출력하기       | https://www.acmicpc.net/problem/1022  |                                    |
 
