@@ -321,4 +321,5 @@
 | 1106_호텔                           | https://www.acmicpc.net/problem/1106  |                                    |
 | 1022_소용돌이 예쁘게 출력하기       | https://www.acmicpc.net/problem/1022  |                                    |
 | 1117_색칠 1                         | https://www.acmicpc.net/problem/1117  |                                    |
+| 1351_무한 수열                      | https://www.acmicpc.net/problem/1351  |                                    |
 
