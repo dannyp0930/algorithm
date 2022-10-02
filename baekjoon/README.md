@@ -323,4 +323,5 @@
 | 1117_색칠 1                         | https://www.acmicpc.net/problem/1117  |                                    |
 | 1351_무한 수열                      | https://www.acmicpc.net/problem/1351  |                                    |
 | 1080_행렬                           | https://www.acmicpc.net/problem/1080  |                                    |
+| 1308_D-Day                          | https://www.acmicpc.net/problem/1308  |                                    |
 
