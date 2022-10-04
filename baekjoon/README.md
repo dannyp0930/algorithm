@@ -325,4 +325,5 @@
 | 1080_행렬                           | https://www.acmicpc.net/problem/1080  |                                    |
 | 1308_D-Day                          | https://www.acmicpc.net/problem/1308  |                                    |
 | 1312_소수                           | https://www.acmicpc.net/problem/1312  |                                    |
+| 1188_음식평론가                     | https://www.acmicpc.net/problem/1188  |                                    |
 
