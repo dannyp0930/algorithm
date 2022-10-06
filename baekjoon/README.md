@@ -327,4 +327,4 @@
 | 1312_소수                           | https://www.acmicpc.net/problem/1312  |                                    |
 | 1188_음식평론가                     | https://www.acmicpc.net/problem/1188  |                                    |
 | 1166_선물                           | https://www.acmicpc.net/problem/1166  |                                    |
-
+| 1016_제곱 ㄴㄴ 수                   | https://www.acmicpc.net/problem/1016  |                                    |
