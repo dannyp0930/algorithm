@@ -329,3 +329,4 @@
 | 1166_선물                           | https://www.acmicpc.net/problem/1166  |                                    |
 | 1016_제곱 ㄴㄴ 수                   | https://www.acmicpc.net/problem/1016  |                                    |
 | 1019_책 페이지                      | https://www.acmicpc.net/problem/1019  |                                    |
+| 2042_구간 합 구하기                 | https://www.acmicpc.net/problem/2042  | 세그먼트 트리                      |
