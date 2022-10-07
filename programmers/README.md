@@ -128,4 +128,5 @@
 | 이중우선순위큐               | https://school.programmers.co.kr/learn/courses/30/lessons/42628 | 힙(Heap)                                    |
 | 야근지수                     | https://school.programmers.co.kr/learn/courses/30/lessons/12927 | 연습문제                                    |
 | 주차 요금 계산               | https://school.programmers.co.kr/learn/courses/30/lessons/92341 | 2022 KAKAO BLIND RECRUITMENT                |
+| 네크워크                     | https://school.programmers.co.kr/learn/courses/30/lessons/43162 | DFS/BFS                                     |
 
