@@ -328,3 +328,4 @@
 | 1188_음식평론가                     | https://www.acmicpc.net/problem/1188  |                                    |
 | 1166_선물                           | https://www.acmicpc.net/problem/1166  |                                    |
 | 1016_제곱 ㄴㄴ 수                   | https://www.acmicpc.net/problem/1016  |                                    |
+| 1019_책 페이지                      | https://www.acmicpc.net/problem/1019  |                                    |
