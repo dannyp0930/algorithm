@@ -129,4 +129,5 @@
 | 야근지수                     | https://school.programmers.co.kr/learn/courses/30/lessons/12927 | 연습문제                                    |
 | 주차 요금 계산               | https://school.programmers.co.kr/learn/courses/30/lessons/92341 | 2022 KAKAO BLIND RECRUITMENT                |
 | 네크워크                     | https://school.programmers.co.kr/learn/courses/30/lessons/43162 | DFS/BFS                                     |
+| 단어 변환                    | https://school.programmers.co.kr/learn/courses/30/lessons/43163 | DFS/BFS                                     |
 
