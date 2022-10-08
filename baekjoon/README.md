@@ -331,3 +331,4 @@
 | 1019_책 페이지                      | https://www.acmicpc.net/problem/1019  |                                    |
 | 2042_구간 합 구하기                 | https://www.acmicpc.net/problem/2042  | 세그먼트 트리                      |
 | 2357_최솟값과 최댓값                | https://www.acmicpc.net/problem/2357  | 세그먼트 트리                      |
+| 10868_최솟값                        | https://www.acmicpc.net/problem/10868 | 세그먼트 트리                      |
