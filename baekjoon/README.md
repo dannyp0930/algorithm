@@ -333,3 +333,4 @@
 | 2357_최솟값과 최댓값                | https://www.acmicpc.net/problem/2357  | 세그먼트 트리                      |
 | 10868_최솟값                        | https://www.acmicpc.net/problem/10868 | 세그먼트 트리                      |
 | 2293_동전 1                         | https://www.acmicpc.net/problem/2293  |                                    |
+| 2225_합분해                         | https://www.acmicpc.net/problem/2225  |                                    |
