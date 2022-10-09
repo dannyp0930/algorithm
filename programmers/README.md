@@ -131,4 +131,5 @@
 | 네크워크                     | https://school.programmers.co.kr/learn/courses/30/lessons/43162 | DFS/BFS                                     |
 | 단어 변환                    | https://school.programmers.co.kr/learn/courses/30/lessons/43163 | DFS/BFS                                     |
 | 모음사전                     | https://school.programmers.co.kr/learn/courses/30/lessons/84512 | 완전탐색                                    |
+| 단속카메라                   | https://school.programmers.co.kr/learn/courses/30/lessons/42884 | 탐욕법(Greedy)                              |
 
