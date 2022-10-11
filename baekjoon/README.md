@@ -335,3 +335,4 @@
 | 2293_동전 1                         | https://www.acmicpc.net/problem/2293  |                                    |
 | 2225_합분해                         | https://www.acmicpc.net/problem/2225  |                                    |
 | 14890_경사로                        | https://www.acmicpc.net/problem/14890 |                                    |
+| 1700_멀티탭 스케줄링                | https://www.acmicpc.net/problem/1700  |                                    |
