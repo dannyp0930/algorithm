@@ -337,3 +337,4 @@
 | 14890_경사로                        | https://www.acmicpc.net/problem/14890 |                                    |
 | 1700_멀티탭 스케줄링                | https://www.acmicpc.net/problem/1700  |                                    |
 | 11066_파일 합치기                   | https://www.acmicpc.net/problem/11066 |                                    |
+| 11505_구간 곱 구하기                | https://www.acmicpc.net/problem/11505 | 세그먼트 트리                      |
