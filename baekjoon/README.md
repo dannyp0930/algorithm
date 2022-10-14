@@ -339,3 +339,4 @@
 | 11066_파일 합치기                   | https://www.acmicpc.net/problem/11066 |                                    |
 | 11505_구간 곱 구하기                | https://www.acmicpc.net/problem/11505 | 세그먼트 트리                      |
 | 17472_다리 만들기 2                 | https://www.acmicpc.net/problem/17472 | 그래프 탐색<br />MST               |
+| 11652_카드                          | https://www.acmicpc.net/problem/11652 |                                    |
