@@ -342,3 +342,4 @@
 | 11652_카드                          | https://www.acmicpc.net/problem/11652 |                                    |
 | 5052_전화번호 목록                  | https://www.acmicpc.net/problem/5052  | 트라이                             |
 | 17413_단어 뒤집기 2                 | https://www.acmicpc.net/problem/17413 |                                    |
+| 11003_최솟값 찾기                   | https://www.acmicpc.net/problem/11003 | 덱                                 |
