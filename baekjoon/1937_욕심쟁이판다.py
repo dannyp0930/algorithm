@@ -6,14 +6,14 @@ dc = [0, 0, 1, -1]
 
 
 def dfs(r, c):
-    if dp[r][c] == 0:
-        for d in range(4):
-            nr, nc = r + dr[d], c + dc[d]
-            if not (0 <= nr < n and 0 <= nc < n):
-                continue
-            if arr[nr][nc] > arr[r][c]:
-                dp[r][c] = max(dp[r][c], dfs(nr, nc))
-    return dp[r][c] + 1
+    if dp[r][c]: return dp[r][c]
+    dp[r][c] = 1
+    for d in range(4):
+        nr, nc = r + dr[d], c + dc[d]
+        if not (0 <= nr < n and 0 <= nc < n): continue
+        if arr[nr][nc] > arr[r][c]:
+            dp[r][c] = max(dp[r][c], dfs(nr, nc) + 1)
+    return dp[r][c]
 
 
 sys.setrecursionlimit(10**9)
