@@ -346,3 +346,4 @@
 | 1937_욕심쟁이 판다                  | https://www.acmicpc.net/problem/1937  |                                    |
 | 15684_사다리 조작                   | https://www.acmicpc.net/problem/15684 | 백트래킹                           |
 | 14891_톱니바퀴                      | https://www.acmicpc.net/problem/14891 |                                    |
+| 11052_카드 구매하기                 | https://www.acmicpc.net/problem/11052 |                                    |
