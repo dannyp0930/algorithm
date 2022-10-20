@@ -132,5 +132,6 @@
 | 단어 변환                    | https://school.programmers.co.kr/learn/courses/30/lessons/43163 | DFS/BFS                                     |
 | 모음사전                     | https://school.programmers.co.kr/learn/courses/30/lessons/84512 | 완전탐색                                    |
 | 단속카메라                   | https://school.programmers.co.kr/learn/courses/30/lessons/42884 | 탐욕법(Greedy)                              |
-| 베스트앨범                   | https://school.programmers.co.kr/learn/courses/30/lessons/42579 |                                             |
+| 베스트앨범                   | https://school.programmers.co.kr/learn/courses/30/lessons/42579 | 해시                                        |
+| 연속 부분 수열 합의 개수     | https://school.programmers.co.kr/learn/courses/30/lessons/131701 | 연습문제                                    |
 
