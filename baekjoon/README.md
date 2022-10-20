@@ -348,3 +348,4 @@
 | 14891_톱니바퀴                      | https://www.acmicpc.net/problem/14891 |                                    |
 | 11052_카드 구매하기                 | https://www.acmicpc.net/problem/11052 |                                    |
 | 11689_GCD(n, k) = 1                 | https://www.acmicpc.net/problem/11689 |                                    |
+| 11057_오르막 수                     | https://www.acmicpc.net/problem/11057 |                                    |
