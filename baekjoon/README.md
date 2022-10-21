@@ -349,4 +349,5 @@
 | 11052_카드 구매하기                 | https://www.acmicpc.net/problem/11052 |                                    |
 | 11689_GCD(n, k) = 1                 | https://www.acmicpc.net/problem/11689 |                                    |
 | 11057_오르막 수                     | https://www.acmicpc.net/problem/11057 |                                    |
-| 1946_신입사원                       | https://www.acmicpc.net/problem/1946  |                                    |
+| 1946_신입 사원                      | https://www.acmicpc.net/problem/1946  |                                    |
+| 16234_인구 이동                     | https://www.acmicpc.net/problem/16234 |                                    |
