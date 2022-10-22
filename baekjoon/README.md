@@ -351,3 +351,4 @@
 | 11057_오르막 수                     | https://www.acmicpc.net/problem/11057 |                                    |
 | 1946_신입 사원                      | https://www.acmicpc.net/problem/1946  |                                    |
 | 16234_인구 이동                     | https://www.acmicpc.net/problem/16234 |                                    |
+| 1309_동물원                         | https://www.acmicpc.net/problem/1309  |                                    |
