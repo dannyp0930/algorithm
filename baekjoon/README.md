@@ -352,3 +352,4 @@
 | 1946_신입 사원                      | https://www.acmicpc.net/problem/1946  |                                    |
 | 16234_인구 이동                     | https://www.acmicpc.net/problem/16234 |                                    |
 | 1309_동물원                         | https://www.acmicpc.net/problem/1309  |                                    |
+| 1261_알고스팟                       | https://www.acmicpc.net/problem/1261  |                                    |
