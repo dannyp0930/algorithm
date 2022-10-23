@@ -353,3 +353,4 @@
 | 16234_인구 이동                     | https://www.acmicpc.net/problem/16234 |                                    |
 | 1309_동물원                         | https://www.acmicpc.net/problem/1309  |                                    |
 | 1261_알고스팟                       | https://www.acmicpc.net/problem/1261  |                                    |
+| 2493_탑                             | https://www.acmicpc.net/problem/2493  |                                    |
