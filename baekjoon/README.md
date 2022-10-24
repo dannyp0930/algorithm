@@ -356,4 +356,5 @@
 | 2493_탑                             | https://www.acmicpc.net/problem/2493  |                                    |
 | 16235_나무 재테크                   | https://www.acmicpc.net/problem/16235 |                                    |
 | 1600_말이 되고픈 원숭이             | https://www.acmicpc.net/problem/1600  |                                    |
+| 1655_가운데를 말해요                | https://www.acmicpc.net/problem/1655  | 우선순위 큐                        |
 
