@@ -354,3 +354,4 @@
 | 1309_동물원                         | https://www.acmicpc.net/problem/1309  |                                    |
 | 1261_알고스팟                       | https://www.acmicpc.net/problem/1261  |                                    |
 | 2493_탑                             | https://www.acmicpc.net/problem/2493  |                                    |
+| 16235_나무 재테크                   | https://www.acmicpc.net/problem/16235 |                                    |
