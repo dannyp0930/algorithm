@@ -358,4 +358,5 @@
 | 1600_말이 되고픈 원숭이             | https://www.acmicpc.net/problem/1600  |                                    |
 | 1655_가운데를 말해요                | https://www.acmicpc.net/problem/1655  | 우선순위 큐                        |
 | 3190_뱀                             | https://www.acmicpc.net/problem/3190  |                                    |
+| 1717_집합의 표현                    | https://www.acmicpc.net/problem/1717  |                                    |
 
