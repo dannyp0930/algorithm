@@ -359,4 +359,5 @@
 | 1655_가운데를 말해요                | https://www.acmicpc.net/problem/1655  | 우선순위 큐                        |
 | 3190_뱀                             | https://www.acmicpc.net/problem/3190  |                                    |
 | 1717_집합의 표현                    | https://www.acmicpc.net/problem/1717  |                                    |
+| 14499_주사위 굴리기                 | https://www.acmicpc.net/problem/14499 |                                    |
 
