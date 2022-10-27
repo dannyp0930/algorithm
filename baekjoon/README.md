@@ -362,4 +362,5 @@
 | 14499_주사위 굴리기                 | https://www.acmicpc.net/problem/14499 |                                    |
 | 2133_타일 채우기                    | https://www.acmicpc.net/problem/2133  |                                    |
 | 1707_이분 그래프                    | https://www.acmicpc.net/problem/1707  |                                    |
+| 1922_네트워크 연결                  | https://www.acmicpc.net/problem/1922  | Kruskal MST                        |
 
