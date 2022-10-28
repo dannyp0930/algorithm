@@ -136,4 +136,5 @@
 | 연속 부분 수열 합의 개수     | https://school.programmers.co.kr/learn/courses/30/lessons/131701 | 연습문제                                    |
 | 숫자게임                     | https://school.programmers.co.kr/learn/courses/30/lessons/12987 | Summer/Winter Coding(~2018)                 |
 | 쿼드압축 후 개수 세기        | https://school.programmers.co.kr/learn/courses/30/lessons/68936 | 월간 코드 챌린지 시즌1                      |
+| 할인 행사                    | https://school.programmers.co.kr/learn/courses/30/lessons/131127 | 연습문제                                    |
 
