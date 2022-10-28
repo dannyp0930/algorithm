@@ -134,4 +134,5 @@
 | 단속카메라                   | https://school.programmers.co.kr/learn/courses/30/lessons/42884 | 탐욕법(Greedy)                              |
 | 베스트앨범                   | https://school.programmers.co.kr/learn/courses/30/lessons/42579 | 해시                                        |
 | 연속 부분 수열 합의 개수     | https://school.programmers.co.kr/learn/courses/30/lessons/131701 | 연습문제                                    |
+| 숫자게임                     | https://school.programmers.co.kr/learn/courses/30/lessons/12987 | Summer/Winter Coding(~2018)                 |
 
