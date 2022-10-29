@@ -367,4 +367,5 @@
 | 15683_감시                          | https://www.acmicpc.net/problem/15683 |                                    |
 | 1715_카드 정렬하기                  | https://www.acmicpc.net/problem/1715  | 우선순위 큐                        |
 | 1516_게임 개발                      | https://www.acmicpc.net/problem/1516  | 위상 정렬                          |
+| 2668_숫자고르기                     | https://www.acmicpc.net/problem/2668  |                                    |
 
