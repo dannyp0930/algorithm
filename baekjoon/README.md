@@ -366,4 +366,5 @@
 | 1300_K번째 수                       | https://www.acmicpc.net/problem/1300  | 매개변수 탐색                      |
 | 15683_감시                          | https://www.acmicpc.net/problem/15683 |                                    |
 | 1715_카드 정렬하기                  | https://www.acmicpc.net/problem/1715  | 우선순위 큐                        |
+| 1516_게임 개발                      | https://www.acmicpc.net/problem/1516  | 위상 정렬                          |
 
