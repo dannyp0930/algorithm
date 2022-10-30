@@ -368,4 +368,5 @@
 | 1715_카드 정렬하기                  | https://www.acmicpc.net/problem/1715  | 우선순위 큐                        |
 | 1516_게임 개발                      | https://www.acmicpc.net/problem/1516  | 위상 정렬                          |
 | 2668_숫자고르기                     | https://www.acmicpc.net/problem/2668  |                                    |
+| 16293_최대 페이지 수                | https://www.acmicpc.net/problem/16493 | 0-1 knapsack                       |
 
