@@ -369,4 +369,5 @@
 | 1516_게임 개발                      | https://www.acmicpc.net/problem/1516  | 위상 정렬                          |
 | 2668_숫자고르기                     | https://www.acmicpc.net/problem/2668  |                                    |
 | 16293_최대 페이지 수                | https://www.acmicpc.net/problem/16493 | 0-1 knapsack                       |
+| 2573_빙산                           | https://www.acmicpc.net/problem/2573  |                                    |
 
