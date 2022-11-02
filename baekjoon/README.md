@@ -371,4 +371,5 @@
 | 16293_최대 페이지 수                | https://www.acmicpc.net/problem/16493 | 0-1 knapsack                       |
 | 2573_빙산                           | https://www.acmicpc.net/problem/2573  |                                    |
 | 3055_탈출                           | https://www.acmicpc.net/problem/3055  |                                    |
+| 5014_스타트링크                     | https://www.acmicpc.net/problem/5014  |                                    |
 
