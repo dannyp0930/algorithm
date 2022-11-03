@@ -372,4 +372,5 @@
 | 2573_빙산                           | https://www.acmicpc.net/problem/2573  |                                    |
 | 3055_탈출                           | https://www.acmicpc.net/problem/3055  |                                    |
 | 5014_스타트링크                     | https://www.acmicpc.net/problem/5014  |                                    |
+| 1339_단어 수학                      | https://www.acmicpc.net/problem/1339  |                                    |
 
