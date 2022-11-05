@@ -377,4 +377,5 @@
 | 2470_두 용액                        | https://www.acmicpc.net/problem/2470  | 두 포인터                          |
 | 10974_모든 순열                     | https://www.acmicpc.net/problem/10974 |                                    |
 | 12904_A와 B                         | https://www.acmicpc.net/problem/12904 |                                    |
+| 16120_PPAP                          | https://www.acmicpc.net/problem/16120 |                                    |
 
