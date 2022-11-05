@@ -375,4 +375,5 @@
 | 1339_단어 수학                      | https://www.acmicpc.net/problem/1339  |                                    |
 | 14002_가장 긴 증가하는 부분 수열 4  | https://www.acmicpc.net/problem/14002 |                                    |
 | 2470_두 용액                        | https://www.acmicpc.net/problem/2470  | 두 포인터                          |
+| 10974_모든 순열                     | https://www.acmicpc.net/problem/10974 |                                    |
 
