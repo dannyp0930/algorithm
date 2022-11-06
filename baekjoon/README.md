@@ -378,4 +378,5 @@
 | 10974_모든 순열                     | https://www.acmicpc.net/problem/10974 |                                    |
 | 12904_A와 B                         | https://www.acmicpc.net/problem/12904 |                                    |
 | 16120_PPAP                          | https://www.acmicpc.net/problem/16120 |                                    |
+| 6137_문자열 생성                    | https://www.acmicpc.net/problem/6137  |                                    |
 
