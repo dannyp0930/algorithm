@@ -382,4 +382,5 @@
 | 1744_수 묶기                        | https://www.acmicpc.net/problem/1744  |                                    |
 | 2011_암호코드                       | https://www.acmicpc.net/problem/2011  |                                    |
 | 15685_드래곤 커브                   | https://www.acmicpc.net/problem/15685 |                                    |
+| 1976_여행 가자                      | https://www.acmicpc.net/problem/1976  |                                    |
 
