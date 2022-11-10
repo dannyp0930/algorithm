@@ -383,4 +383,5 @@
 | 2011_암호코드                       | https://www.acmicpc.net/problem/2011  |                                    |
 | 15685_드래곤 커브                   | https://www.acmicpc.net/problem/15685 |                                    |
 | 1976_여행 가자                      | https://www.acmicpc.net/problem/1976  |                                    |
+| 1915_가장 큰 정사각형               | https://www.acmicpc.net/problem/1915  |                                    |
 
