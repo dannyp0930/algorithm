@@ -385,4 +385,5 @@
 | 1976_여행 가자                      | https://www.acmicpc.net/problem/1976  |                                    |
 | 1915_가장 큰 정사각형               | https://www.acmicpc.net/problem/1915  |                                    |
 | 13913_숨바꼭질 4                    | https://www.acmicpc.net/problem/13913 |                                    |
+| 4485_녹색 옷 입은 애가 젤다지?      |                                       |                                    |
 
