@@ -389,4 +389,5 @@
 | 17142_연구소 3                      | https://www.acmicpc.net/problem/17142 |                                    |
 | 11657_타임머신                      | https://www.acmicpc.net/problem/11657 | 벨만-포드                          |
 | 128333_XORXORXOR                    | https://www.acmicpc.net/problem/12833 | 비트마스킹                         |
+| 24389_2의 보수                      | https://www.acmicpc.net/problem/24389 | 비트마스킹                         |
 
