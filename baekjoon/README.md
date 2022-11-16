@@ -392,4 +392,5 @@
 | 24389_2의 보수                        | https://www.acmicpc.net/problem/24389 | 비트마스킹                         |
 | 25166_배고픈 아리의 샌드위치 구매하기 | https://www.acmicpc.net/problem/25166 | 비트마스킹                         |
 | 11758_CCW                             | https://www.acmicpc.net/problem/11758 | CCW                                |
+| 11000_강의실 배정                     | https://www.acmicpc.net/problem/11000 | 우선순위 큐                        |
 
