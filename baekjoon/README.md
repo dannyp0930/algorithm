@@ -395,4 +395,5 @@
 | 11000_강의실 배정                     | https://www.acmicpc.net/problem/11000 | 우선순위 큐                        |
 | 13023_ABCDE                           | https://www.acmicpc.net/problem/13023 |                                    |
 | 14719_빗물                            | https://www.acmicpc.net/problem/14719 |                                    |
+| 1475_방 번호                          | https://www.acmicpc.net/problem/1475  |                                    |
 
