@@ -397,4 +397,5 @@
 | 14719_빗물                            | https://www.acmicpc.net/problem/14719 |                                    |
 | 1475_방 번호                          | https://www.acmicpc.net/problem/1475  |                                    |
 | 1789_수들의 합                        | https://www.acmicpc.net/problem/1789  |                                    |
+| 2563_색종이                           | https://www.acmicpc.net/problem/2563  |                                    |
 
