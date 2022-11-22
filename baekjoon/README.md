@@ -398,4 +398,5 @@
 | 1475_방 번호                          | https://www.acmicpc.net/problem/1475  |                                    |
 | 1789_수들의 합                        | https://www.acmicpc.net/problem/1789  |                                    |
 | 2563_색종이                           | https://www.acmicpc.net/problem/2563  |                                    |
+| 11004_K번째 수                        | https://www.acmicpc.net/problem/11004 |                                    |
 
