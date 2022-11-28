@@ -11,12 +11,12 @@
 | 11726_2xN 타일링                      | https://www.acmicpc.net/problem/11726 |                                    |
 | 1149_RGB 거리                         | https://www.acmicpc.net/problem/1149  |                                    |
 | 2579_계단 오르기                      | https://www.acmicpc.net/problem/2579  |                                    |
-| 2913_이친수                           | https://www.acmicpc.net/problem/2193  |                                    |
+| 2193_이친수                           | https://www.acmicpc.net/problem/2193  |                                    |
 | 1932_정수 삼각형                      | https://www.acmicpc.net/problem/1932  |                                    |
 | 2156_포도주 시식                      | https://www.acmicpc.net/problem/2156  |                                    |
 | 2167_2차원 배열의 합                  | https://www.acmicpc.net/problem/2167  |                                    |
 | 10844_쉬운 계단 수                    | https://www.acmicpc.net/problem/10844 |                                    |
-| 15486_퇴사2                           | https://www.acmicpc.net/problem/15486 |                                    |
+| 15486_퇴사 2                          | https://www.acmicpc.net/problem/15486 |                                    |
 | 9084_동전                             | https://www.acmicpc.net/problem/9084  |                                    |
 | 1520_내리막 길                        | https://www.acmicpc.net/problem/1520  |                                    |
 | 1890_점프                             | https://www.acmicpc.net/problem/1890  |                                    |
@@ -112,12 +112,12 @@
 | 1059_좋은 구간                        | https://www.acmicpc.net/problem/1059  |                                    |
 | 1027_고층 건물                        | https://www.acmicpc.net/problem/1027  |                                    |
 | 2750_수 정렬하기                      | https://www.acmicpc.net/problem/2750  |                                    |
-| 2751_수 정렬하기2                     | https://www.acmicpc.net/problem/2751  |                                    |
-| 10989_수 정렬하기3                    | https://www.acmicpc.net/problem/10989 |                                    |
+| 2751_수 정렬하기 2                    | https://www.acmicpc.net/problem/2751  |                                    |
+| 10989_수 정렬하기 3                   | https://www.acmicpc.net/problem/10989 |                                    |
 | 2108_통계학                           | https://www.acmicpc.net/problem/2108  |                                    |
 | 1427_소트인사이드                     | https://www.acmicpc.net/problem/1427  |                                    |
 | 11650_좌표 정렬하기                   | https://www.acmicpc.net/problem/11650 |                                    |
-| 11651_좌표 정렬하기2                  | https://www.acmicpc.net/problem/11651 |                                    |
+| 11651_좌표 정렬하기 2                 | https://www.acmicpc.net/problem/11651 |                                    |
 | 1181_단어 정렬                        | https://www.acmicpc.net/problem/1181  |                                    |
 | 14501_퇴사                            | https://www.acmicpc.net/problem/14501 |                                    |
 | 14503_로봇 청소기                     | https://www.acmicpc.net/problem/14503 |                                    |
@@ -218,7 +218,7 @@
 | 1167_트리의 지름                      | https://www.acmicpc.net/problem/1167  |                                    |
 | 1918_후위 표기식                      | https://www.acmicpc.net/problem/1918  |                                    |
 | 2263_트리의 순회                      | https://www.acmicpc.net/problem/2263  |                                    |
-| 11444_피보나치 6                      | https://www.acmicpc.net/problem/11444 |                                    |
+| 11444_피보나치 수 6                   | https://www.acmicpc.net/problem/11444 |                                    |
 | 12852_1로 만들기 2                    | https://www.acmicpc.net/problem/12852 |                                    |
 | 2166_다각형의 면적                    | https://www.acmicpc.net/problem/2166  |                                    |
 | 2467_용액                             | https://www.acmicpc.net/problem/2467  | 두 포인터                          |
@@ -252,7 +252,7 @@
 | 12100_2048(Easy)                      | https://www.acmicpc.net/problem/12100 |                                    |
 | 16946_벽 부수고 이동하기 4            | https://www.acmicpc.net/problem/16946 |                                    |
 | 17143_낚시왕                          | https://www.acmicpc.net/problem/17143 |                                    |
-| 17387_선분교차2                       | https://www.acmicpc.net/problem/17387 | 선분 교차 판정                     |
+| 17387_선분 교차 2                     | https://www.acmicpc.net/problem/17387 | 선분 교차 판정                     |
 | 1208_부분수열의 합 2                  | https://www.acmicpc.net/problem/1208  |                                    |
 | 1509_팰린드롬 분할                    | https://www.acmicpc.net/problem/1509  |                                    |
 | 1562_계단 수                          | https://www.acmicpc.net/problem/1562  |                                    |
@@ -262,7 +262,7 @@
 | 12850_본대 산책2                      | https://www.acmicpc.net/problem/12850 |                                    |
 | 13460_구슬 탈출 2                     | https://www.acmicpc.net/problem/13460 |                                    |
 | 14003_가장 긴 증가하는 부분 수열 5    | https://www.acmicpc.net/problem/14003 |                                    |
-| 2568_전깃줄-2                         | https://www.acmicpc.net/problem/2568  | LIS                                |
+| 2568_전깃줄 - 2                       | https://www.acmicpc.net/problem/2568  | LIS                                |
 | 2887_행성 터널                        | https://www.acmicpc.net/problem/2887  | MST                                |
 | 14939_불 끄기                         | https://www.acmicpc.net/problem/14939 | 비트마스킹                         |
 | 3003_킹, 퀸, 룩, 비숍, 나이트, 폰     | https://www.acmicpc.net/problem/3003  |                                    |
