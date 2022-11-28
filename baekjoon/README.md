@@ -404,4 +404,5 @@
 | 2003_수들의 합 2                      | https://www.acmicpc.net/problem/2003  |                                    |
 | 10610_30                              | https://www.acmicpc.net/problem/10610 |                                    |
 | 10825_국영수                          | https://www.acmicpc.net/problem/10825 |                                    |
+| 11656_접미사 배열                     | https://www.acmicpc.net/problem/11656 |                                    |
 
