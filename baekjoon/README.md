@@ -406,4 +406,5 @@
 | 10825_국영수                          | https://www.acmicpc.net/problem/10825 |                                    |
 | 11656_접미사 배열                     | https://www.acmicpc.net/problem/11656 |                                    |
 | 2960_에라토스테네스의 체              | https://www.acmicpc.net/problem/2960  |                                    |
+| GCD 합                                | https://www.acmicpc.net/problem/9613  |                                    |
 
