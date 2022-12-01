@@ -408,4 +408,5 @@
 | 2960_에라토스테네스의 체              | https://www.acmicpc.net/problem/2960  |                                    |
 | GCD 합                                | https://www.acmicpc.net/problem/9613  |                                    |
 | 10799_쇠막대기                        | https://www.acmicpc.net/problem/10799 |                                    |
+| 2512_예산                             | https://www.acmicpc.net/problem/2512  |                                    |
 
