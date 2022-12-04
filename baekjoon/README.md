@@ -411,4 +411,5 @@
 | 2512_예산                             | https://www.acmicpc.net/problem/2512  |                                    |
 | 2749_피보나치 수 3                    | https://www.acmicpc.net/problem/2749  |                                    |
 | 4963_섬의 개수                        | https://www.acmicpc.net/problem/4963  |                                    |
+| 1406_에디터                           | https://www.acmicpc.net/problem/1406  |                                    |
 
