@@ -412,4 +412,5 @@
 | 2749_피보나치 수 3                    | https://www.acmicpc.net/problem/2749  |                                    |
 | 4963_섬의 개수                        | https://www.acmicpc.net/problem/4963  |                                    |
 | 1406_에디터                           | https://www.acmicpc.net/problem/1406  |                                    |
+| 11055_가장 큰 증가 부분 수열.py       | https://www.acmicpc.net/problem/11055 |                                    |
 
