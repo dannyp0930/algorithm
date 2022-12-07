@@ -414,4 +414,5 @@
 | 1406_에디터                           | https://www.acmicpc.net/problem/1406  |                                    |
 | 11055_가장 큰 증가 부분 수열.py       | https://www.acmicpc.net/problem/11055 |                                    |
 | 1699_제곱수의 합                      | https://www.acmicpc.net/problem/1699  |                                    |
+| 11722_가장 긴 감소하는 부분 수열      | https://www.acmicpc.net/problem/11722 |                                    |
 
