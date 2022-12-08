@@ -415,4 +415,5 @@
 | 11055_가장 큰 증가 부분 수열.py       | https://www.acmicpc.net/problem/11055 |                                    |
 | 1699_제곱수의 합                      | https://www.acmicpc.net/problem/1699  |                                    |
 | 11722_가장 긴 감소하는 부분 수열      | https://www.acmicpc.net/problem/11722 |                                    |
+| 10819_차이를 최대로                   | https://www.acmicpc.net/problem/10819 |                                    |
 
