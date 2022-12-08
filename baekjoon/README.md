@@ -416,4 +416,5 @@
 | 1699_제곱수의 합                      | https://www.acmicpc.net/problem/1699  |                                    |
 | 11722_가장 긴 감소하는 부분 수열      | https://www.acmicpc.net/problem/11722 |                                    |
 | 10819_차이를 최대로                   | https://www.acmicpc.net/problem/10819 |                                    |
+| 10971_외판원 순회 2                   | https://www.acmicpc.net/problem/10971 |                                    |
 
