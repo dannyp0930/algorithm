@@ -420,4 +420,5 @@
 | 11048_이동하기                        | https://www.acmicpc.net/problem/11048 |                                    |
 | 2504_괄호의 값                        | https://www.acmicpc.net/problem/2504  |                                    |
 | 5397_키로거                           | https://www.acmicpc.net/problem/5397  |                                    |
+| 9205_맥주 마시면서 걸어가기           | https://www.acmicpc.net/problem/9205  |                                    |
 
