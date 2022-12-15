@@ -422,4 +422,5 @@
 | 5397_키로거                           | https://www.acmicpc.net/problem/5397  |                                    |
 | 9205_맥주 마시면서 걸어가기           | https://www.acmicpc.net/problem/9205  |                                    |
 | 1439_뒤집기                           | https://www.acmicpc.net/problem/1439  |                                    |
+| 11728_배열 합치기                     | https://www.acmicpc.net/problem/11728 | 두 포인터                          |
 
