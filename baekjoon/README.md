@@ -423,4 +423,5 @@
 | 9205_맥주 마시면서 걸어가기           | https://www.acmicpc.net/problem/9205  |                                    |
 | 1439_뒤집기                           | https://www.acmicpc.net/problem/1439  |                                    |
 | 11728_배열 합치기                     | https://www.acmicpc.net/problem/11728 | 두 포인터                          |
+| 10867_중복 빼고 정렬하기              | https://www.acmicpc.net/problem/10867 |                                    |
 
