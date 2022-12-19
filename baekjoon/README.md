@@ -425,4 +425,5 @@
 | 11728_배열 합치기                     | https://www.acmicpc.net/problem/11728 | 두 포인터                          |
 | 10867_중복 빼고 정렬하기              | https://www.acmicpc.net/problem/10867 |                                    |
 | 2822_점수 계산                        | https://www.acmicpc.net/problem/2822  |                                    |
+| 7785_회사에 있는 사람                 | https://www.acmicpc.net/problem/7785  |                                    |
 
