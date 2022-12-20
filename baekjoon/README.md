@@ -426,4 +426,5 @@
 | 10867_중복 빼고 정렬하기              | https://www.acmicpc.net/problem/10867 |                                    |
 | 2822_점수 계산                        | https://www.acmicpc.net/problem/2822  |                                    |
 | 7785_회사에 있는 사람                 | https://www.acmicpc.net/problem/7785  |                                    |
+| 2161_카드1                            | https://www.acmicpc.net/problem/2161  |                                    |
 
