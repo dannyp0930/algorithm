@@ -431,4 +431,5 @@
 | 1325_효율적인 해킹                    | https://www.acmicpc.net/problem/1325  |                                    |
 | 1926_그림                             | https://www.acmicpc.net/problem/1926  |                                    |
 | 2251_물통                             | https://www.acmicpc.net/problem/2251  |                                    |
+| 1850_최대공약수                       | https://www.acmicpc.net/problem/1850  | 유클리드 호제법                    |
 
