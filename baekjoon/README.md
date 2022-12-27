@@ -434,4 +434,5 @@
 | 1850_최대공약수                       | https://www.acmicpc.net/problem/1850  | 유클리드 호제법                    |
 | 1963_소수 경로                        | https://www.acmicpc.net/problem/1963  |                                    |
 | 2437_저울                             | https://www.acmicpc.net/problem/2437  |                                    |
+| 11559_Puyp Puyo                       | https://www.acmicpc.net/problem/11559 |                                    |
 
