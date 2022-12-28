@@ -435,4 +435,5 @@
 | 1963_소수 경로                        | https://www.acmicpc.net/problem/1963  |                                    |
 | 2437_저울                             | https://www.acmicpc.net/problem/2437  |                                    |
 | 11559_Puyp Puyo                       | https://www.acmicpc.net/problem/11559 |                                    |
+| 1939_중량제한                         | https://www.acmicpc.net/problem/1939  |                                    |
 
