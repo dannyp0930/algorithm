@@ -438,4 +438,5 @@
 | 1939_중량제한                         | https://www.acmicpc.net/problem/1939  |                                    |
 | 16637_괄호 추가하기                   | https://www.acmicpc.net/problem/16637 |                                    |
 | 28112_크게 만들기                     | https://www.acmicpc.net/problem/2812  |                                    |
+| 11437_LCA                             | https://www.acmicpc.net/problem/11437 | 최소 공통 조상                     |
 
