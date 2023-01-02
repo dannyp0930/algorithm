@@ -440,4 +440,5 @@
 | 28112_크게 만들기                     | https://www.acmicpc.net/problem/2812  |                                    |
 | 11437_LCA                             | https://www.acmicpc.net/problem/11437 | 최소 공통 조상                     |
 | 2458_키 순서                          | https://www.acmicpc.net/problem/2458  | 플로이드-워셜                      |
+| 2629_양팔저울                         | https://www.acmicpc.net/problem/2629  |                                    |
 
