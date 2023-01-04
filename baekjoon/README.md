@@ -442,4 +442,5 @@
 | 2458_키 순서                          | https://www.acmicpc.net/problem/2458  | 플로이드-워셜                      |
 | 2629_양팔저울                         | https://www.acmicpc.net/problem/2629  |                                    |
 | 1062_가르침                           | https://www.acmicpc.net/problem/1062  |                                    |
+| 2631_줄세우기                         | https://www.acmicpc.net/problem/2631  | LIS                                |
 
