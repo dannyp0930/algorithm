@@ -443,5 +443,6 @@
 | 2629_양팔저울                         | https://www.acmicpc.net/problem/2629  |                                    |
 | 1062_가르침                           | https://www.acmicpc.net/problem/1062  |                                    |
 | 2631_줄세우기                         | https://www.acmicpc.net/problem/2631  | LIS                                |
-| 14226_이모티콘                        |                                       |                                    |
+| 14226_이모티콘                        | https://www.acmicpc.net/problem/14226 |                                    |
+| 17140_이차원 배열과 연산              | https://www.acmicpc.net/problem/17140 |                                    |
 
