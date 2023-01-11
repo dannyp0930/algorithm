@@ -449,4 +449,5 @@
 | 1956_운동                             | https://www.acmicpc.net/problem/1956  | 플로이드-워셜                      |
 | 17406_배열 돌리기 4                   | https://www.acmicpc.net/problem/17406 |                                    |
 | 16194_카드 구매하기 2                 | https://www.acmicpc.net/problem/16194 |                                    |
+| 15988_1, 2, 3 더하기 3                | https://www.acmicpc.net/problem/15988 |                                    |
 
