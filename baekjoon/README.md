@@ -452,4 +452,5 @@
 | 15988_1, 2, 3 더하기 3                | https://www.acmicpc.net/problem/15988 |                                    |
 | 3273_두 수의 합                       | https://www.acmicpc.net/problem/3273  | 두 포인터                          |
 | 18352_특정 거리의 도시 찾기           | https://www.acmicpc.net/problem/18352 |                                    |
+| 10451_순열 사이클                     | https://www.acmicpc.net/problem/10451 |                                    |
 
