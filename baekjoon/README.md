@@ -454,4 +454,5 @@
 | 18352_특정 거리의 도시 찾기           | https://www.acmicpc.net/problem/18352 |                                    |
 | 10451_순열 사이클                     | https://www.acmicpc.net/problem/10451 |                                    |
 | 9625_BABBA                            | https://www.acmicpc.net/problem/9625  |                                    |
+| 20055_컨베이어 벨트 위의 로봇         | https://www.acmicpc.net/problem/20055 |                                    |
 
