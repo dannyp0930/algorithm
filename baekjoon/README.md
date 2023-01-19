@@ -456,4 +456,5 @@
 | 9625_BABBA                            | https://www.acmicpc.net/problem/9625  |                                    |
 | 20055_컨베이어 벨트 위의 로봇         | https://www.acmicpc.net/problem/20055 |                                    |
 | 17822_원판 돌리기                     | https://www.acmicpc.net/problem/17822 |                                    |
+| 17779_게리맨더링 2                    | https://www.acmicpc.net/problem/17779 |                                    |
 
