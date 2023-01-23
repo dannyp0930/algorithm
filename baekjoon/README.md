@@ -461,4 +461,5 @@
 | 10972_다음 순열                       | https://www.acmicpc.net/problem/10972 |                                    |
 | 11931_수 정렬하기 4                   | https://www.acmicpc.net/problem/11931 |                                    |
 | 10826_피보나치 수 4                   | https://www.acmicpc.net/problem/10826 |                                    |
+| 14916_거스름돈                        | https://www.acmicpc.net/problem/14916 |                                    |
 
