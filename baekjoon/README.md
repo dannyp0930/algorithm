@@ -463,4 +463,5 @@
 | 10826_피보나치 수 4                   | https://www.acmicpc.net/problem/10826 |                                    |
 | 14916_거스름돈                        | https://www.acmicpc.net/problem/14916 |                                    |
 | 5635_생일                             | https://www.acmicpc.net/problem/5635  |                                    |
+| 1652_누울 자리를 찾아라               | https://www.acmicpc.net/problem/1652  |                                    |
 
