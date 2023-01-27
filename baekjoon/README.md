@@ -465,4 +465,5 @@
 | 5635_생일                             | https://www.acmicpc.net/problem/5635  |                                    |
 | 1652_누울 자리를 찾아라               | https://www.acmicpc.net/problem/1652  |                                    |
 | 13301_타일 장식물                     | https://www.acmicpc.net/problem/13301 |                                    |
+| 1935_후위 표기식2                     | https://www.acmicpc.net/problem/1935  |                                    |
 
