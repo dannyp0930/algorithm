@@ -467,4 +467,5 @@
 | 13301_타일 장식물                     | https://www.acmicpc.net/problem/13301 |                                    |
 | 1935_후위 표기식2                     | https://www.acmicpc.net/problem/1935  |                                    |
 | 11576_Base Conversion                 | https://www.acmicpc.net/problem/11576 |                                    |
+| 13241_최소공배수                      | https://www.acmicpc.net/problem/13241 |                                    |
 
