@@ -470,4 +470,5 @@
 | 13241_최소공배수                      | https://www.acmicpc.net/problem/13241 |                                    |
 | 1969_DNA                              | https://www.acmicpc.net/problem/1969  |                                    |
 | 1343_폴리오미노                       | https://www.acmicpc.net/problem/1343  |                                    |
+| 5800_성적 통계                        | https://www.acmicpc.net/problem/5800  |                                    |
 
