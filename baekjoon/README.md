@@ -471,4 +471,5 @@
 | 1969_DNA                              | https://www.acmicpc.net/problem/1969  |                                    |
 | 1343_폴리오미노                       | https://www.acmicpc.net/problem/1343  |                                    |
 | 5800_성적 통계                        | https://www.acmicpc.net/problem/5800  |                                    |
+| 1449_수리공 항승                      | https://www.acmicpc.net/problem/1449  |                                    |
 
