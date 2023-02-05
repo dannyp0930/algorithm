@@ -474,4 +474,5 @@
 | 1449_수리공 항승                      | https://www.acmicpc.net/problem/1449  |                                    |
 | 1735_분수 합                          | https://www.acmicpc.net/problem/1735  |                                    |
 | 1120_문자열                           | https://www.acmicpc.net/problem/1120  |                                    |
+| 1302_베스트셀러                       | https://www.acmicpc.net/problem/1302  |                                    |
 
