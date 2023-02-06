@@ -475,4 +475,5 @@
 | 1735_분수 합                          | https://www.acmicpc.net/problem/1735  |                                    |
 | 1120_문자열                           | https://www.acmicpc.net/problem/1120  |                                    |
 | 1302_베스트셀러                       | https://www.acmicpc.net/problem/1302  |                                    |
+| 10937_이전 순열                       | https://www.acmicpc.net/problem/10973 |                                    |
 
