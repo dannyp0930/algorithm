@@ -476,4 +476,5 @@
 | 1120_문자열                           | https://www.acmicpc.net/problem/1120  |                                    |
 | 1302_베스트셀러                       | https://www.acmicpc.net/problem/1302  |                                    |
 | 10937_이전 순열                       | https://www.acmicpc.net/problem/10973 |                                    |
+| 1049_기타줄                           | https://www.acmicpc.net/problem/1049  |                                    |
 
