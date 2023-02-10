@@ -479,4 +479,5 @@
 | 1049_기타줄                           | https://www.acmicpc.net/problem/1049  |                                    |
 | 1543_문서 검색                        | https://www.acmicpc.net/problem/1543  |                                    |
 | 2503_숫자 야구                        | https://www.acmicpc.net/problem/2503  |                                    |
+| 9237_이장님 초대                      | https://www.acmicpc.net/problem/9237  |                                    |
 
