@@ -481,4 +481,5 @@
 | 2503_숫자 야구                        | https://www.acmicpc.net/problem/2503  |                                    |
 | 9237_이장님 초대                      | https://www.acmicpc.net/problem/9237  |                                    |
 | 3986_좋은 단어                        | https://www.acmicpc.net/problem/3986  |                                    |
+| 2075_N번째 큰 수                      | https://www.acmicpc.net/problem/2075  |                                    |
 
