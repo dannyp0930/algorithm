@@ -483,4 +483,5 @@
 | 3986_좋은 단어                        | https://www.acmicpc.net/problem/3986  |                                    |
 | 2075_N번째 큰 수                      | https://www.acmicpc.net/problem/2075  |                                    |
 | 5567_결혼식                           | https://www.acmicpc.net/problem/5567  |                                    |
+| 1051_숫자 정사각형                    | https://www.acmicpc.net/problem/1051  |                                    |
 
