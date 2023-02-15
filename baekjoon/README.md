@@ -484,4 +484,5 @@
 | 2075_N번째 큰 수                      | https://www.acmicpc.net/problem/2075  |                                    |
 | 5567_결혼식                           | https://www.acmicpc.net/problem/5567  |                                    |
 | 1051_숫자 정사각형                    | https://www.acmicpc.net/problem/1051  |                                    |
+| 9656_돌 게임 2                        | https://www.acmicpc.net/problem/9656  |                                    |
 
