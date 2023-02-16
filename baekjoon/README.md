@@ -485,4 +485,5 @@
 | 5567_결혼식                           | https://www.acmicpc.net/problem/5567  |                                    |
 | 1051_숫자 정사각형                    | https://www.acmicpc.net/problem/1051  |                                    |
 | 9656_돌 게임 2                        | https://www.acmicpc.net/problem/9656  |                                    |
+| 1213_팰린드롬 만들기                  | https://www.acmicpc.net/problem/1213  |                                    |
 
