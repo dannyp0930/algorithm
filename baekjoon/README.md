@@ -486,4 +486,5 @@
 | 1051_숫자 정사각형                    | https://www.acmicpc.net/problem/1051  |                                    |
 | 9656_돌 게임 2                        | https://www.acmicpc.net/problem/9656  |                                    |
 | 1213_팰린드롬 만들기                  | https://www.acmicpc.net/problem/1213  |                                    |
+| 15990_1, 2, 3 더하기 5                | https://www.acmicpc.net/problem/15990 |                                    |
 
