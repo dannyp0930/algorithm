@@ -488,4 +488,5 @@
 | 1213_팰린드롬 만들기                  | https://www.acmicpc.net/problem/1213  |                                    |
 | 15990_1, 2, 3 더하기 5                | https://www.acmicpc.net/problem/15990 |                                    |
 | 1431_시리얼 번호                      | https://www.acmicpc.net/problem/1431  |                                    |
+| 1783_병든 나이트                      | https://www.acmicpc.net/problem/1783  |                                    |
 
