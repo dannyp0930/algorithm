@@ -489,4 +489,5 @@
 | 15990_1, 2, 3 더하기 5                | https://www.acmicpc.net/problem/15990 |                                    |
 | 1431_시리얼 번호                      | https://www.acmicpc.net/problem/1431  |                                    |
 | 1783_병든 나이트                      | https://www.acmicpc.net/problem/1783  |                                    |
+| 1138_한 줄로 서기                     | https://www.acmicpc.net/problem/1138  |                                    |
 
