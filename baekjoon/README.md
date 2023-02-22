@@ -488,6 +488,7 @@
 | 1213_팰린드롬 만들기                  | https://www.acmicpc.net/problem/1213  |                                    |
 | 15990_1, 2, 3 더하기 5                | https://www.acmicpc.net/problem/15990 |                                    |
 | 1431_시리얼 번호                      | https://www.acmicpc.net/problem/1431  |                                    |
+| 15904_UCPC는 무엇의 약자일까?         | https://www.acmicpc.net/problem/15904  |                                    |
+| 2331_반복수열                         | https://www.acmicpc.net/problem/2331  |                                    |
 | 1783_병든 나이트                      | https://www.acmicpc.net/problem/1783  |                                    |
 | 1138_한 줄로 서기                     | https://www.acmicpc.net/problem/1138  |                                    |
-
