@@ -492,3 +492,4 @@
 | 2331_반복수열                         | https://www.acmicpc.net/problem/2331  |                                    |
 | 1783_병든 나이트                      | https://www.acmicpc.net/problem/1783  |                                    |
 | 1138_한 줄로 서기                     | https://www.acmicpc.net/problem/1138  |                                    |
+| 1940_주몽 | https://www.acmicpc.net/problem/1940 | |
