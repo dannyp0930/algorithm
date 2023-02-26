@@ -494,3 +494,4 @@
 | 1138_한 줄로 서기                     | https://www.acmicpc.net/problem/1138  |                                    |
 | 1940_주몽 | https://www.acmicpc.net/problem/1940 | |
 | 1769_3의 배수 | https://www.acmicpc.net/problem/1769 | |
+| 2776_암기왕 | https://www.acmicpc.net/problem/2776 | |
