@@ -495,3 +495,4 @@
 | 1940_주몽 | https://www.acmicpc.net/problem/1940 | |
 | 1769_3의 배수 | https://www.acmicpc.net/problem/1769 | |
 | 2776_암기왕 | https://www.acmicpc.net/problem/2776 | |
+| 11060_점프 점프 | https://www.acmicpc.net/problem/11060 | |
