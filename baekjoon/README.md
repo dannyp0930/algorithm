@@ -496,3 +496,4 @@
 | 1769_3의 배수 | https://www.acmicpc.net/problem/1769 | |
 | 2776_암기왕 | https://www.acmicpc.net/problem/2776 | |
 | 11060_점프 점프 | https://www.acmicpc.net/problem/11060 | |
+| 2961_도영이가 만든 맛있는 음식 | https://www.acmicpc.net/problem/2961 | |
