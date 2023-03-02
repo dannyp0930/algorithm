@@ -498,3 +498,4 @@
 | 11060_점프 점프 | https://www.acmicpc.net/problem/11060 | |
 | 2961_도영이가 만든 맛있는 음식 | https://www.acmicpc.net/problem/2961 | |
 | 1743_음식물 피하기 | https://www.acmicpc.net/problem/1743 | |
+| 1495_기타리스트 | https://www.acmicpc.net/problem/1495 | |
