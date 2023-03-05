@@ -501,3 +501,4 @@
 | 1495_기타리스트 | https://www.acmicpc.net/problem/1495 | |
 | 2343_기타 레슨 | https://www.acmicpc.net/problem/2343 | |
 | 2346_풍선 터뜨리기 | https://www.acmicpc.net/problem/2346 | |
+| 1747_소수&팰린드롬 | https://www.acmicpc.net/problem/1747 | |
