@@ -503,3 +503,4 @@
 | 2346\_풍선 터뜨리기                    | https://www.acmicpc.net/problem/2346  |                                    |
 | 1747\_소수&팰린드롬                    | https://www.acmicpc.net/problem/1747  |                                    |
 | 2023\_신기한 소수                      | https://www.acmicpc.net/problem/2023  |                                    |
+| 6593\_상범 빌딩                        | https://www.acmicpc.net/problem/6593  |                                    |
