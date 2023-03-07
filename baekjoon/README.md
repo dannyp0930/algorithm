@@ -504,3 +504,4 @@
 | 1747\_소수&팰린드롬                    | https://www.acmicpc.net/problem/1747  |                                    |
 | 2023\_신기한 소수                      | https://www.acmicpc.net/problem/2023  |                                    |
 | 6593\_상범 빌딩                        | https://www.acmicpc.net/problem/6593  |                                    |
+| 2661\_좋은수열                         | https://www.acmicpc.net/problem/2661  |                                    |
