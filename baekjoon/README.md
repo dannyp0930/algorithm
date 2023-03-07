@@ -505,3 +505,4 @@
 | 2023\_신기한 소수                      | https://www.acmicpc.net/problem/2023  |                                    |
 | 6593\_상범 빌딩                        | https://www.acmicpc.net/problem/6593  |                                    |
 | 2661\_좋은수열                         | https://www.acmicpc.net/problem/2661  |                                    |
+| 2665\_미로만들기                       | https://www.acmicpc.net/problem/2665  |                                    |
