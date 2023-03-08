@@ -502,4 +502,9 @@
 | 2343\_기타 레슨                        | https://www.acmicpc.net/problem/2343  |                                    |
 | 2346\_풍선 터뜨리기                    | https://www.acmicpc.net/problem/2346  |                                    |
 | 1747\_소수&팰린드롬                    | https://www.acmicpc.net/problem/1747  |                                    |
+| 2023\_신기한 소수                      | https://www.acmicpc.net/problem/2023  |                                    |
+| 6593\_상범 빌딩                        | https://www.acmicpc.net/problem/6593  |                                    |
+| 2661\_좋은수열                         | https://www.acmicpc.net/problem/2661  |                                    |
+| 2665\_미로만들기                       | https://www.acmicpc.net/problem/2665  |                                    |
+| 4195\_친구 네트워크                    | https://www.acmicpc.net/problem/4195  |                                    |
 | 2302\_극장 좌석                        | https://www.acmicpc.net/problem/2302  |                                    |
