@@ -508,3 +508,4 @@
 | 2665\_미로만들기                       | https://www.acmicpc.net/problem/2665  |                                    |
 | 4195\_친구 네트워크                    | https://www.acmicpc.net/problem/4195  |                                    |
 | 2302\_극장 좌석                        | https://www.acmicpc.net/problem/2302  |                                    |
+| 16926\_배열 돌리기1                    | https://www.acmicpc.net/problem/16926 |                                    |
