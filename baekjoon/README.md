@@ -510,3 +510,4 @@
 | 2302\_극장 좌석                        | https://www.acmicpc.net/problem/2302  |                                    |
 | 16926\_배열 돌리기1                    | https://www.acmicpc.net/problem/16926 |                                    |
 | 3184\_양                               | https://www.acmicpc.net/problem/3184  |                                    |
+| 12738\_가장 긴 증가하는 부분 수열 3    | https://www.acmicpc.net/problem/12738 |                                    |
