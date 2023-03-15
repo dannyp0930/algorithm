@@ -514,3 +514,4 @@
 | 15903\_카드 합체 놀이                  | https://www.acmicpc.net/problem/15903 |                                    |
 | 1914\_하노이 탑                        | https://www.acmicpc.net/problem/1914  |                                    |
 | 3020\_개똥벌레                         | https://www.acmicpc.net/problem/3020  |                                    |
+| 2212\_센서                             | https://www.acmicpc.net/problem/2212  |                                    |
