@@ -515,3 +515,4 @@
 | 1914\_하노이 탑                        | https://www.acmicpc.net/problem/1914  |                                    |
 | 3020\_개똥벌레                         | https://www.acmicpc.net/problem/3020  |                                    |
 | 2212\_센서                             | https://www.acmicpc.net/problem/2212  |                                    |
+| 13398\_연속합 2                        | https://www.acmicpc.net/problem/13398 |                                    |
