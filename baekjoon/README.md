@@ -519,3 +519,4 @@
 | 2018\_수들의 합 5                      | https://www.acmicpc.net/problem/2018  |                                    |
 | 16435\_스네이크버드                    | https://www.acmicpc.net/problem/16435 |                                    |
 | 21608\_상어 초등학교                   | https://www.acmicpc.net/problem/21608 |                                    |
+| 16395\_파스칼의 삼각형                 | https://www.acmicpc.net/problem/16395 |                                    |
