@@ -520,3 +520,4 @@
 | 16435\_스네이크버드                    | https://www.acmicpc.net/problem/16435 |                                    |
 | 21608\_상어 초등학교                   | https://www.acmicpc.net/problem/21608 |                                    |
 | 16395\_파스칼의 삼각형                 | https://www.acmicpc.net/problem/16395 |                                    |
+| 2635\_수 이어가기                      | https://www.acmicpc.net/problem/2635  |                                    |
