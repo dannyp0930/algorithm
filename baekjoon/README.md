@@ -521,3 +521,4 @@
 | 21608\_상어 초등학교                   | https://www.acmicpc.net/problem/21608 |                                    |
 | 16395\_파스칼의 삼각형                 | https://www.acmicpc.net/problem/16395 |                                    |
 | 2635\_수 이어가기                      | https://www.acmicpc.net/problem/2635  |                                    |
+| 25206\_너의 평점은                     | https://www.acmicpc.net/problem/25206 |                                    |
