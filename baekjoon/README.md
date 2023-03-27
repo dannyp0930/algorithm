@@ -522,3 +522,4 @@
 | 16395\_파스칼의 삼각형                 | https://www.acmicpc.net/problem/16395 |                                    |
 | 2635\_수 이어가기                      | https://www.acmicpc.net/problem/2635  |                                    |
 | 25206\_너의 평점은                     | https://www.acmicpc.net/problem/25206 |                                    |
+| 1417\_국회의원 선거                    | https://www.acmicpc.net/problem/1417  |                                    |
