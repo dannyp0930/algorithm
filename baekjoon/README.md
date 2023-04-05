@@ -525,3 +525,4 @@
 | 1417\_국회의원 선거                    | https://www.acmicpc.net/problem/1417  |                                    |
 | 2491\_수열                             | https://www.acmicpc.net/problem/2491  |                                    |
 | 1924_2007                              | https://www.acmicpc.net/problem/1924  |                                    |
+| 2304\_창고 다각형                      | https://www.acmicpc.net/problem/2304  |                                    |
