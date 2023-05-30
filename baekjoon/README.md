@@ -530,3 +530,4 @@
 | 1032\_명령 프롬프트                    | https://www.acmicpc.net/problem/1032  |                                    |
 | 1913\_달팽이                           | https://www.acmicpc.net/problem/1913  |                                    |
 | 9507_Generations of Tribbles           | https://www.acmicpc.net/problem/9507  |                                    |
+| 1253\_좋다                             | https://www.acmicpc.net/problem/1253  |                                    |
