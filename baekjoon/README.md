@@ -531,3 +531,4 @@
 | 1913\_달팽이                           | https://www.acmicpc.net/problem/1913  |                                    |
 | 9507_Generations of Tribbles           | https://www.acmicpc.net/problem/9507  |                                    |
 | 1253\_좋다                             | https://www.acmicpc.net/problem/1253  |                                    |
+| 14442\_벽 부수고 이동하기 2            | https://www.acmicpc.net/problem/14442 |                                    |
