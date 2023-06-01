@@ -533,3 +533,4 @@
 | 1253\_좋다                                 | https://www.acmicpc.net/problem/1253  |                                    |
 | 14442\_벽 부수고 이동하기 2                | https://www.acmicpc.net/problem/14442 |                                    |
 | 2669\_직사각형 네개의 합집합의 면적 구하기 | https://www.acmicpc.net/problem/2669  |                                    |
+| 10157\_자리배정                            | https://www.acmicpc.net/problem/10157 |                                    |
