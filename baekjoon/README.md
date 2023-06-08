@@ -536,3 +536,4 @@
 | 10157\_자리배정                            | https://www.acmicpc.net/problem/10157 |                                    |
 | 10994\_별 찍기 - 19                        | https://www.acmicpc.net/problem/10994 |                                    |
 | 5568\_카드 놓기                            | https://www.acmicpc.net/problem/5568  |                                    |
+| 2485\_가로수                               | https://www.acmicpc.net/problem/2485  |                                    |
