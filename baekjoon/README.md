@@ -540,3 +540,4 @@
 | 10158\_개미                                | https://www.acmicpc.net/problem/10158 |                                    |
 | 2670\_연속부분최대곱                       | https://www.acmicpc.net/problem/2670  |                                    |
 | 24444\_알고리즘 수업 - 너비 우선 탐색 1    | https://www.acmicpc.net/problem/24444 |                                    |
+| 2531\_회전 초밥                            | https://www.acmicpc.net/problem/2531  | 슬라이딩 윈도우                    |
