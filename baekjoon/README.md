@@ -544,3 +544,4 @@
 | 11508_2+1 세일                             | https://www.acmicpc.net/problem/11508 |                                    |
 | 24479\_알고리즘 수업 - 깊이 우선 탐색 1    | https://www.acmicpc.net/problem/24479 |                                    |
 | 1205\_등수 구하기                          | https://www.acmicpc.net/problem/1205  |                                    |
+| 10159\_저울                                | https://www.acmicpc.net/problem/10159 |                                    |
