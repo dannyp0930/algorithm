@@ -546,3 +546,4 @@
 | 1205\_등수 구하기                          | https://www.acmicpc.net/problem/1205  |                                    |
 | 10159\_저울                                | https://www.acmicpc.net/problem/10159 |                                    |
 | 2170\_선 긋기                              | https://www.acmicpc.net/problem/2170  |                                    |
+| 1303\_전쟁 - 전투                          | https://www.acmicpc.net/problem/1303  |                                    |
