@@ -555,3 +555,4 @@
 | 21736\_헌내기는 친구가 필요해              | https://www.acmicpc.net/problem/21736 |                                    |
 | 20529\_가장 가까운 세 사람의 심리적 거리   | https://www.acmicpc.net/problem/20529 | 비둘기집 원리                      |
 | 18110_solved.ac                            | https://www.acmicpc.net/problem/18110 |                                    |
+| 27172\_수 나누기 게임                      | https://www.acmicpc.net/problem/27172 |                                    |
