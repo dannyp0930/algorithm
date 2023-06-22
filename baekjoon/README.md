@@ -548,3 +548,4 @@
 | 2170\_선 긋기                              | https://www.acmicpc.net/problem/2170  |                                    |
 | 1303\_전쟁 - 전투                          | https://www.acmicpc.net/problem/1303  |                                    |
 | 11497\_통나무 건너뛰기                     | https://www.acmicpc.net/problem/11497 |                                    |
+| 13335\_트럭                                | https://www.acmicpc.net/problem/13335 |                                    |
