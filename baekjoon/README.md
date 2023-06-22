@@ -550,3 +550,4 @@
 | 11497\_통나무 건너뛰기                     | https://www.acmicpc.net/problem/11497 |                                    |
 | 13335\_트럭                                | https://www.acmicpc.net/problem/13335 |                                    |
 | 4179\_불                                   | https://www.acmicpc.net/problem/4179  |                                    |
+| 17299\_오등큰수                            | https://www.acmicpc.net/problem/17299 |                                    |
