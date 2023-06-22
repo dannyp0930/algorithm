@@ -554,3 +554,4 @@
 | 14940\_쉬운 최단거리                       | https://www.acmicpc.net/problem/14940 |                                    |
 | 21736\_헌내기는 친구가 필요해              | https://www.acmicpc.net/problem/21736 |                                    |
 | 20529\_가장 가까운 세 사람의 심리적 거리   | https://www.acmicpc.net/problem/20529 | 비둘기집 원리                      |
+| 18110_solved.ac                            | https://www.acmicpc.net/problem/18110 |                                    |
