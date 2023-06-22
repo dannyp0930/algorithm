@@ -551,3 +551,4 @@
 | 13335\_트럭                                | https://www.acmicpc.net/problem/13335 |                                    |
 | 4179\_불                                   | https://www.acmicpc.net/problem/4179  |                                    |
 | 17299\_오등큰수                            | https://www.acmicpc.net/problem/17299 |                                    |
+| 14940\_쉬운 최단거리                       | https://www.acmicpc.net/problem/14940 |                                    |
