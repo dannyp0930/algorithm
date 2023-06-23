@@ -561,3 +561,4 @@
 | 20056\_마법사 상어와 파이어볼              | https://www.acmicpc.net/problem/20056 |                                    |
 | 17281_⚾                                   | https://www.acmicpc.net/problem/17281 |                                    |
 | 3109\_빵집                                 | https://www.acmicpc.net/problem/3109  |                                    |
+| 18405\_경쟁적 전염                         | https://www.acmicpc.net/problem/18405 |                                    |
