@@ -558,3 +558,4 @@
 | 27172\_수 나누기 게임                      | https://www.acmicpc.net/problem/27172 |                                    |
 | 20303\_할로윈의 양아치                     | https://www.acmicpc.net/problem/20303 |                                    |
 | 2056\_작업                                 | https://www.acmicpc.net/problem/2056  |                                    |
+| 20056\_마법사 상어와 파이어볼              | https://www.acmicpc.net/problem/20056 |                                    |
