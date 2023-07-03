@@ -563,4 +563,5 @@
 | 3109\_빵집                                 | https://www.acmicpc.net/problem/3109  |                                    |
 | 18405\_경쟁적 전염                         | https://www.acmicpc.net/problem/18405 |                                    |
 | 21610\_마법사 상어와 비바라기              | https://www.acmicpc.net/problem/21610 |                                    |
-| 1613\_역사              | https://www.acmicpc.net/problem/1613 |                                    |
+| 1613\_역사                                 | https://www.acmicpc.net/problem/1613  |                                    |
+| 10282\_해킹                                | https://www.acmicpc.net/problem/10282 |                                    |
