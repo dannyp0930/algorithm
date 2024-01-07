@@ -141,4 +141,5 @@
 | 여행경로                     | https://school.programmers.co.kr/learn/courses/30/lessons/43164 | DFS/BFS                                     |
 | 불량 사용자                  | https://school.programmers.co.kr/learn/courses/30/lessons/64064 | 2019 카카오 개발자 겨울 인턴십              |
 | 아이템 줍기                  | https://school.programmers.co.kr/learn/courses/30/lessons/87694 | DFS/BFS                                     |
+| 1번 / 붕대 감기              | https://school.programmers.co.kr/learn/courses/30/lessons/250137 |                                             |
 
