@@ -146,3 +146,4 @@
 | 추억 점수                    | https://school.programmers.co.kr/learn/courses/30/lessons/176963 | 연습문제                                    |
 | 바탕화면 정리                | https://school.programmers.co.kr/learn/courses/30/lessons/161990 | 연습문제                                    |
 | 덧칠하기                     | https://school.programmers.co.kr/learn/courses/30/lessons/161989 | 연습문제                                    |
+| 크기가 작은 부분문자열       | https://school.programmers.co.kr/learn/courses/30/lessons/147355 | 연습문제                                    |
