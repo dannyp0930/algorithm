@@ -151,3 +151,4 @@
 | 삼총사                       | https://school.programmers.co.kr/learn/courses/30/lessons/131705 | 연습문제                                    |
 | 가장 가까운 같은 글자        | https://school.programmers.co.kr/learn/courses/30/lessons/142086 | 연습문제                                    |
 | 푸드 파이트 대회             | https://school.programmers.co.kr/learn/courses/30/lessons/134240 | 연습문제                                    |
+| 콜라 문제                    | https://school.programmers.co.kr/learn/courses/30/lessons/132267 | 연습문제                                    |
