@@ -153,3 +153,4 @@
 | 푸드 파이트 대회             | https://school.programmers.co.kr/learn/courses/30/lessons/134240 | 연습문제                                    |
 | 콜라 문제                    | https://school.programmers.co.kr/learn/courses/30/lessons/132267 | 연습문제                                    |
 | 과일 장수                    | https://school.programmers.co.kr/learn/courses/30/lessons/135808 | 연습문제                                    |
+| 택배상자                     | https://school.programmers.co.kr/learn/courses/30/lessons/131704 | 연습문제                                    |
