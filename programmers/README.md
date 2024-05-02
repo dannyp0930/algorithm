@@ -154,3 +154,4 @@
 | 콜라 문제                    | https://school.programmers.co.kr/learn/courses/30/lessons/132267 | 연습문제                                    |
 | 과일 장수                    | https://school.programmers.co.kr/learn/courses/30/lessons/135808 | 연습문제                                    |
 | 택배상자                     | https://school.programmers.co.kr/learn/courses/30/lessons/131704 | 연습문제                                    |
+| 숫자 변환하기                | https://school.programmers.co.kr/learn/courses/30/lessons/154538 | 연습문제                                    |
