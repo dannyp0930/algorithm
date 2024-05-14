@@ -157,3 +157,4 @@
 | 숫자 변환하기                | https://school.programmers.co.kr/learn/courses/30/lessons/154538 | 연습문제                                    |
 | 연속된 부분 수열의 합        | https://school.programmers.co.kr/learn/courses/30/lessons/178870 | 연습문제                                    |
 | 등굣길                       | https://school.programmers.co.kr/learn/courses/30/lessons/42898  | 동적계획법(Dynamic Programing)              |
+| 마법의 엘리베이터            | https://school.programmers.co.kr/learn/courses/30/lessons/148653 | 연습문제                                    |
