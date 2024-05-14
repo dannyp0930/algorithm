@@ -161,3 +161,4 @@
 | 스티커 모으기(2)             | https://school.programmers.co.kr/learn/courses/30/lessons/12971  | Summer/Winter Coding(~2018)                 |
 | 호텔 대실                    | https://school.programmers.co.kr/learn/courses/30/lessons/155651 | 연습문제                                    |
 | 숫자 카드 나누기             | https://school.programmers.co.kr/learn/courses/30/lessons/135807 | 연습문제                                    |
+| 무인도 여행                  | https://school.programmers.co.kr/learn/courses/30/lessons/154540 | 연습문제                                    |
