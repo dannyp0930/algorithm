@@ -162,3 +162,4 @@
 | 호텔 대실                    | https://school.programmers.co.kr/learn/courses/30/lessons/155651 | 연습문제                                    |
 | 숫자 카드 나누기             | https://school.programmers.co.kr/learn/courses/30/lessons/135807 | 연습문제                                    |
 | 무인도 여행                  | https://school.programmers.co.kr/learn/courses/30/lessons/154540 | 연습문제                                    |
+| 미로 탈출                    | https://school.programmers.co.kr/learn/courses/30/lessons/159993 | 연습문제                                    |
