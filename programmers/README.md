@@ -165,3 +165,4 @@
 | 미로 탈출                    | https://school.programmers.co.kr/learn/courses/30/lessons/159993 | 연습문제                                    |
 | 시소 짝꿍                    | https://school.programmers.co.kr/learn/courses/30/lessons/152996 | 연습문제                                    |
 | 테이블 해시 함수             | https://school.programmers.co.kr/learn/courses/30/lessons/147354 | 연습문제                                    |
+| 리코쳇 로봇                  | https://school.programmers.co.kr/learn/courses/30/lessons/169199 | 연습문제                                    |
