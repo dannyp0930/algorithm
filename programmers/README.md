@@ -172,3 +172,4 @@
 | 광물 캐기                    | https://school.programmers.co.kr/learn/courses/30/lessons/172927 | 연습문제                                    |
 | 우박수열 정적분              | https://school.programmers.co.kr/learn/courses/30/lessons/134239 | 연습문제                                    |
 | 점 찍기                      | https://school.programmers.co.kr/learn/courses/30/lessons/140107 | 연습문제                                    |
+| 혼자 놀기의 달인             | https://school.programmers.co.kr/learn/courses/30/lessons/131130 | 연습문제                                    |
