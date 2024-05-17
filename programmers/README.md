@@ -169,3 +169,4 @@
 | 하노이의 탑                  | https://school.programmers.co.kr/learn/courses/30/lessons/12946  | 연습문제                                    |
 | 디펜스 게임                  | https://school.programmers.co.kr/learn/courses/30/lessons/142085 | 연습문제                                    |
 | 요격 시스템                  | https://school.programmers.co.kr/learn/courses/30/lessons/181188 | 연습문제                                    |
+| 광물 캐기                    | https://school.programmers.co.kr/learn/courses/30/lessons/172927 | 연습문제                                    |
