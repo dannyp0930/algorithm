@@ -174,4 +174,5 @@
 | 점 찍기                      | https://school.programmers.co.kr/learn/courses/30/lessons/140107 | 연습문제                                    |
 | 혼자 놀기의 달인             | https://school.programmers.co.kr/learn/courses/30/lessons/131130 | 연습문제                                    |
 | 롤케이크 자르기              | https://school.programmers.co.kr/learn/courses/30/lessons/132265 | 연습문제                                    |
-| 서버 증설 횟수              | https://school.programmers.co.kr/learn/courses/30/lessons/389479 | 2025 프로그래머스 코드챌린지 2차 예선                |
+| 서버 증설 횟수               | https://school.programmers.co.kr/learn/courses/30/lessons/389479 | 2025 프로그래머스 코드챌린지 2차 예선       |
+| 보석 쇼핑                    | https://school.programmers.co.kr/learn/courses/30/lessons/67258  | 2020 카카오 인턴십                          |
