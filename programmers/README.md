@@ -177,3 +177,4 @@
 | 서버 증설 횟수               | https://school.programmers.co.kr/learn/courses/30/lessons/389479 | 2025 프로그래머스 코드챌린지 2차 예선 (queue 구현) |
 | 보석 쇼핑                    | https://school.programmers.co.kr/learn/courses/30/lessons/67258  | 2020 카카오 인턴십 (Map 객체)                      |
 | 퍼즐 게임 챌린지             | https://school.programmers.co.kr/learn/courses/30/lessons/340212 | PCCP 기출문제 (이분 탐색)                          |
+| 지게차와 크레인              | https://school.programmers.co.kr/learn/courses/30/lessons/388353 | 2025 프로그래머스 코드챌린지 1차 예선 (bfs)        |
