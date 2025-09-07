@@ -178,3 +178,4 @@
 | 보석 쇼핑                    | https://school.programmers.co.kr/learn/courses/30/lessons/67258  | 2020 카카오 인턴십 (Map 객체)                      |
 | 퍼즐 게임 챌린지             | https://school.programmers.co.kr/learn/courses/30/lessons/340212 | PCCP 기출문제 (이분 탐색)                          |
 | 지게차와 크레인              | https://school.programmers.co.kr/learn/courses/30/lessons/388353 | 2025 프로그래머스 코드챌린지 1차 예선 (bfs)        |
+| 이모티콘 할인행사            | https://school.programmers.co.kr/learn/courses/30/lessons/150368 | 2023 KAKAO BLIND RECRUITMENT (dfs)                 |
