@@ -181,3 +181,4 @@
 | 이모티콘 할인행사            | https://school.programmers.co.kr/learn/courses/30/lessons/150368 | 2023 KAKAO BLIND RECRUITMENT (dfs)                     |
 | 비밀 코드 해독               | https://school.programmers.co.kr/learn/courses/30/lessons/388352 | 2025 프로그래머스 코드챌린지 1차 예선 (조합, 완전탐색) |
 | N-Queen                      | https://school.programmers.co.kr/learn/courses/30/lessons/12952  | 연습문제                                               |
+| 석유 시추                    | https://school.programmers.co.kr/learn/courses/30/lessons/250136 | PCCP 기출문제 (bfs)                                    |
