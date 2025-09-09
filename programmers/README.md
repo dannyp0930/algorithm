@@ -186,3 +186,4 @@
 | 두 원 사이의 정수 쌍         | https://school.programmers.co.kr/learn/courses/30/lessons/181187 | 연습문제                                               |
 | 숫자 블록                    | https://school.programmers.co.kr/learn/courses/30/lessons/12923  | 연습문제                                               |
 | 3 x n 타일링                 | https://school.programmers.co.kr/learn/courses/30/lessons/12902  | 연습문제                                               |
+| 교점에 별 만들기             | https://school.programmers.co.kr/learn/courses/30/lessons/87377  | 위클리 챌린지F                                         |
