@@ -72,7 +72,7 @@
 | 문자열 압축                  | https://programmers.co.kr/learn/courses/30/lessons/60057         | 2020 KAKAO BLIND RECRUITMENT                |                |
 | 124 나라의 숫자              | https://programmers.co.kr/learn/courses/30/lessons/12899         | 연습문제                                    |                |
 | 오픈채팅방                   | https://programmers.co.kr/learn/courses/30/lessons/42888         | 2019 KAKAO BLIND RECRUITMENT                |                |
-| 더 맵게                      | https://programmers.co.kr/learn/courses/30/lessons/42626         | 힙                                          |                |
+| 더 맵게                      | https://programmers.co.kr/learn/courses/30/lessons/42626         | 힙(Heap)                                    |                |
 | 기능개발                     | https://programmers.co.kr/learn/courses/30/lessons/42586         | 스택/큐                                     |                |
 | 짝지어 제거하기              | https://programmers.co.kr/learn/courses/30/lessons/12973         | 2017 팁스타운                               |                |
 | 타겟 넘버                    | https://programmers.co.kr/learn/courses/30/lessons/43165         | DFS/BFS                                     |                |
@@ -190,3 +190,4 @@
 | 징검다리 건너기              | https://school.programmers.co.kr/learn/courses/30/lessons/64062  | 2019 카카오 개발자 겨울 인턴십              | 이분 탐색      |
 | 가장 먼 노드                 | https://school.programmers.co.kr/learn/courses/30/lessons/49189  | 그래프                                      | BFS            |
 | 섬 연결하기                  | https://school.programmers.co.kr/learn/courses/30/lessons/42861  | 탐욕법(Greedy)                              | Kruskal        |
+| 디스크 컨트롤러              | https://school.programmers.co.kr/learn/courses/30/lessons/42627  | 힙(Heap)                                    |                |
