@@ -188,3 +188,4 @@
 | 3 x n 타일링                 | https://school.programmers.co.kr/learn/courses/30/lessons/12902  | 연습문제                                    |                |
 | 교점에 별 만들기             | https://school.programmers.co.kr/learn/courses/30/lessons/87377  | 위클리 챌린지                               |                |
 | 징검다리 건너기              | https://school.programmers.co.kr/learn/courses/30/lessons/64062  | 2019 카카오 개발자 겨울 인턴십              | 이분 탐색      |
+| 가장 먼 노드                 | https://school.programmers.co.kr/learn/courses/30/lessons/49189  | 그래프F                                     | BFS            |
