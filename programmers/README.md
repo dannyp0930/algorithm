@@ -193,3 +193,4 @@
 | 디스크 컨트롤러              | https://school.programmers.co.kr/learn/courses/30/lessons/42627  | 힙(Heap)                                    |                |
 | 부대복귀                     | https://school.programmers.co.kr/learn/courses/30/lessons/132266 | 연습문제                                    | BFS            |
 | 순위                         | https://school.programmers.co.kr/learn/courses/30/lessons/49191  | 그래프                                      | 플로이드-워셜  |
+| 연속 펄스 부분 수열의 합     | https://school.programmers.co.kr/learn/courses/30/lessons/161988 | 연습문제                                    | DP             |
