@@ -191,3 +191,4 @@
 | 가장 먼 노드                 | https://school.programmers.co.kr/learn/courses/30/lessons/49189  | 그래프                                      | BFS            |
 | 섬 연결하기                  | https://school.programmers.co.kr/learn/courses/30/lessons/42861  | 탐욕법(Greedy)                              | Kruskal        |
 | 디스크 컨트롤러              | https://school.programmers.co.kr/learn/courses/30/lessons/42627  | 힙(Heap)                                    |                |
+| 부대복귀                     | https://school.programmers.co.kr/learn/courses/30/lessons/132266 | 연습문제                                    | BFS            |
