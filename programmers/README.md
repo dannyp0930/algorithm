@@ -194,3 +194,4 @@
 | 부대복귀                     | https://school.programmers.co.kr/learn/courses/30/lessons/132266 | 연습문제                                    | BFS            |
 | 순위                         | https://school.programmers.co.kr/learn/courses/30/lessons/49191  | 그래프                                      | 플로이드-워셜  |
 | 연속 펄스 부분 수열의 합     | https://school.programmers.co.kr/learn/courses/30/lessons/161988 | 연습문제                                    | DP             |
+| 기사단원의 무기              | https://school.programmers.co.kr/learn/courses/30/lessons/136798 | 연습문제                                    |                |
