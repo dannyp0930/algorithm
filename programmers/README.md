@@ -195,3 +195,4 @@
 | 순위                         | https://school.programmers.co.kr/learn/courses/30/lessons/49191  | 그래프                                      | 플로이드-워셜  |
 | 연속 펄스 부분 수열의 합     | https://school.programmers.co.kr/learn/courses/30/lessons/161988 | 연습문제                                    | DP             |
 | 기사단원의 무기              | https://school.programmers.co.kr/learn/courses/30/lessons/136798 | 연습문제                                    |                |
+| 경주로 건설                  | https://school.programmers.co.kr/learn/courses/30/lessons/67259  | 2020 카카오 인턴십                          | BFS, DP        |
