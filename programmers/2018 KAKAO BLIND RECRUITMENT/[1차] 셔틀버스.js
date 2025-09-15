@@ -11,12 +11,7 @@ function solution(n, t, m, timetable) {
                 current = timeArr[m - 1] - 1;    
             }
         } else {
-            if (queue > m) {
-                timeArr.splice(0, m);
-            }
-            if (queue <= m) {
-                timeArr.splice(0, queue);
-            }
+            timeArr.splice(0, queue > m ? m : queue);
             current += t;
         }
     }
