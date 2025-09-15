@@ -200,4 +200,4 @@
 | 다단계 칫솔 판매             | https://school.programmers.co.kr/learn/courses/30/lessons/77486  | 2021 Dev-Matching: 웹 백엔드 개발자(상반기) |                |
 | [1차] 셔틀버스               | https://school.programmers.co.kr/learn/courses/30/lessons/17678  | 2018 KAKAO BLIND RECRUITMENT                |                |
 | 거스름돈                     | https://school.programmers.co.kr/learn/courses/30/lessons/12907  | 연습문제                                    | DP             |
-| 풍선 터뜨리기                | https://school.programmers.co.kr/learn/courses/30/lessons/68646  | 월간 코드 챌린지 시즌 1                     |                |
+| 풍선 터트리기                | https://school.programmers.co.kr/learn/courses/30/lessons/68646  | 월간 코드 챌린지 시즌 1                     |                |
