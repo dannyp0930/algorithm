@@ -203,3 +203,4 @@
 | 풍선 터트리기                | https://school.programmers.co.kr/learn/courses/30/lessons/68646  | 월간 코드 챌린지 시즌 1                     |                |
 | 정수 삼각형                  | https://school.programmers.co.kr/learn/courses/30/lessons/43105  | 동적계획법(Dynamic Programing)              |                |
 | 뒤에 있는 큰 수 찾기         | https://school.programmers.co.kr/learn/courses/30/lessons/154539 | 연습문제                                    |                |
+| 두 큐 합 같게 만들기         | https://school.programmers.co.kr/learn/courses/30/lessons/118667 | 2022 KAKAO TECH INTERNSHIP                  | 투포인터       |
