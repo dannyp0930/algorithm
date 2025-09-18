@@ -206,3 +206,4 @@
 | 두 큐 합 같게 만들기         | https://school.programmers.co.kr/learn/courses/30/lessons/118667 | 2022 KAKAO TECH INTERNSHIP                  | 투포인터       |
 | 줄 서는 방법                 | https://school.programmers.co.kr/learn/courses/30/lessons/12936  | 연습문제                                    |                |
 | 과제 진행하기                | https://school.programmers.co.kr/learn/courses/30/lessons/176962 | 연습문제                                    |                |
+| 택배 배달과 수거하기         | https://school.programmers.co.kr/learn/courses/30/lessons/150369 | 2023 KAKAO BLIND RECRUITMENT                |                |
