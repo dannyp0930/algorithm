@@ -207,3 +207,4 @@
 | 줄 서는 방법                 | https://school.programmers.co.kr/learn/courses/30/lessons/12936  | 연습문제                                    |                |
 | 과제 진행하기                | https://school.programmers.co.kr/learn/courses/30/lessons/176962 | 연습문제                                    |                |
 | 택배 배달과 수거하기         | https://school.programmers.co.kr/learn/courses/30/lessons/150369 | 2023 KAKAO BLIND RECRUITMENT                |                |
+| 충돌위험 찾기                | https://school.programmers.co.kr/learn/courses/30/lessons/340211 | PCCP 기출문제                               |                |
