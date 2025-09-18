@@ -210,3 +210,4 @@
 | 충돌위험 찾기                | https://school.programmers.co.kr/learn/courses/30/lessons/340211 | PCCP 기출문제                               |                |
 | 완전범죄                     | https://school.programmers.co.kr/learn/courses/30/lessons/389480 | 2025 프로그래머스 코드챌린지 2차 예선       |                |
 | 유사 칸토어 비트열           | https://school.programmers.co.kr/learn/courses/30/lessons/148652 | 연습문제                                    |                |
+| 도넛과 막대 그래프           | https://school.programmers.co.kr/learn/courses/30/lessons/258711 | 2024 KAKAO WINTER INTERNSHIP                |                |
