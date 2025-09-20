@@ -215,3 +215,4 @@
 | 자물쇠와 열쇠                | https://school.programmers.co.kr/learn/courses/30/lessons/60059  | 2020 KAKAO BLIND RECRUITMENT                |                |
 | 합승 택시 요금               | https://school.programmers.co.kr/learn/courses/30/lessons/72413  | 2021 KAKAO BLIND RECRUITMENT                | 플로이드-워셜  |
 | 파괴되지 않은 건물           | https://school.programmers.co.kr/learn/courses/30/lessons/92344  | 2022 KAKAO TECH RECRUITMENT                 | 누적합         |
+| 인사고과                     | https://school.programmers.co.kr/learn/courses/30/lessons/152995 | 연습문제                                    |                |
