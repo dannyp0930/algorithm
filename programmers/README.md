@@ -213,3 +213,4 @@
 | 도넛과 막대 그래프           | https://school.programmers.co.kr/learn/courses/30/lessons/258711 | 2024 KAKAO WINTER INTERNSHIP                |                |
 | 당구연습                     | https://school.programmers.co.kr/learn/courses/30/lessons/169198 | 연습문제                                    |                |
 | 자물쇠와 열쇠                | https://school.programmers.co.kr/learn/courses/30/lessons/60059  | 2020 KAKAO BLIND RECRUITMENT                |                |
+| 합승 택시 요금               | https://school.programmers.co.kr/learn/courses/30/lessons/72413  | 2021 KAKAO BLIND RECRUITMENT                | 플로이드-워셜  |
