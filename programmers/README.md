@@ -218,3 +218,4 @@
 | 인사고과                     | https://school.programmers.co.kr/learn/courses/30/lessons/152995 | 연습문제                                    |                |
 | 표 편집                      | https://school.programmers.co.kr/learn/courses/30/lessons/81303  | 2021 카카오 채용연계형 인턴십               | 연결 리스트    |
 | 양과 늑대                    | https://school.programmers.co.kr/learn/courses/30/lessons/92343  | 2022 KAKAO BLIND RECRUITMENT                | 완전탐색       |
+| 길 찾기 게임                 | https://school.programmers.co.kr/learn/courses/30/lessons/42892  | 2019 KAKAO BLIND RECRUITMENT                | 이진탐색트리   |
