@@ -222,3 +222,4 @@
 | 표현 가능한 이진트리         | https://school.programmers.co.kr/learn/courses/30/lessons/150367 | 2023 KAKAO BLIND RECRUITMENT                | 이분탐색       |
 | 미로 탈출 명령어             | https://school.programmers.co.kr/learn/courses/30/lessons/150365 | 2023 KAKAO BLIND RECRUITMENT                |                |
 | 기둥과 보 설치               | https://school.programmers.co.kr/learn/courses/30/lessons/60061  | 2020 KAKAO BLIND RECRUITMENT                |                |
+| 광고 삽입                    | https://school.programmers.co.kr/learn/courses/30/lessons/72414  | 2021 KAKAO BLIND RECRUITMENT                | 누적합         |
