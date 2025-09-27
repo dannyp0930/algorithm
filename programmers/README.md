@@ -224,3 +224,4 @@
 | 기둥과 보 설치               | https://school.programmers.co.kr/learn/courses/30/lessons/60061  | 2020 KAKAO BLIND RECRUITMENT                |                |
 | 광고 삽입                    | https://school.programmers.co.kr/learn/courses/30/lessons/72414  | 2021 KAKAO BLIND RECRUITMENT                | 누적합         |
 | N으로 표현                   | https://school.programmers.co.kr/learn/courses/30/lessons/42895  | 동적계획법(Dynamic Programing)              |                |
+| 110 옮기기                   | https://school.programmers.co.kr/learn/courses/30/lessons/77886  | 월간 코드 챌린지 시즌2                      |                |
