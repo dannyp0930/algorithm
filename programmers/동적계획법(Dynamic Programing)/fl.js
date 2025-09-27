@@ -3,8 +3,6 @@ function solution(N, number) {
     const dp = Array.from(Array(9), () => new Set());
     for (let i = 1; i < 9; i++) {
         dp[i].add(Number(`${N}`.repeat(i)));
-    }
-    for (let i = 1; i < 9; i++) {
         for (let j = 1; j < i; j++) {
             for (const a of dp[j]) {
                 for (const b of dp[i - j]) {
