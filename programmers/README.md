@@ -227,3 +227,4 @@
 | 110 옮기기                   | https://school.programmers.co.kr/learn/courses/30/lessons/77886  | 월간 코드 챌린지 시즌2                      |                |
 | 외벽 점검                    | https://school.programmers.co.kr/learn/courses/30/lessons/60062  | 2020 KAKAO BLIND RECRUITMENT                |                |
 | 아날로그 시계                | https://school.programmers.co.kr/learn/courses/30/lessons/250135 | PCCP 기출문제                               |                |
+| 스타 수열                    | https://school.programmers.co.kr/learn/courses/30/lessons/70130  | 월간 코드 챌린지 시즌 1                     |                |
