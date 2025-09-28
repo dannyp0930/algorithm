@@ -226,3 +226,4 @@
 | N으로 표현                   | https://school.programmers.co.kr/learn/courses/30/lessons/42895  | 동적계획법(Dynamic Programing)              |                |
 | 110 옮기기                   | https://school.programmers.co.kr/learn/courses/30/lessons/77886  | 월간 코드 챌린지 시즌2                      |                |
 | 외벽 점검                    | https://school.programmers.co.kr/learn/courses/30/lessons/60062  | 2020 KAKAO BLIND RECRUITMENT                |                |
+| 아날로그 시계                | https://school.programmers.co.kr/learn/courses/30/lessons/250135 | PCCP 기출문제                               |                |
