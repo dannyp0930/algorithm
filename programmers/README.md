@@ -229,3 +229,4 @@
 | 아날로그 시계                | https://school.programmers.co.kr/learn/courses/30/lessons/250135 | PCCP 기출문제                               |                   |
 | 스타 수열                    | https://school.programmers.co.kr/learn/courses/30/lessons/70130  | 월간 코드 챌린지 시즌 1                     |                   |
 | 등산코스 정하기              | https://school.programmers.co.kr/learn/courses/30/lessons/118669 | 2022 KAKAO TECH INTERNSHIP                  | Queue, 다익스트라 |
+| 카운트 다운                  | https://school.programmers.co.kr/learn/courses/30/lessons/131129 | 연습문제                                    |                   |
