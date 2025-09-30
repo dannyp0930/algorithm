@@ -230,3 +230,4 @@
 | 스타 수열                    | https://school.programmers.co.kr/learn/courses/30/lessons/70130  | 월간 코드 챌린지 시즌 1                     |                   |
 | 등산코스 정하기              | https://school.programmers.co.kr/learn/courses/30/lessons/118669 | 2022 KAKAO TECH INTERNSHIP                  | Queue, 다익스트라 |
 | 카운트 다운                  | https://school.programmers.co.kr/learn/courses/30/lessons/131129 | 연습문제                                    |                   |
+| 선입 선출 스케줄링           | https://school.programmers.co.kr/learn/courses/30/lessons/12920  | 연습문제                                    | 이분탐색          |
