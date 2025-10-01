@@ -570,3 +570,4 @@
 | 17103\_골드바흐 파티션                     | https://www.acmicpc.net/problem/17103 |                                    |
 | 12891_DNA 비밀번호                         | https://www.acmicpc.net/problem/12891 |                                    |
 | 15681\_트리와 쿼리                         | https://www.acmicpc.net/problem/15681 |                                    |
+| 24480 알고리즘 수업 - 깊이 우선 탐색 2     | https://www.acmicpc.net/problem/24480 |                                    |
