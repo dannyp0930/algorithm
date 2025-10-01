@@ -575,3 +575,4 @@
 | 24445 알고리즘 수업 - 너비 우선 탐색 2     | https://www.acmicpc.net/problem/24445 |                                    |
 | 2230 수 고르기                             | https://www.acmicpc.net/problem/2230  |                                    |
 | 6198 옥상 정원 꾸미기                      | https://www.acmicpc.net/problem/6198  |                                    |
+| 1446 지름길                                | https://www.acmicpc.net/problem/1446  |                                    |
