@@ -573,3 +573,4 @@
 | 24480 알고리즘 수업 - 깊이 우선 탐색 2     | https://www.acmicpc.net/problem/24480 |                                    |
 | 11501 주식                                 | https://www.acmicpc.net/problem/11501 |                                    |
 | 24445 알고리즘 수업 - 너비 우선 탐색 2     | https://www.acmicpc.net/problem/24445 |                                    |
+| 2230 수 고르기                             | https://www.acmicpc.net/problem/2230  |                                    |
