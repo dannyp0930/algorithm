@@ -577,3 +577,4 @@
 | 6198 옥상 정원 꾸미기                      | https://www.acmicpc.net/problem/6198  |                                    |
 | 1446 지름길                                | https://www.acmicpc.net/problem/1446  |                                    |
 | 4358 생태학                                | https://www.acmicpc.net/problem/4358  |                                    |
+| 9934 완전 이진 트리                        | https://www.acmicpc.net/problem/9934  |                                    |
