@@ -579,4 +579,5 @@
 | 4358 생태학                                | https://www.acmicpc.net/problem/4358  |                                    |
 | 9934 완전 이진 트리                        | https://www.acmicpc.net/problem/9934  |                                    |
 | 15989 1,2,3 더하기 4                       | https://www.acmicpc.net/problem/15989 |                                    |
-| 1240_노드사이의 거리                       | https://www.acmicpc.net/problem/1240 |                                    |
+| 1240\_노드사이의 거리                      | https://www.acmicpc.net/problem/1240  |                                    |
+| 1520\_내리막 길                            | https://www.acmicpc.net/problem/1520  |                                    |
