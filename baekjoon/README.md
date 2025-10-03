@@ -582,3 +582,4 @@
 | 1240\_노드사이의 거리                      | https://www.acmicpc.net/problem/1240  |                                    |
 | 1520\_내리막 길                            | https://www.acmicpc.net/problem/1520  |                                    |
 | 17086\_아기 상어 2                         | https://www.acmicpc.net/problem/17086 |                                    |
+| 1713 후보 추천하기                         | https://www.acmicpc.net/problem/1713  |                                    |
