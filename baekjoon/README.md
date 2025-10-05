@@ -583,4 +583,5 @@
 | 1520\_내리막 길                            | https://www.acmicpc.net/problem/1520  |                                    |
 | 17086\_아기 상어 2                         | https://www.acmicpc.net/problem/17086 |                                    |
 | 1713 후보 추천하기                         | https://www.acmicpc.net/problem/1713  |                                    |
-| 20922 겹치는 건 싫어                         | https://www.acmicpc.net/problem/20922  |                                    |
+| 20922 겹치는 건 싫어                       | https://www.acmicpc.net/problem/20922 |                                    |
+| 30804 과일 탕후루                          | https://www.acmicpc.net/problem/30804 |                                    |
