@@ -585,3 +585,4 @@
 | 1713 후보 추천하기                         | https://www.acmicpc.net/problem/1713  |                                    |
 | 20922 겹치는 건 싫어                       | https://www.acmicpc.net/problem/20922 |                                    |
 | 30804 과일 탕후루                          | https://www.acmicpc.net/problem/30804 |                                    |
+| 6236 용돈 관리                             | https://www.acmicpc.net/problem/6236  |                                    |
