@@ -587,3 +587,4 @@
 | 30804 과일 탕후루                          | https://www.acmicpc.net/problem/30804 | 두 포인터                          |
 | 6236 용돈 관리                             | https://www.acmicpc.net/problem/6236  | 매개변수 탐색                      |
 | 2607 비슷한 단어                           | https://www.acmicpc.net/problem/2607  |                                    |
+| 5972 택배 배송                             | https://www.acmicpc.net/problem/5972  | 최소 힙                            |
