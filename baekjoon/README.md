@@ -590,3 +590,4 @@
 | 5972 택배 배송                             | https://www.acmicpc.net/problem/5972  | 최소 힙                            |
 | 12919 A와 B 2                              | https://www.acmicpc.net/problem/12919 |                                    |
 | 16987 계란으로 계란치기                    | https://www.acmicpc.net/problem/16987 |                                    |
+| 17087 숨바꼭질 6                           | https://www.acmicpc.net/problem/17087 |                                    |
