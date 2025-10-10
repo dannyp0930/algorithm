@@ -593,3 +593,4 @@
 | 17087 숨바꼭질 6                           | https://www.acmicpc.net/problem/17087 |                                    |
 | 2089 -2진수                                | https://www.acmicpc.net/problem/2089  |                                    |
 | 1189 컴백홈                                | https://www.acmicpc.net/problem/1189  |                                    |
+| 2502 떡 먹는 호랑이                        | https://www.acmicpc.net/problem/2502  |                                    |
