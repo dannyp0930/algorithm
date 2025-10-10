@@ -592,3 +592,4 @@
 | 16987 계란으로 계란치기                    | https://www.acmicpc.net/problem/16987 |                                    |
 | 17087 숨바꼭질 6                           | https://www.acmicpc.net/problem/17087 |                                    |
 | 2089 -2진수                                | https://www.acmicpc.net/problem/2089  |                                    |
+| 1189 컴백홈                                | https://www.acmicpc.net/problem/1189  |                                    |
