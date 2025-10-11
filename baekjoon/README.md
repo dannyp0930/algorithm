@@ -594,3 +594,4 @@
 | 2089 -2진수                                | https://www.acmicpc.net/problem/2089  |                                    |
 | 1189 컴백홈                                | https://www.acmicpc.net/problem/1189  |                                    |
 | 2502 떡 먹는 호랑이                        | https://www.acmicpc.net/problem/2502  |                                    |
+| 1254 팰린드롬 만들기                       | https://www.acmicpc.net/problem/1254  |                                    |
