@@ -595,3 +595,4 @@
 | 1189 컴백홈                                | https://www.acmicpc.net/problem/1189  |                                    |
 | 2502 떡 먹는 호랑이                        | https://www.acmicpc.net/problem/2502  |                                    |
 | 1254 팰린드롬 만들기                       | https://www.acmicpc.net/problem/1254  |                                    |
+| 16401 과자 나눠주기                        | https://www.acmicpc.net/problem/16401 |                                    |
