@@ -597,3 +597,4 @@
 | 1254 팰린드롬 만들기                       | https://www.acmicpc.net/problem/1254  |                                    |
 | 16401 과자 나눠주기                        | https://www.acmicpc.net/problem/16401 |                                    |
 | 2564 경비원                                | https://www.acmicpc.net/problem/2564  |                                    |
+| 2841 외계인의 기타 연주                    | https://www.acmicpc.net/problem/2841  |                                    |
