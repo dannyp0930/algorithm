@@ -601,3 +601,4 @@
 | 16918 봄버맨                               | https://www.acmicpc.net/problem/16918 |                                    |
 | 6497 전력난                                | https://www.acmicpc.net/problem/6497  | Kruscal                            |
 | 2240 자두나무                              | https://www.acmicpc.net/problem/2240  |                                    |
+| 4803 트리                                  | https://www.acmicpc.net/problem/4803  |                                    |
