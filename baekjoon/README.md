@@ -600,3 +600,4 @@
 | 2841 외계인의 기타 연주                    | https://www.acmicpc.net/problem/2841  |                                    |
 | 16918 봄버맨                               | https://www.acmicpc.net/problem/16918 |                                    |
 | 6497 전력난                                | https://www.acmicpc.net/problem/6497  | Kruscal                            |
+| 2240 자두나무                              | https://www.acmicpc.net/problem/2240  |                                    |
