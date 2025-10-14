@@ -602,3 +602,4 @@
 | 6497 전력난                                | https://www.acmicpc.net/problem/6497  | Kruscal                            |
 | 2240 자두나무                              | https://www.acmicpc.net/problem/2240  |                                    |
 | 4803 트리                                  | https://www.acmicpc.net/problem/4803  |                                    |
+| 3584 가장 가까운 공통 조상                 | https://www.acmicpc.net/problem/3584  |                                    |
