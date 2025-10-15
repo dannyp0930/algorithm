@@ -603,3 +603,4 @@
 | 2240 자두나무                              | https://www.acmicpc.net/problem/2240  |                                    |
 | 4803 트리                                  | https://www.acmicpc.net/problem/4803  |                                    |
 | 3584 가장 가까운 공통 조상                 | https://www.acmicpc.net/problem/3584  |                                    |
+| 18353 병사 배치하기                        | https://www.acmicpc.net/problem/18353 |                                    |
