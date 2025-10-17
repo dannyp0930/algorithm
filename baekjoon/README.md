@@ -612,3 +612,4 @@
 | 2688 줄어들지 않아                         | https://www.acmicpc.net/problem/2688  |                                    |
 | 6118 숨바꼭질                              | https://www.acmicpc.net/problem/6118  |                                    |
 | 2792 보석 상자                             | https://www.acmicpc.net/problem/2792  |                                    |
+| 1461 도서관                                | https://www.acmicpc.net/problem/1461  |                                    |
