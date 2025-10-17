@@ -609,3 +609,4 @@
 | 9658 돌 게임 4                             | https://www.acmicpc.net/problem/9658  |                                    |
 | 14468 소가 길을 건너간 이유 2              | https://www.acmicpc.net/problem/14468 |                                    |
 | 14465 소가 길을 건너간 이유 5              | https://www.acmicpc.net/problem/14465 |                                    |
+| 2688 줄어들지 않아                         | https://www.acmicpc.net/problem/2688  |                                    |
