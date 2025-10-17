@@ -611,3 +611,4 @@
 | 14465 소가 길을 건너간 이유 5              | https://www.acmicpc.net/problem/14465 |                                    |
 | 2688 줄어들지 않아                         | https://www.acmicpc.net/problem/2688  |                                    |
 | 6118 숨바꼭질                              | https://www.acmicpc.net/problem/6118  |                                    |
+| 2792 보석 상자                             | https://www.acmicpc.net/problem/2792  |                                    |
