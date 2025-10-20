@@ -616,3 +616,4 @@
 | 15961 회전 초밥                            | https://www.acmicpc.net/problem/15961 |                                    |
 | 14225 부분수열의 합                        | https://www.acmicpc.net/problem/14225 |                                    |
 | 1105 팔                                    | https://www.acmicpc.net/problem/1105  |                                    |
+| 13164 행복 유치원                          | https://www.acmicpc.net/problem/13164 |                                    |
