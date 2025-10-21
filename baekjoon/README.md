@@ -619,3 +619,4 @@
 | 13164 행복 유치원                          | https://www.acmicpc.net/problem/13164 |                                    |
 | 2138 전구와 스위치                         | https://www.acmicpc.net/problem/2138  |                                    |
 | 4811 알약                                  | https://www.acmicpc.net/problem/4811  |                                    |
+| 1958 LCS 3                                  | https://www.acmicpc.net/problem/1958  |                                    |
