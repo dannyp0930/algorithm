@@ -626,4 +626,5 @@
 | 13565 침투                                 | https://www.acmicpc.net/problem/13565 |                                    |
 | 5212 지구 온난화                           | https://www.acmicpc.net/problem/5212  |                                    |
 | 1515 수 이어 쓰기                          | https://www.acmicpc.net/problem/1515  |                                    |
-| 16198 에너지 모으기                          | https://www.acmicpc.net/problem/16198  |                                    |
+| 16198 에너지 모으기                        | https://www.acmicpc.net/problem/16198 |                                    |
+| 17615 볼 모으기                            | https://www.acmicpc.net/problem/17615 |                                    |
