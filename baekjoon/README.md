@@ -628,3 +628,4 @@
 | 1515 수 이어 쓰기                          | https://www.acmicpc.net/problem/1515  |                                    |
 | 16198 에너지 모으기                        | https://www.acmicpc.net/problem/16198 |                                    |
 | 17615 볼 모으기                            | https://www.acmicpc.net/problem/17615 |                                    |
+| 14716 현수막                            | https://www.acmicpc.net/problem/14716 |                                    |
