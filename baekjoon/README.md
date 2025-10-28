@@ -629,3 +629,4 @@
 | 16198 에너지 모으기                        | https://www.acmicpc.net/problem/16198 |                                    |
 | 17615 볼 모으기                            | https://www.acmicpc.net/problem/17615 |                                    |
 | 14716 현수막                            | https://www.acmicpc.net/problem/14716 |                                    |
+| 19583 싸이버개강총회                            | https://www.acmicpc.net/problem/19583 |                                    |
