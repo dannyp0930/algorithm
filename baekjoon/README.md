@@ -631,3 +631,4 @@
 | 14716 현수막                               | https://www.acmicpc.net/problem/14716 |                                    |
 | 19583 싸이버개강총회                       | https://www.acmicpc.net/problem/19583 |                                    |
 | 4889 안정적인 문자열                       | https://www.acmicpc.net/problem/4889  |                                    |
+| 2527 직사각형                              | https://www.acmicpc.net/problem/2527  |                                    |
