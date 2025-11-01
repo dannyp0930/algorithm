@@ -635,3 +635,4 @@
 | 1141 접두사                                | https://www.acmicpc.net/problem/1141  |                                    |
 | 9009 피보나치                              | https://www.acmicpc.net/problem/9009  |                                    |
 | 1283 단축키 지정                           | https://www.acmicpc.net/problem/1283  |                                    |
+| 1522 문자열 교환                           | https://www.acmicpc.net/problem/1522  |                                    |
