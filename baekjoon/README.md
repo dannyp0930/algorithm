@@ -638,3 +638,4 @@
 | 1522 문자열 교환                           | https://www.acmicpc.net/problem/1522  |                                    |
 | 7490 0 만들기                              | https://www.acmicpc.net/problem/7490  |                                    |
 | 16562 친구비                               | https://www.acmicpc.net/problem/16562 |                                    |
+| 3079 입국심사                              | https://www.acmicpc.net/problem/3079  |                                    |
