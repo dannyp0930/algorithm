@@ -641,3 +641,4 @@
 | 3079 입국심사                              | https://www.acmicpc.net/problem/3079  |                                    |
 | 17836 공주님을 구해라!                     | https://www.acmicpc.net/problem/17836 |                                    |
 | 20006 랭킹전 대기열                        | https://www.acmicpc.net/problem/20006 |                                    |
+| 15661 링크와 스타트                        | https://www.acmicpc.net/problem/15661 |                                    |
