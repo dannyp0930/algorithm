@@ -646,3 +646,4 @@
 | 2002 추월                                  | https://www.acmicpc.net/problem/2002  |                                    |
 | 3187 양치기 꿍                             | https://www.acmicpc.net/problem/3187  |                                    |
 | 11123 양 한마리... 양 두마리...            | https://www.acmicpc.net/problem/11123 |                                    |
+| 15565 귀여운 라이언                        | https://www.acmicpc.net/problem/15565 |                                    |
