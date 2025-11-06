@@ -653,3 +653,4 @@
 | 2295 세 수의 합                            | https://www.acmicpc.net/problem/2295  |                                    |
 | 2436 공약수                                | https://www.acmicpc.net/problem/2436  |                                    |
 | 2116 주사위 쌓기                           | https://www.acmicpc.net/problem/2116  |                                    |
+| 4307 개미                                  | https://www.acmicpc.net/problem/4307  |                                    |
