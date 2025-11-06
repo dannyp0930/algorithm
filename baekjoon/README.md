@@ -650,3 +650,4 @@
 | 4883 삼각 그래프                           | https://www.acmicpc.net/problem/4883  |                                    |
 | 1342 행운의 문자열                         | https://www.acmicpc.net/problem/1342  |                                    |
 | 12869 뮤탈리스크                           | https://www.acmicpc.net/problem/12869 |                                    |
+| 2295 세 수의 합                            | https://www.acmicpc.net/problem/2295  |                                    |
