@@ -655,3 +655,4 @@
 | 2116 주사위 쌓기                           | https://www.acmicpc.net/problem/2116  |                                    |
 | 4307 개미                                  | https://www.acmicpc.net/problem/4307  |                                    |
 | 21758 꿀 따기                              | https://www.acmicpc.net/problem/21758 |                                    |
+| 17141 연구소 2                             | https://www.acmicpc.net/problem/17141 |                                    |
