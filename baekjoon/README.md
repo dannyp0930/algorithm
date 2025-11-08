@@ -659,3 +659,4 @@
 | 15900 나무 탈출                            | https://www.acmicpc.net/problem/15900 |                                    |
 | 1911 흙길 보수하기                         | https://www.acmicpc.net/problem/1911  |                                    |
 | 16935 배열 돌리기 3                        | https://www.acmicpc.net/problem/16935 |                                    |
+| 1484 다이어트                              | https://www.acmicpc.net/problem/1484  |                                    |
