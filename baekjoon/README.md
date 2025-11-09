@@ -661,3 +661,4 @@
 | 16935 배열 돌리기 3                        | https://www.acmicpc.net/problem/16935 |                                    |
 | 1484 다이어트                              | https://www.acmicpc.net/problem/1484  |                                    |
 | 18428 감시 피하기                          | https://www.acmicpc.net/problem/18428 |                                    |
+| 1456 거의 소수                             | https://www.acmicpc.net/problem/1456  |                                    |
