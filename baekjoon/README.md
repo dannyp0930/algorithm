@@ -663,3 +663,4 @@
 | 18428 감시 피하기                          | https://www.acmicpc.net/problem/18428 |                                    |
 | 1456 거의 소수                             | https://www.acmicpc.net/problem/1456  |                                    |
 | 1722 순열의 순서                           | https://www.acmicpc.net/problem/1722  |                                    |
+| 1374 강의실                                | https://www.acmicpc.net/problem/1374  |                                    |
