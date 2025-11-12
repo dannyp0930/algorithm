@@ -665,3 +665,4 @@
 | 1722 순열의 순서                           | https://www.acmicpc.net/problem/1722  |                                    |
 | 1374 강의실                                | https://www.acmicpc.net/problem/1374  |                                    |
 | 20437 문자열 게임 2                        | https://www.acmicpc.net/problem/20437 |                                    |
+| 3758 KCPC                                  | https://www.acmicpc.net/problem/3758  |                                    |
