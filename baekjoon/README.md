@@ -669,3 +669,4 @@
 | 14728 벼락치기                             | https://www.acmicpc.net/problem/14728 |                                    |
 | 1347 미로 만들기                           | https://www.acmicpc.net/problem/1347  |                                    |
 | 1405 미친 로봇                             | https://www.acmicpc.net/problem/1405  |                                    |
+| 19598 최소 회의실 개수                     | https://www.acmicpc.net/problem/19598 |                                    |
