@@ -578,7 +578,7 @@
 | 1446 지름길                                | https://www.acmicpc.net/problem/1446  |                                    |
 | 4358 생태학                                | https://www.acmicpc.net/problem/4358  |                                    |
 | 9934 완전 이진 트리                        | https://www.acmicpc.net/problem/9934  |                                    |
-| 15989 1,2,3 더하기 4                       | https://www.acmicpc.net/problem/15989 |                                    |
+| 15989 1, 2, 3 더하기 4                     | https://www.acmicpc.net/problem/15989 |                                    |
 | 1240\_노드사이의 거리                      | https://www.acmicpc.net/problem/1240  |                                    |
 | 1520\_내리막 길                            | https://www.acmicpc.net/problem/1520  |                                    |
 | 17086\_아기 상어 2                         | https://www.acmicpc.net/problem/17086 |                                    |
@@ -670,3 +670,4 @@
 | 1347 미로 만들기                           | https://www.acmicpc.net/problem/1347  |                                    |
 | 1405 미친 로봇                             | https://www.acmicpc.net/problem/1405  |                                    |
 | 19598 최소 회의실 개수                     | https://www.acmicpc.net/problem/19598 |                                    |
+| 12101 1, 2, 3 더하기 2                     | https://www.acmicpc.net/problem/12101 |                                    |
