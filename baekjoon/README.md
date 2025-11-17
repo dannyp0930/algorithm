@@ -671,3 +671,4 @@
 | 1405 미친 로봇                             | https://www.acmicpc.net/problem/1405  |                                    |
 | 19598 최소 회의실 개수                     | https://www.acmicpc.net/problem/19598 |                                    |
 | 12101 1, 2, 3 더하기 2                     | https://www.acmicpc.net/problem/12101 |                                    |
+| 17610 양팔저울                             | https://www.acmicpc.net/problem/17610 |                                    |
