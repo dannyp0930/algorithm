@@ -676,3 +676,4 @@
 | 8983 사냥꾼                                | https://www.acmicpc.net/problem/8983  |                                    |
 | 9660 돌 게임 6                             | https://www.acmicpc.net/problem/9660  |                                    |
 | 15591 MooTube (Silver)                     | https://www.acmicpc.net/problem/15591 |                                    |
+| 11058 크리보드                             | https://www.acmicpc.net/problem/11058 |                                    |
