@@ -680,3 +680,4 @@
 | 14267 회사 문화 1                          | https://www.acmicpc.net/problem/14267 |                                    |
 | 16938 캠프 준비                            | https://www.acmicpc.net/problem/16938 |                                    |
 | 12761 돌다리                               | https://www.acmicpc.net/problem/12761 |                                    |
+| 15787 기차가 어둠을 헤치고 은하수를        | https://www.acmicpc.net/problem/15787 |                                    |
