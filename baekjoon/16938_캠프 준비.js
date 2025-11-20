@@ -7,7 +7,7 @@ const input =
 const [N, L, R, X] = input[0].split(" ").map(Number);
 const A = input[1].split(" ").map(Number);
 
-function solution(N, L, R, X, A) {
+function bitmasking(N, L, R, X, A) {
   let answer = 0;
   for (let i = 1; i < 1 << N; i++) {
     let cnt = 0;
@@ -30,4 +30,28 @@ function solution(N, L, R, X, A) {
   console.log(answer);
 }
 
-solution(N, L, R, X, A);
+function backtracking(N, L, R, X, A) {
+  let answer = 0;
+  A.sort((a, b) => a - b);
+  const dfs = (idx, cnt, totL, maxL, minL) => {
+    if (totL > R) return;
+    if (idx === N) {
+      if (cnt >= 2 && L <= totL && totL <= R && maxL - minL >= X) answer++;
+      return;
+    }
+    dfs(idx + 1, cnt, totL, maxL, minL);
+    const level = A[idx];
+    dfs(
+      idx + 1,
+      cnt + 1,
+      totL + level,
+      Math.max(maxL, level),
+      Math.min(minL, level)
+    );
+  };
+  dfs(0, 0, 0, 0, 1000000);
+  console.log(answer);
+}
+
+bitmasking(N, L, R, X, A);
+backtracking(N, L, R, X, A);
