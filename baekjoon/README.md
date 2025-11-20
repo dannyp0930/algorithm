@@ -677,3 +677,4 @@
 | 9660 돌 게임 6                             | https://www.acmicpc.net/problem/9660  |                                    |
 | 15591 MooTube (Silver)                     | https://www.acmicpc.net/problem/15591 |                                    |
 | 11058 크리보드                             | https://www.acmicpc.net/problem/11058 |                                    |
+| 14267 회사 문화 1                          | https://www.acmicpc.net/problem/14267 |                                    |
