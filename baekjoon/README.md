@@ -679,3 +679,4 @@
 | 11058 크리보드                             | https://www.acmicpc.net/problem/11058 |                                    |
 | 14267 회사 문화 1                          | https://www.acmicpc.net/problem/14267 |                                    |
 | 16938 캠프 준비                            | https://www.acmicpc.net/problem/16938 |                                    |
+| 12761 돌다리                               | https://www.acmicpc.net/problem/12761 |                                    |
