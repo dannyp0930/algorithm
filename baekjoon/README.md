@@ -682,3 +682,4 @@
 | 12761 돌다리                               | https://www.acmicpc.net/problem/12761 |                                    |
 | 15787 기차가 어둠을 헤치고 은하수를        | https://www.acmicpc.net/problem/15787 |                                    |
 | 11568 민균이의 계략                        | https://www.acmicpc.net/problem/11568 |                                    |
+| 1500 최대 곱                               | https://www.acmicpc.net/problem/1500  |                                    |
