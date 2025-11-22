@@ -687,3 +687,4 @@
 | 6987 월드컵                                | https://www.acmicpc.net/problem/6987  |                                    |
 | 19942 다이어트                             | https://www.acmicpc.net/problem/19942 |                                    |
 | 15965 K번째 소수                           | https://www.acmicpc.net/problem/15965 |                                    |
+| 12026 BOJ 거리                             | https://www.acmicpc.net/problem/12026 |                                    |
