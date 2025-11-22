@@ -686,3 +686,4 @@
 | 7682 틱택토                                | https://www.acmicpc.net/problem/7682  |                                    |
 | 6987 월드컵                                | https://www.acmicpc.net/problem/6987  |                                    |
 | 19942 다이어트                             | https://www.acmicpc.net/problem/19942 |                                    |
+| 15965 K번째 소수                           | https://www.acmicpc.net/problem/15965 |                                    |
