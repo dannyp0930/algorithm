@@ -691,3 +691,4 @@
 | 1174 줄어드는 수                           | https://www.acmicpc.net/problem/1174  |                                    |
 | 14921 용액 합성하기                        | https://www.acmicpc.net/problem/14921 |                                    |
 | 2666 벽장문의 이동                         | https://www.acmicpc.net/problem/2666  |                                    |
+| 1790 수 이어 쓰기 2                        | https://www.acmicpc.net/problem/1790  |                                    |
