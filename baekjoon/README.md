@@ -689,3 +689,4 @@
 | 15965 K번째 소수                           | https://www.acmicpc.net/problem/15965 |                                    |
 | 12026 BOJ 거리                             | https://www.acmicpc.net/problem/12026 |                                    |
 | 1174 줄어드는 수                           | https://www.acmicpc.net/problem/1174  |                                    |
+| 14921 용액 합성하기                        | https://www.acmicpc.net/problem/14921 |                                    |
