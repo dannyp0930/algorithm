@@ -694,3 +694,4 @@
 | 1790 수 이어 쓰기 2                        | https://www.acmicpc.net/problem/1790  |                                    |
 | 13702 이상한 술집                          | https://www.acmicpc.net/problem/13702 |                                    |
 | 3649 로봇 프로젝트                         | https://www.acmicpc.net/problem/3649  |                                    |
+| 10835 카드게임                             | https://www.acmicpc.net/problem/10835 |                                    |
