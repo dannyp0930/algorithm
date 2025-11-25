@@ -695,3 +695,4 @@
 | 13702 이상한 술집                          | https://www.acmicpc.net/problem/13702 |                                    |
 | 3649 로봇 프로젝트                         | https://www.acmicpc.net/problem/3649  |                                    |
 | 10835 카드게임                             | https://www.acmicpc.net/problem/10835 |                                    |
+| 14430 자원 캐기                            | https://www.acmicpc.net/problem/14430 |                                    |
