@@ -696,3 +696,4 @@
 | 3649 로봇 프로젝트                         | https://www.acmicpc.net/problem/3649  |                                    |
 | 10835 카드게임                             | https://www.acmicpc.net/problem/10835 |                                    |
 | 14430 자원 캐기                            | https://www.acmicpc.net/problem/14430 |                                    |
+| 16943 숫자 재배치                          | https://www.acmicpc.net/problem/16943 |                                    |
