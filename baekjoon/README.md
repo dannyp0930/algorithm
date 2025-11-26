@@ -700,3 +700,4 @@
 | 14426 접두사 찾기                          | https://www.acmicpc.net/problem/14426 |                                    |
 | 5904 Moo 게임                              | https://www.acmicpc.net/problem/5904  |                                    |
 | 14248 점프 점프                            | https://www.acmicpc.net/problem/14248 |                                    |
+| 1326 폴짝폴짝                              | https://www.acmicpc.net/problem/1326  |                                    |
