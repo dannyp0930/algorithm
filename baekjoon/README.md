@@ -698,3 +698,4 @@
 | 14430 자원 캐기                            | https://www.acmicpc.net/problem/14430 |                                    |
 | 16943 숫자 재배치                          | https://www.acmicpc.net/problem/16943 |                                    |
 | 14426 접두사 찾기                          | https://www.acmicpc.net/problem/14426 |                                    |
+| 5904 Moo 게임                              | https://www.acmicpc.net/problem/5904  |                                    |
