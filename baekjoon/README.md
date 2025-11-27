@@ -701,3 +701,4 @@
 | 5904 Moo 게임                              | https://www.acmicpc.net/problem/5904  |                                    |
 | 14248 점프 점프                            | https://www.acmicpc.net/problem/14248 |                                    |
 | 1326 폴짝폴짝                              | https://www.acmicpc.net/problem/1326  |                                    |
+| 2671 잠수함식별                            | https://www.acmicpc.net/problem/2671  |                                    |
