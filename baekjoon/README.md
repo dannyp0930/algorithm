@@ -704,3 +704,4 @@
 | 2671 잠수함식별                            | https://www.acmicpc.net/problem/2671  |                                    |
 | 3980 선발 명단                             | https://www.acmicpc.net/problem/3980  |                                    |
 | 3067 Coins                                 | https://www.acmicpc.net/problem/3067  |                                    |
+| 14675 단절점과 단절선                      | https://www.acmicpc.net/problem/14675 |                                    |
