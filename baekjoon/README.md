@@ -706,3 +706,4 @@
 | 3067 Coins                                 | https://www.acmicpc.net/problem/3067  |                                    |
 | 14675 단절점과 단절선                      | https://www.acmicpc.net/problem/14675 |                                    |
 | 16174 점프왕 쩰리 (Large)                  | https://www.acmicpc.net/problem/16174 |                                    |
+| 16507 어두운 건 무서워                     | https://www.acmicpc.net/problem/16507 |                                    |
