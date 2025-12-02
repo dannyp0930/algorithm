@@ -708,3 +708,4 @@
 | 16174 점프왕 쩰리 (Large)                  | https://www.acmicpc.net/problem/16174 |                                    |
 | 16507 어두운 건 무서워                     | https://www.acmicpc.net/problem/16507 |                                    |
 | 1564 팩토리얼5                             | https://www.acmicpc.net/problem/1564  |                                    |
+| 1527 금민수                                | https://www.acmicpc.net/problem/1527  |                                    |
