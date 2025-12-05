@@ -717,3 +717,4 @@
 | 11509 풍선 맞추기                          | https://www.acmicpc.net/problem/11509 |                                    |
 | 2877 4와 7                                 | https://www.acmicpc.net/problem/2877  |                                    |
 | 15724 주지수                               | https://www.acmicpc.net/problem/15724 |                                    |
+| 25682 체스판 다시 칠하기 2                 | https://www.acmicpc.net/problem/25682 |                                    |
