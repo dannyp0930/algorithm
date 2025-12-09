@@ -721,3 +721,4 @@
 | 17845 수강 과목                            | https://www.acmicpc.net/problem/17845 |                                    |
 | 2229 조 짜기                               | https://www.acmicpc.net/problem/2229  |                                    |
 | 16927 배열 돌리기 2                        | https://www.acmicpc.net/problem/16927 |                                    |
+| 2608 로마 숫자                             | https://www.acmicpc.net/problem/2608  |                                    |
