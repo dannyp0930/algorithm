@@ -723,3 +723,4 @@
 | 16927 배열 돌리기 2                        | https://www.acmicpc.net/problem/16927 |                                    |
 | 2608 로마 숫자                             | https://www.acmicpc.net/problem/2608  |                                    |
 | 28278 스택                                 | https://www.acmicpc.net/problem/28278 |                                    |
+| 20920 영단어 암기는 괴로워                 | https://www.acmicpc.net/problem/20920 |                                    |
