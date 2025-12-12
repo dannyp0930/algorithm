@@ -726,3 +726,4 @@
 | 20920 영단어 암기는 괴로워                 | https://www.acmicpc.net/problem/20920 |                                    |
 | 12789 도키도키 간식드리미                  | https://www.acmicpc.net/problem/12789 |                                    |
 | 24313 알고리즘 수업 - 점근적 표기 1        | https://www.acmicpc.net/problem/24313 |                                    |
+| 4134 다음 소수                             | https://www.acmicpc.net/problem/4134  |                                    |
