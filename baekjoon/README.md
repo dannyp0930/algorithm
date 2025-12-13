@@ -727,3 +727,4 @@
 | 12789 도키도키 간식드리미                  | https://www.acmicpc.net/problem/12789 |                                    |
 | 24313 알고리즘 수업 - 점근적 표기 1        | https://www.acmicpc.net/problem/24313 |                                    |
 | 4134 다음 소수                             | https://www.acmicpc.net/problem/4134  |                                    |
+| 25192 인사성 밝은 곰곰이                   | https://www.acmicpc.net/problem/25192 |                                    |
