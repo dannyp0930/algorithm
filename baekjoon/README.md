@@ -728,3 +728,4 @@
 | 24313 알고리즘 수업 - 점근적 표기 1        | https://www.acmicpc.net/problem/24313 |                                    |
 | 4134 다음 소수                             | https://www.acmicpc.net/problem/4134  |                                    |
 | 25192 인사성 밝은 곰곰이                   | https://www.acmicpc.net/problem/25192 |                                    |
+| 28279 덱 2                                 | https://www.acmicpc.net/problem/28279 |                                    |
