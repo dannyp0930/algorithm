@@ -729,3 +729,4 @@
 | 4134 다음 소수                             | https://www.acmicpc.net/problem/4134  |                                    |
 | 25192 인사성 밝은 곰곰이                   | https://www.acmicpc.net/problem/25192 |                                    |
 | 28279 덱 2                                 | https://www.acmicpc.net/problem/28279 |                                    |
+| 4779 칸토어 집합                           | https://www.acmicpc.net/problem/4779  |                                    |
