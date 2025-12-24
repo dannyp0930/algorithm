@@ -735,3 +735,4 @@
 | 4659 비밀번호 발음하기                     | https://www.acmicpc.net/problem/4659  |                                    |
 | 24511 queuestack                           | https://www.acmicpc.net/problem/24511 |                                    |
 | 7795 먹을 것인가 먹힐 것인가               | https://www.acmicpc.net/problem/7795  |                                    |
+| 19941 햄버거 분배                          | https://www.acmicpc.net/problem/19941 |                                    |
