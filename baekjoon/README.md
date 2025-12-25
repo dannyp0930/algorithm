@@ -737,3 +737,4 @@
 | 7795 먹을 것인가 먹힐 것인가               | https://www.acmicpc.net/problem/7795  |                                    |
 | 19941 햄버거 분배                          | https://www.acmicpc.net/problem/19941 |                                    |
 | 21921 블로그                               | https://www.acmicpc.net/problem/21921 |                                    |
+| 2910 빈도 정렬                             | https://www.acmicpc.net/problem/2910  |                                    |
