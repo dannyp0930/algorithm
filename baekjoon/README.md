@@ -738,3 +738,4 @@
 | 19941 햄버거 분배                          | https://www.acmicpc.net/problem/19941 |                                    |
 | 21921 블로그                               | https://www.acmicpc.net/problem/21921 |                                    |
 | 2910 빈도 정렬                             | https://www.acmicpc.net/problem/2910  |                                    |
+| 2828 사과 담기 게임                        | https://www.acmicpc.net/problem/2828  |                                    |
