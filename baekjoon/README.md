@@ -739,3 +739,4 @@
 | 21921 블로그                               | https://www.acmicpc.net/problem/21921 |                                    |
 | 2910 빈도 정렬                             | https://www.acmicpc.net/problem/2910  |                                    |
 | 2828 사과 담기 게임                        | https://www.acmicpc.net/problem/2828  |                                    |
+| 1822 차집합                       | https://www.acmicpc.net/problem/1822  |                                    |
