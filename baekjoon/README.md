@@ -741,3 +741,4 @@
 | 2828 사과 담기 게임                        | https://www.acmicpc.net/problem/2828  |                                    |
 | 1822 차집합                                | https://www.acmicpc.net/problem/1822  |                                    |
 | 9996 한국이 그리울 땐 서버에 접속하지      | https://www.acmicpc.net/problem/9996  |                                    |
+| 18310 안테나                               | https://www.acmicpc.net/problem/18310 |                                    |
