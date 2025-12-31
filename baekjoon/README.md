@@ -744,3 +744,4 @@
 | 18310 안테나                               | https://www.acmicpc.net/problem/18310 |                                    |
 | 11441 합 구하기                            | https://www.acmicpc.net/problem/11441 |                                    |
 | 20291 파일 정리                            | https://www.acmicpc.net/problem/20291 |                                    |
+| 2012 등수 매기기                           | https://www.acmicpc.net/problem/2012  |                                    |
