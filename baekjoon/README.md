@@ -745,3 +745,4 @@
 | 11441 합 구하기                            | https://www.acmicpc.net/problem/11441 |                                    |
 | 20291 파일 정리                            | https://www.acmicpc.net/problem/20291 |                                    |
 | 2012 등수 매기기                           | https://www.acmicpc.net/problem/2012  |                                    |
+| 15688 수 정렬하기 5                        | https://www.acmicpc.net/problem/15688 |                                    |
