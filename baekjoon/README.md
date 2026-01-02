@@ -746,3 +746,4 @@
 | 20291 파일 정리                            | https://www.acmicpc.net/problem/20291 |                                    |
 | 2012 등수 매기기                           | https://www.acmicpc.net/problem/2012  |                                    |
 | 15688 수 정렬하기 5                        | https://www.acmicpc.net/problem/15688 |                                    |
+| 1388 바닥 장식                             | https://www.acmicpc.net/problem/1388  |                                    |
