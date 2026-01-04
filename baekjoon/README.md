@@ -748,3 +748,4 @@
 | 15688 수 정렬하기 5                        | https://www.acmicpc.net/problem/15688 |                                    |
 | 1388 바닥 장식                             | https://www.acmicpc.net/problem/1388  |                                    |
 | 10709 기상캐스터                           | https://www.acmicpc.net/problem/10709 |                                    |
+| 10431 줄세우기                             | https://www.acmicpc.net/problem/10431 |                                    |
