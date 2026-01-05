@@ -749,3 +749,4 @@
 | 1388 바닥 장식                             | https://www.acmicpc.net/problem/1388  |                                    |
 | 10709 기상캐스터                           | https://www.acmicpc.net/problem/10709 |                                    |
 | 10431 줄세우기                             | https://www.acmicpc.net/problem/10431 |                                    |
+| 1268 임시 반장 정하기                      | https://www.acmicpc.net/problem/1268  |                                    |
