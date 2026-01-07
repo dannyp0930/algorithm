@@ -751,3 +751,4 @@
 | 10431 줄세우기                             | https://www.acmicpc.net/problem/10431 |                                    |
 | 1268 임시 반장 정하기                      | https://www.acmicpc.net/problem/1268  |                                    |
 | 1758 알바생 강호                           | https://www.acmicpc.net/problem/1758  |                                    |
+| 13414 수강신청                             | https://www.acmicpc.net/problem/13414 |                                    |
