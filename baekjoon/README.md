@@ -753,3 +753,4 @@
 | 1758 알바생 강호                           | https://www.acmicpc.net/problem/1758  |                                    |
 | 13414 수강신청                             | https://www.acmicpc.net/problem/13414 |                                    |
 | 5347 LCM                                   | https://www.acmicpc.net/problem/5347  |                                    |
+| 19939 박 터뜨리기                          | https://www.acmicpc.net/problem/19939 |                                    |
