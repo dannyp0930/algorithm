@@ -755,3 +755,4 @@
 | 5347 LCM                                   | https://www.acmicpc.net/problem/5347  |                                    |
 | 19939 박 터뜨리기                          | https://www.acmicpc.net/problem/19939 |                                    |
 | 2870 수학숙제                              | https://www.acmicpc.net/problem/2870  |                                    |
+| 2567 색종이 - 2                            | https://www.acmicpc.net/problem/2567  |                                    |
