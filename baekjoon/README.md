@@ -764,3 +764,4 @@
 | 17266 어두운 굴다리                                 | https://www.acmicpc.net/problem/17266 |                                    |
 | 2422 한윤정이 이탈리아에 가서 아이스크림을 사먹는데 | https://www.acmicpc.net/problem/2422  |                                    |
 | 2303 숫자 게임                                      | https://www.acmicpc.net/problem/2303  |                                    |
+| 16173 점프왕 쩰리 (Small)                           | https://www.acmicpc.net/problem/16173 |                                    |
