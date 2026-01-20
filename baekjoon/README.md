@@ -766,3 +766,4 @@
 | 2303 숫자 게임                                      | https://www.acmicpc.net/problem/2303  |                                    |
 | 16173 점프왕 쩰리 (Small)                           | https://www.acmicpc.net/problem/16173 |                                    |
 | 9659 돌 게임 5                                      | https://www.acmicpc.net/problem/9659  |                                    |
+| 15624 피보나치 수 7                                 | https://www.acmicpc.net/problem/15624 |                                    |
