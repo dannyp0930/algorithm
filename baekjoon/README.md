@@ -770,3 +770,4 @@
 | 2417 정수 제곱근                                    | https://www.acmicpc.net/problem/2417  |                                    |
 | 19637 IF문 좀 대신 써줘                             | https://www.acmicpc.net/problem/19637 |                                    |
 | 18429 근손실                                        | https://www.acmicpc.net/problem/18429 |                                    |
+| 1755 숫자놀이                                       | https://www.acmicpc.net/problem/1755  |                                    |
