@@ -771,4 +771,5 @@
 | 19637 IF문 좀 대신 써줘                             | https://www.acmicpc.net/problem/19637 |                                    |
 | 18429 근손실                                        | https://www.acmicpc.net/problem/18429 |                                    |
 | 1755 숫자놀이                                       | https://www.acmicpc.net/problem/1755  |                                    |
-| 3613 Java vs C++                                       | https://www.acmicpc.net/problem/3613  |                                    |
+| 3613 Java vs C++                                    | https://www.acmicpc.net/problem/3613  |                                    |
+| 14469 소가 길을 건너간 이유 3                       | https://www.acmicpc.net/problem/14469 |                                    |
