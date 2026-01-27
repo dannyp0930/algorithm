@@ -773,3 +773,4 @@
 | 1755 숫자놀이                                       | https://www.acmicpc.net/problem/1755  |                                    |
 | 3613 Java vs C++                                    | https://www.acmicpc.net/problem/3613  |                                    |
 | 14469 소가 길을 건너간 이유 3                       | https://www.acmicpc.net/problem/14469 |                                    |
+| 14495 피보나치 비스무리한 수열                      | https://www.acmicpc.net/problem/14495 |                                    |
