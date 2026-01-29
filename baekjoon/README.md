@@ -776,3 +776,4 @@
 | 14495 피보나치 비스무리한 수열                      | https://www.acmicpc.net/problem/14495 |                                    |
 | 1448 삼각형 만들기                                  | https://www.acmicpc.net/problem/1448  |                                    |
 | 2852 NBA 농구                                       | https://www.acmicpc.net/problem/2852  |                                    |
+| 16398 행성 연결                                     | https://www.acmicpc.net/problem/16398 |                                    |
