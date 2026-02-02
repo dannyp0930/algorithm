@@ -781,3 +781,4 @@
 | 16165 걸그룹 마스터 준석이                          | https://www.acmicpc.net/problem/16165 |                                    |
 | 16922 로마 숫자 만들기                              | https://www.acmicpc.net/problem/16922 |                                    |
 | 14405 피카츄                                        | https://www.acmicpc.net/problem/14405 |                                    |
+| 3474 교수가 된 현우                                 | https://www.acmicpc.net/problem/3474  |                                    |
