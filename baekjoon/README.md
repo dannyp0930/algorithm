@@ -782,3 +782,4 @@
 | 16922 로마 숫자 만들기                              | https://www.acmicpc.net/problem/16922 |                                    |
 | 14405 피카츄                                        | https://www.acmicpc.net/problem/14405 |                                    |
 | 3474 교수가 된 현우                                 | https://www.acmicpc.net/problem/3474  |                                    |
+| 13144 List of Unique Numbers                        | https://www.acmicpc.net/problem/13144 |                                    |
