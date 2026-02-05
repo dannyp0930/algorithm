@@ -784,3 +784,4 @@
 | 3474 교수가 된 현우                                 | https://www.acmicpc.net/problem/3474  |                                    |
 | 13144 List of Unique Numbers                        | https://www.acmicpc.net/problem/13144 |                                    |
 | 5555 반지                                           | https://www.acmicpc.net/problem/5555  |                                    |
+| 2535 아시아 정보올림피아드                          | https://www.acmicpc.net/problem/2535  |                                    |
