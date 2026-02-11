@@ -786,3 +786,4 @@
 | 5555 반지                                           | https://www.acmicpc.net/problem/5555  |                                    |
 | 2535 아시아 정보올림피아드                          | https://www.acmicpc.net/problem/2535  |                                    |
 | 20125 쿠키의 신체 측정                              | https://www.acmicpc.net/problem/20125 |                                    |
+| 17952 과제는 끝나지 않아!                           | https://www.acmicpc.net/problem/17952 |                                    |
